@@ -1,3089 +1,750 @@
-# Welcome to the website of phoenix546.github.io
 
 <!DOCTYPE html>
-<html id="structuredContentTemplate_1-0" class="comp taxlevel-3  structuredContentTemplate article-html html mntl-html" data-ab="99,99,99,99,99,51,99,99,99,99,99,99,99,99,99,99,55,78,75" data-resource-version="3.141.0" lang="en" data-adhesive-refresh="billboard3" data-mantle-resource-version="3.12.464" data-tech-resource-version="3.141.0" data-tracking-container="true">				
-<!--
-<globe-environment environment="prod" application="tech" dataCenter="us-east-1"/>
--->
-<head class="loc head">				
-					
-					<script type="text/javascript">var OneTrustTCFStub=function(e){"use strict";var t=function(){var s=this;this.intializeIabStub=function(){var e=window;window.__tcfapi=s.executeTcfApi,s.addIabFrame(),e.receiveOTMessage=s.receiveIabMessage,(e.attachEvent||window.addEventListener)("message",e.receiveOTMessage,!1)},this.addIabFrame=function(){var e=window,t="__tcfapiLocator";e.frames[t]||(e.document.body?s.addLocator(t,"TCF"):setTimeout(s.addIabFrame,5))},this.addLocator=function(e,t){var a=window,i=a.document.createElement("iframe");i.style.cssText="display:none",i.name=e,i.setAttribute("title",t+" Locator"),a.document.body.appendChild(i)},this.receiveIabMessage=function(i){var n="string"==typeof i.data,e={};try{e=n?JSON.parse(i.data):i.data}catch(e){}if(e.__tcfapiCall){var c=e.__tcfapiCall.callId,o=e.__tcfapiCall.command,t=e.__tcfapiCall.parameter,a=e.__tcfapiCall.version;s.executeTcfApi(o,t,function(e,t){var a={__tcfapiReturn:{returnValue:e,success:t,callId:c,command:o}};i.source.postMessage(n?JSON.stringify(a):a,i.origin)},a)}},this.executeTcfApi=function(){for(var e=[],t=0;t<arguments.length;t++)e[t]=arguments[t];if(!e.length)return window.__tcfapi.a;var a=e[0],i=e[1],n=e[2],c=e[3];"function"==typeof n&&a&&("ping"===a?s.getPingRequest(n):s.addToQueue(a,i,n,c))},this.addToQueue=function(e,t,a,i){var n=window,c="__tcfapi";n[c].a=n[c].a||[],"ping"===e?s.getPingRequest(a):n[c].a.push([e,t,a,i])},this.getPingRequest=function(e){e&&e({gdprApplies:void 0,cmpLoaded:!1,cmpStatus:"stub",displayStatus:"stub",apiVersion:"2.0",cmpVersion:void 0,cmpId:void 0,gvlVersion:void 0,tcfPolicyVersion:void 0},!0)},this.intializeIabStub()},a=new t;return e.TCF=t,e.tcfStub=a,e}({});</script>
-					
-					    <link rel="preconnect" href="//js-sec.indexww.com">
-    <link rel="preconnect" href="//c.amazon-adsystem.com">
-    <link rel="preconnect" href="//cdn.adsafeprotected.com">
-    <link rel="preconnect" href="//securepubads.g.doubleclick.net">
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>The Heart of Thomas - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"c32f4d10-b340-46b9-9f54-e8ed26c96e0f","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"The_Heart_of_Thomas","wgTitle":"The Heart of Thomas","wgCurRevisionId":1021625129,"wgRevisionId":1021625129,"wgArticleId":18506409,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Japanese-language sources (ja)","Articles with short description","Short description is different from Wikidata","Use mdy dates from March 2021","Use American English from January 2021","All Wikipedia articles written in American English",
+"Articles containing Japanese-language text","Anime and manga articles with malformed first and last infobox parameters","Anime and manga articles with missing author parameters","CS1 French-language sources (fr)","Featured articles","Manga series","1974 manga","Moto Hagio","Romance anime and manga","Shogakukan manga","Shōjo manga","Shōnen-ai anime and manga","Manga adapted into films","Fantagraphics Books titles"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"The_Heart_of_Thomas","wgRelevantArticleId":18506409,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgStableRevisionId":1021625129,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,
+"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!1,"wgGELinkRecommendationsFrontendEnabled":!1,"wgWikibaseItemId":"Q1057361"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":
+"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.flaggedRevs.advanced","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.37.0-wmf.3"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/a/aa/Heart_of_Thomas_Moto_Hagio.jpg"/>
+<meta property="og:title" content="The Heart of Thomas - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/The_Heart_of_Thomas"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=The_Heart_of_Thomas&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=The_Heart_of_Thomas&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/The_Heart_of_Thomas"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-The_Heart_of_Thomas rootpage-The_Heart_of_Thomas skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	<div id="mw-indicator-featured-star" class="mw-indicator"><a href="/wiki/Wikipedia:Featured_articles" title="This is a featured article. Click here for more information."><img alt="This is a featured article. Click here for more information." src="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/20px-Cscr-featured.svg.png" decoding="async" width="20" height="19" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/30px-Cscr-featured.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/40px-Cscr-featured.svg.png 2x" data-file-width="462" data-file-height="438" /></a></div>
+	</div>
+	<h1 id="firstHeading" class="firstHeading" ><i>The Heart of Thomas</i></h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><div id="mw-fr-revisiontag" class="flaggedrevs_short flaggedrevs_stable_synced plainlinks noprint"><div class="flaggedrevs_short_basic"><span aria-disabled='false' title='Changes must be reviewed before being displayed on this page.' class='flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-articleSearch oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget'></span><span id='mw-fr-revisiontoggle' aria-disabled='false' title='show/hide details' class='fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget'></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div id="mw-fr-revisiondetails" class="flaggedrevs_short_details" style="display:none">This is the <a href="/wiki/Wikipedia:Pending_changes" title="Wikipedia:Pending changes">latest accepted revision</a>, <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:Log&amp;type=review&amp;page=The_Heart_of_Thomas">reviewed</a> on <i>5 May 2021</i>.</div>
+</div>
+</div>
+</div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Japanese manga series by Moto Hagio</div>
+<p class="mw-empty-elt">
 
-					
-					
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-<meta name="robots" content="max-image-preview:large, NOODP, NOYDIR" />
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<link rel="canonical" href="https://www.lifewire.com/copy-code-from-website-3486220" />
-<title>How to Copy Code From a Website</title>
-<meta name="description" content="Learn how to view code and copy any code you would like to use from any website using Chrome, Firefox, or Safari." itemprop="description">
-<meta name="emailcontenttype" content="STRUCTUREDCONTENT" />
-<meta name="emailvertical" content="LIFEWIRE" />
-<meta name="sailthru.author" content="Daniel Nations" />
-<meta name="sailthru.tags" content="internet-networking-and-security,web-development,css-and-html" />
-<!-- Pinterest Pins -->
-<meta itemprop="name" content="How to Easily Copy a Web Page&#39;s Code From Within Your Browser" />
-<meta property="article:section" content="Lifewire" />
-<!-- Facebook Open Graph Tags -->
-<meta property="fb:app_id" content="1833670990199396" />
-<meta property="og:type" content="article" />
-<meta property="og:site_name" content="Lifewire" />
-<meta property="og:url" content="https://www.lifewire.com/copy-code-from-website-3486220" />
-<meta property="og:title" content="How to Easily Copy a Web Page&#39;s Code From Within Your Browser" />
-<meta property="og:description" content="Learn how to view code and copy any code you would like to use from any website using Chrome, Firefox, or Safari." />
-<meta property="og:image" content="https://www.lifewire.com/thmb/3SZ--WGgZjBiGXUruFLq1x3YZQ4=/1273x847/filters:fill(auto,1)/GettyImages-666671538-5a924f056bf06900379aa8a0-c011db5a5d1b4e1ca222152a8cea3c3a.jpg" />
-<meta property="article:author" content="https://www.facebook.com/lifewire/" />
-<!-- Twitter Cards -->
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:site" content="@lifewire" />
-<meta name="twitter:title" content="How to Easily Copy a Web Page&#39;s Code From Within Your Browser" />
-<meta name="twitter:description" content="Learn how to view code and copy any code you would like to use from any website using Chrome, Firefox, or Safari." />
-<meta name="twitter:image" content="https://www.lifewire.com/thmb/3SZ--WGgZjBiGXUruFLq1x3YZQ4=/1273x847/filters:fill(auto,1)/GettyImages-666671538-5a924f056bf06900379aa8a0-c011db5a5d1b4e1ca222152a8cea3c3a.jpg" />
-					
-					<link type="text/css" rel="stylesheet" data-glb-css href="/static/3.141.0/cache/eNqtVluy2yAM3VAZL6JfnekmBJYxEwwehHOb3VdAnNgJfuTO_Qigg44AyZLSUIRoVKOImrTEX80CMQNoFKMFhb23LYbV7gDGPQE_jN6hi9RAS3n_alr0Wwr8q219mVYjzz0a3cffPTiNfw1FdBiqYNV-YMDiPJ9QEco7Nhcby2bzUCMN2BpoOqOngPfpE9vZH2VMPr2dunyNXaM5uBrNoHeNDAitCtMgabk-c1jP2uzopWicfpW_YWnACCthz4a8WePmae8rid7baMZ5rqnOtowXO1qvJ-9rL3xNXhmwovPW-q-1tHfxuyL1wF9SziUXWVygp9lHJDnF6B09TxmDcVEU-IhQ1-UNdtNFbOXJ1idMMUwqcta0D6jUnVf4Z41KY630EFpBTL3cxEbt-fgEHKt2tvTVpwffZyGtV5cSEAX8aU3x5LF9HGweTurnel_GH3CQcSmZ_mxa4y7wCA3dXZrj80RP8o4JjsHrItWKvJdk8yM7xFaCurwBNXLnw8CH4RdZjBGDIKPdNL4j1bLyPdocFfJTUEgCHIfBxLk-vYN7Pbuz-M9IfiVs-zLnfy7v2edbagcqhCpdJv2NIO_CLVeTlVBtwZ8oKz46D7VNbb0Ezo7Sp8q0HVKd_mukMosQVP8ibtOKWfGM4zty0GBmfbgulgecbrKWVEB0mbcWD7gpgUHFTFysd54Ig5yCfnllBTzqNamlpGq92ZjmzByD1wGJhISwEnbC3Hmf7lWm6k1Kjb130yythCOXZ8PF3Y_lOU56N62EA17rYwvUiw4GY28lUuy_d_jYH3XefzZCqx8.min.css"></link>
-
-					
-					<style type="text/css">/* these styles are copied from OneTrust's banner and are expected to be replaced entirely in phase 2 */
-#onetrust-banner-sdk {
--ms-text-size-adjust: 100%;
--webkit-text-size-adjust: 100%;
-}
-#onetrust-banner-sdk .onetrust-vendors-list-handler {
-cursor: pointer;
-color: #1f96db;
-font-size: inherit;
-font-weight: bold;
-text-decoration: none;
-display: block;
-margin-left: 0;
-}
-#onetrust-banner-sdk .onetrust-vendors-list-handler:hover {
-color: #1f96db;
-}
-#onetrust-consent-sdk #onetrust-banner-sdk a[href] {
-color: #501445;
-margin-left: 0;
-}
-#onetrust-banner-sdk .ot-close-icon {
-background-image: url("data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iMzQ4LjMzM3B4IiBoZWlnaHQ9IjM0OC4zMzNweCIgdmlld0JveD0iMCAwIDM0OC4zMzMgMzQ4LjMzNCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMzQ4LjMzMyAzNDguMzM0OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PGc+PHBhdGggZmlsbD0iIzU2NTY1NiIgZD0iTTMzNi41NTksNjguNjExTDIzMS4wMTYsMTc0LjE2NWwxMDUuNTQzLDEwNS41NDljMTUuNjk5LDE1LjcwNSwxNS42OTksNDEuMTQ1LDAsNTYuODVjLTcuODQ0LDcuODQ0LTE4LjEyOCwxMS43NjktMjguNDA3LDExLjc2OWMtMTAuMjk2LDAtMjAuNTgxLTMuOTE5LTI4LjQxOS0xMS43NjlMMTc0LjE2NywyMzEuMDAzTDY4LjYwOSwzMzYuNTYzYy03Ljg0Myw3Ljg0NC0xOC4xMjgsMTEuNzY5LTI4LjQxNiwxMS43NjljLTEwLjI4NSwwLTIwLjU2My0zLjkxOS0yOC40MTMtMTEuNzY5Yy0xNS42OTktMTUuNjk4LTE1LjY5OS00MS4xMzksMC01Ni44NWwxMDUuNTQtMTA1LjU0OUwxMS43NzQsNjguNjExYy0xNS42OTktMTUuNjk5LTE1LjY5OS00MS4xNDUsMC01Ni44NDRjMTUuNjk2LTE1LjY4Nyw0MS4xMjctMTUuNjg3LDU2LjgyOSwwbDEwNS41NjMsMTA1LjU1NEwyNzkuNzIxLDExLjc2N2MxNS43MDUtMTUuNjg3LDQxLjEzOS0xNS42ODcsNTYuODMyLDBDMzUyLjI1OCwyNy40NjYsMzUyLjI1OCw1Mi45MTIsMzM2LjU1OSw2OC42MTF6Ii8+PC9nPjwvc3ZnPg==");
-background-size: contain;
-background-repeat: no-repeat;
-background-position: center;
-height: 12px;
-width: 12px;
-}
-#onetrust-banner-sdk .powered-by-logo {
-background-image: url("data:image/svg+xml;base64,PHN2ZyBpZD0ic3ZnLXRlc3QiIHdpZHRoPSIxNTJweCIgaGVpZ2h0PSIyNXB4IiB2aWV3Qm94PSIwIDAgMTE1MiAxNDkiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+PHRpdGxlPlBvd2VyZWQgQnkgT25lVHJ1c3Q8L3RpdGxlPjxkZXNjPkxpbmsgdG8gT25lVHJ1c3QgV2Vic2l0ZTwvZGVzYz48ZyBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMjMuMDAwMDAwLCAtMjAuMDAwMDAwKSI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNjU4LjAwMDAwMCwgMC4wMDAwMDApIj48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtOTAuMDAwMDAwLCAzNS4wMDAwMDApIj48cGF0aCBkPSJNNzYuMTgsNDIuNiBDNzYuMTgsNTUuODUzMzMzMyA3Mi44NDY2NjY3LDY2LjI3MzMzMzMgNjYuMTgsNzMuODYgQzU5LjUxMzMzMzMsODEuNDQ2NjY2NyA1MC4xOCw4NS4yNCAzOC4xOCw4NS4yNCBDMjUuOTgsODUuMjQgMTYuNTg2NjY2Nyw4MS40OTMzMzMzIDEwLDc0IEMzLjQxMzMzMzMzLDY2LjUwNjY2NjcgMC4wOCw1NiAwLDQyLjQ4IEMwLDI5IDMuMzMzMzMzMzMsMTguNTQ2NjY2NyAxMCwxMS4xMiBDMTYuNjY2NjY2NywzLjY5MzMzMzMzIDI2LjA5MzMzMzMsLTAuMDEzMzMzMzMzMyAzOC4yOCwxLjc3NjM1Njg0ZS0xNSBDNTAuMTczMzMzMywxLjc3NjM1Njg0ZS0xNSA1OS40NiwzLjc3MzMzMzMzIDY2LjE0LDExLjMyIEM3Mi44MiwxOC44NjY2NjY3IDc2LjE2NjY2NjcsMjkuMjkzMzMzMyA3Ni4xOCw0Mi42IFogTTEwLjE4LDQyLjYgQzEwLjE4LDUzLjgxMzMzMzMgMTIuNTY2NjY2Nyw2Mi4zMiAxNy4zNCw2OC4xMiBDMjIuMTEzMzMzMyw3My45MiAyOS4wNiw3Ni44MTMzMzMzIDM4LjE4LDc2LjggQzQ3LjM1MzMzMzMsNzYuOCA1NC4yOCw3My45MTMzMzMzIDU4Ljk2LDY4LjE0IEM2My42NCw2Mi4zNjY2NjY3IDY1Ljk4NjY2NjcsNTMuODUzMzMzMyA2Niw0Mi42IEM2NiwzMS40NjY2NjY3IDYzLjY2NjY2NjcsMjMuMDIgNTksMTcuMjYgQzU0LjMzMzMzMzMsMTEuNSA0Ny40MjY2NjY3LDguNjEzMzMzMzMgMzguMjgsOC42IEMyOS4xMDY2NjY3LDguNiAyMi4xMzMzMzMzLDExLjUgMTcuMzYsMTcuMyBDMTIuNTg2NjY2NywyMy4xIDEwLjIsMzEuNTMzMzMzMyAxMC4yLDQyLjYgTDEwLjE4LDQyLjYgWiIgZmlsbD0iIzZGQkU0QSIgZmlsbC1ydWxlPSJub256ZXJvIi8+PHBhdGggZD0iTTEzNS43Miw4NC4xMiBMMTM1LjcyLDQ0IEMxMzUuNzIsMzguOTQ2NjY2NyAxMzQuNTY2NjY3LDM1LjE3MzMzMzMgMTMyLjI2LDMyLjY4IEMxMjkuOTUzMzMzLDMwLjE4NjY2NjcgMTI2LjM0NjY2NywyOC45NCAxMjEuNDQsMjguOTQgQzExNC45NDY2NjcsMjguOTQgMTEwLjE4NjY2NywzMC42OTMzMzMzIDEwNy4xNiwzNC4yIEMxMDQuMTMzMzMzLDM3LjcwNjY2NjcgMTAyLjYyLDQzLjUgMTAyLjYyLDUxLjU4IEwxMDIuNjIsODQuMTIgTDkzLjIyLDg0LjEyIEw5My4yMiwyMiBMMTAwLjg2LDIyIEwxMDIuMzgsMzAuNSBMMTAyLjg0LDMwLjUgQzEwNC43ODAyOTEsMjcuNDIzMzIwOCAxMDcuNTU0NjI5LDI0Ljk2MTA5NTYgMTEwLjg0LDIzLjQgQzExNC40NzA0MDcsMjEuNjg0NjUwMSAxMTguNDQ1MTUzLDIwLjgyMjY1NyAxMjIuNDYsMjAuODggQzEyOS45NCwyMC44OCAxMzUuNTY2NjY3LDIyLjY4IDEzOS4zNCwyNi4yOCBDMTQzLjExMzMzMywyOS44OCAxNDUsMzUuNjQ2NjY2NyAxNDUsNDMuNTggTDE0NSw4NC4xMiBMMTM1LjcyLDg0LjEyIFoiIGZpbGw9IiM2RkJFNEEiLz48cGF0aCBkPSJNMTkwLjY2LDg1LjI0IEMxODEuNDg2NjY3LDg1LjI0IDE3NC4yNDY2NjcsODIuNDQ2NjY2NyAxNjguOTQsNzYuODYgQzE2My42MzMzMzMsNzEuMjczMzMzMyAxNjAuOTY2NjY3LDYzLjUxMzMzMzMgMTYwLjk0LDUzLjU4IEMxNjAuOTQsNDMuNTggMTYzLjQwNjY2NywzNS42MzMzMzMzIDE2OC4zNCwyOS43NCBDMTczLjIyMjYxOCwyMy44NjE5ODg1IDE4MC41NjQ3MzQsMjAuNTkzODk2NCAxODguMiwyMC45IEMxOTUuMTkxODE5LDIwLjU3MjgzMjkgMjAxLjk2MzQ4MSwyMy4zOTAwNzkgMjA2LjY2LDI4LjU4IEMyMTEuMTkzMzMzLDMzLjcgMjEzLjQ2LDQwLjQ0NjY2NjcgMjEzLjQ2LDQ4LjgyIEwyMTMuNDYsNTQuODIgTDE3MC43Miw1NC44MiBDMTcwLjkwNjY2Nyw2Mi4xMTMzMzMzIDE3Mi43NDY2NjcsNjcuNjQ2NjY2NyAxNzYuMjQsNzEuNDIgQzE4MC4xMTE3NTIsNzUuMzQ5Njc5OSAxODUuNDkzNDg3LDc3LjQxMzQwNzggMTkxLDc3LjA4IEMxOTcuODI0MDU2LDc3LjA0NzIxMjYgMjA0LjU2OTE3Miw3NS42MTc4NzQzIDIxMC44Miw3Mi44OCBMMjEwLjgyLDgxLjI2IEMyMDcuNzg0MDg5LDgyLjU5OTM0ODMgMjA0LjYyMTYzLDgzLjYzMTE2NzYgMjAxLjM4LDg0LjM0IEMxOTcuODQ2NDU5LDg1LjAwMjk0OTUgMTk0LjI1NDYxNCw4NS4zMDQ1MDM3IDE5MC42Niw4NS4yNCBaIE0xODguMSwyOC43OCBDMTgzLjU3NjE0MywyOC41NTc4NDQzIDE3OS4xODQ4NTgsMzAuMzQzNjMzNyAxNzYuMSwzMy42NiBDMTcyLjkxNDg0NSwzNy40NTI2ODM2IDE3MS4wNzI2MjcsNDIuMTkxODIzNCAxNzAuODYsNDcuMTQgTDIwMy40LDQ3LjE0IEMyMDMuNCw0MS4yMDY2NjY3IDIwMi4wNjY2NjcsMzYuNjY2NjY2NyAxOTkuNCwzMy41MiBDMTk2LjU2MTUzOSwzMC4yODc5MjcgMTkyLjM5NDgzNiwyOC41NDAxMjQxIDE4OC4xLDI4Ljc4IFoiIGZpbGw9IiM2RkJFNEEiIGZpbGwtcnVsZT0ibm9uemVybyIvPjxwb2x5Z29uIGZpbGw9IiM2RkJFNEEiIHBvaW50cz0iMjU2LjQyIDg0LjEyIDI0Ni44IDg0LjEyIDI0Ni44IDkuODYgMjIwLjU2IDkuODYgMjIwLjU2IDEuMyAyODIuNTYgMS4zIDI4Mi41NiA5Ljg2IDI1Ni40MiA5Ljg2Ii8+PHBhdGggZD0iTTMyMiwyMC45IEMzMjQuNDg5OTcsMjAuODc1MDQzNSAzMjYuOTc2MDQzLDIxLjEwMjg3NzcgMzI5LjQyLDIxLjU4IEwzMjguMTIsMzAuMyBDMzI1Ljg4OTkyOCwyOS43Nzc0NDM3IDMyMy42MTAxOTcsMjkuNDk1ODI5OSAzMjEuMzIsMjkuNDYgQzMxNi4zMjMyMjQsMjkuNDUyMzMxOSAzMTEuNTkwMTM5LDMxLjcwMTI4MjEgMzA4LjQ0LDM1LjU4IEMzMDQuODEzMDc5LDM5LjgxMjUyMTcgMzAyLjkwMTA2LDQ1LjI0ODkzMzcgMzAzLjA4LDUwLjgyIEwzMDMuMDgsODQuMTIgTDI5My42OCw4NC4xMiBMMjkzLjY4LDIyIEwzMDEuNDQsMjIgTDMwMi41MiwzMy41IEwzMDIuOTgsMzMuNSBDMzA0Ljk5MjUxMiwyOS43ODQyOTY3IDMwNy44NDA3MDgsMjYuNTg2OTIyNyAzMTEuMywyNC4xNiBDMzE0LjQ1MjE4OSwyMi4wMTA1NjkyIDMxOC4xODQ4MTUsMjAuODczMzM5MyAzMjIsMjAuOSBaIiBmaWxsPSIjNkZCRTRBIi8+PHBhdGggZD0iTTM0OS44NiwyMiBMMzQ5Ljg2LDYyLjMgQzM0OS44Niw2Ny4zNjY2NjY3IDM1MS4wMTMzMzMsNzEuMTQgMzUzLjMyLDczLjYyIEMzNTUuNjI2NjY3LDc2LjEgMzU5LjIzMzMzMyw3Ny4zNDY2NjY3IDM2NC4xNCw3Ny4zNiBDMzcwLjYzMzMzMyw3Ny4zNiAzNzUuMzgsNzUuNTg2NjY2NyAzNzguMzgsNzIuMDQgQzM4MS4zOCw2OC40OTMzMzMzIDM4Mi44OCw2Mi43IDM4Mi44OCw1NC42NiBMMzgyLjg4LDIyIEwzOTIuMjgsMjIgTDM5Mi4yOCw4NCBMMzg0LjUyLDg0IEwzODMuMTYsNzUuNjggTDM4Mi42Niw3NS42OCBDMzgwLjcyNzg0MSw3OC43NDM5OTkgMzc3Ljk0OTA4Niw4MS4xODIzNTY0IDM3NC42Niw4Mi43IEMzNzAuOTkxNjY5LDg0LjM3ODQzNzcgMzY2Ljk5MzQzNCw4NS4yMTIyNTc2IDM2Mi45Niw4NS4xNCBDMzU1LjQxMzMzMyw4NS4xNCAzNDkuNzYsODMuMzQ2NjY2NyAzNDYsNzkuNzYgQzM0Mi4yNCw3Ni4xNzMzMzMzIDM0MC4zNiw3MC40MzMzMzMzIDM0MC4zNiw2Mi41NCBMMzQwLjM2LDIyIEwzNDkuODYsMjIgWiIgZmlsbD0iIzZGQkU0QSIvPjxwYXRoIGQ9Ik00NTIuMjgsNjcuMTggQzQ1Mi41Mjk0NjMsNzIuNDQwMjM3OSA0NTAuMDk3OTM1LDc3LjQ2ODkwOCA0NDUuODIsODAuNTQgQzQ0MS41MTMzMzMsODMuNjczMzMzMyA0MzUuNDczMzMzLDg1LjI0IDQyNy43LDg1LjI0IEM0MTkuNDczMzMzLDg1LjI0IDQxMy4wNTMzMzMsODMuOTA2NjY2NyA0MDguNDQsODEuMjQgTDQwOC40NCw3Mi42MiBDNDExLjQ5OTMzLDc0LjE1NjEyNzQgNDE0LjcxODgwOCw3NS4zNTAwMTcyIDQxOC4wNCw3Ni4xOCBDNDIxLjI2NjI2OSw3Ny4wMjM0NzU0IDQyNC41ODUzNTMsNzcuNDYwMTk3IDQyNy45Miw3Ny40OCBDNDMxLjgzNDc3OSw3Ny42OTY2NzY5IDQzNS43Mzc5MzQsNzYuODgyOTQ0OCA0MzkuMjQsNzUuMTIgQzQ0MS41ODM0NTQsNzMuNzgyODg3MyA0NDMuMDk1MDUyLDcxLjM1NDYwNjkgNDQzLjI2MDM0Miw2OC42NjE1OTI4IEM0NDMuNDI1NjMxLDY1Ljk2ODU3ODggNDQyLjIyMjM0Myw2My4zNzM2NjYxIDQ0MC4wNiw2MS43NiBDNDM2LjI2OTg4Miw1OS4yMDM2NzM1IDQzMi4xNDQwMzIsNTcuMTg0NDk3MiA0MjcuOCw1NS43NiBDNDIzLjUwNjk2LDU0LjI2Njg2MjIgNDE5LjM3ODYzMSw1Mi4zMzY3MzQ3IDQxNS40OCw1MCBDNDEzLjI1NzUyOCw0OC42NDMwMTI1IDQxMS4zODEzNzIsNDYuNzg3Mzk4NyA0MTAsNDQuNTggQzQwOC43NjM4MDMsNDIuMzQ5OTE0IDQwOC4xNDkwNjgsMzkuODI4ODEwNyA0MDguMjIsMzcuMjggQzQwOC4wODg0MjEsMzIuNDg1NDY1OSA0MTAuNDIwNDMxLDI3Ljk1NzI5MjkgNDE0LjQsMjUuMjggQzQxOC41MiwyMi4zNiA0MjQuMTY2NjY3LDIwLjkgNDMxLjM0LDIwLjkgQzQzOC4wNzczMDMsMjAuODg3MjM1NiA0NDQuNzQ2NDY3LDIyLjI0ODI4OTUgNDUwLjk0LDI0LjkgTDQ0Ny42LDMyLjU0IEM0NDIuMjU3ODUzLDMwLjE2NDY0MTUgNDM2LjUwMzg2NCwyOC44NTM1MjAxIDQzMC42NiwyOC42OCBDNDI3LjIwODI3LDI4LjQ0NzgwNDQgNDIzLjc1NjkwNiwyOS4xMzgwNzczIDQyMC42NiwzMC42OCBDNDE4LjU0MDM2NCwzMS44MjQ4NzE4IDQxNy4yMzA4MTEsMzQuMDUxMTEzNSA0MTcuMjYsMzYuNDYgQzQxNy4yMTk0LDM3Ljk3NDIzNDMgNDE3LjY2ODI5LDM5LjQ2MTE3OTkgNDE4LjU0LDQwLjcgQzQxOS42NTQ1ODEsNDIuMDkxMjU1MSA0MjEuMDUyMTIxLDQzLjIyOTczOTQgNDIyLjY0LDQ0LjA0IEM0MjYuMTY0NjA1LDQ1Ljc5ODYwNjggNDI5Ljc5ODc5LDQ3LjMyODQzODQgNDMzLjUyLDQ4LjYyIEM0NDAuODgsNTEuMjg2NjY2NyA0NDUuODUzMzMzLDUzLjk1MzMzMzMgNDQ4LjQ0LDU2LjYyIEM0NTEuMTA5Myw1OS40NjczMzg2IDQ1Mi40OTY4NjYsNjMuMjgzMTQ2NiA0NTIuMjgsNjcuMTggTDQ1Mi4yOCw2Ny4xOCBaIiBmaWxsPSIjNkZCRTRBIi8+PHBhdGggZD0iTTQ4Ny42Miw3Ny40OCBDNDg5LjIzMzY0LDc3LjQ4NzEwOTkgNDkwLjg0NTMyLDc3LjM2NjczNTQgNDkyLjQ0LDc3LjEyIEM0OTMuNjgwOTA2LDc2Ljk0MTMxMzIgNDk0LjkwOTgzLDc2LjY4NzUxMzcgNDk2LjEyLDc2LjM2IEw0OTYuMTIsODMuNTYgQzQ5NC42ODI0MDgsODQuMTY5MjYzOSA0OTMuMTY4NDY5LDg0LjU3OTcwOTQgNDkxLjYyLDg0Ljc4IEM0ODkuODQ4ODk4LDg1LjA4MTk1MSA0ODguMDU2NTcyLDg1LjI0MjQ1NzggNDg2LjI2LDg1LjI2IEM0NzQuMjYsODUuMjYgNDY4LjI2LDc4LjkzMzMzMzMgNDY4LjI2LDY2LjI4IEw0NjguMjYsMjkuMzQgTDQ1OS4zNiwyOS4zNCBMNDU5LjM2LDI0LjggTDQ2OC4yNiwyMC44IEw0NzIuMjYsNy41NCBMNDc3LjcsNy41NCBMNDc3LjcsMjIgTDQ5NS43LDIyIEw0OTUuNywyOS4zIEw0NzcuNywyOS4zIEw0NzcuNyw2NS44OCBDNDc3LjQ5MzYyOSw2OC45NzY4NTk0IDQ3OC40NDEyMDcsNzIuMDQwNDU4OCA0ODAuMzYsNzQuNDggQzQ4Mi4yMTQ5MjgsNzYuNTA3Nzc1MSA0ODQuODc0NzI1LDc3LjYwNjg2NDkgNDg3LjYyLDc3LjQ4IEw0ODcuNjIsNzcuNDggWiIgZmlsbD0iIzZGQkU0QSIvPjwvZz48L2c+PHRleHQgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXNpemU9IjkwIiBmb250LXdlaWdodD0iNTAwIiBmaWxsPSIjNjk2OTY5Ij48dHNwYW4geD0iMTQuMjU0ODgyOCIgeT0iMTEzIj5Qb3dlcmVkIGJ5PC90c3Bhbj48L3RleHQ+PC9nPjwvZz48L3N2Zz4=");
-background-size: contain;
-background-repeat: no-repeat;
-background-position: center;
-height: 25px;
-width: 152px;
-display: block;
-}
-#onetrust-banner-sdk h3 *,
-#onetrust-banner-sdk h4 *,
-#onetrust-banner-sdk h6 *,
-#onetrust-banner-sdk button *,
-#onetrust-banner-sdk a[data-parent-id] * {
-font-size: inherit;
-font-weight: inherit;
-color: inherit;
-}
-#onetrust-banner-sdk .hide {
-display: none !important;
-}
-@keyframes onetrust-fade-in {
-0% {
-opacity: 0;
-}
-100% {
-opacity: 1;
-}
-}
-#onetrust-banner-sdk {
-font-size: 16px;
-}
-#onetrust-banner-sdk *,
-#onetrust-banner-sdk::after,
-#onetrust-banner-sdk::before {
--webkit-box-sizing: content-box;
--moz-box-sizing: content-box;
-box-sizing: content-box;
-}
-#onetrust-banner-sdk div,
-#onetrust-banner-sdk span,
-#onetrust-banner-sdk h1,
-#onetrust-banner-sdk h2,
-#onetrust-banner-sdk h3,
-#onetrust-banner-sdk h4,
-#onetrust-banner-sdk h5,
-#onetrust-banner-sdk h6,
-#onetrust-banner-sdk p,
-#onetrust-banner-sdk img,
-#onetrust-banner-sdk svg,
-#onetrust-banner-sdk button,
-#onetrust-banner-sdk section,
-#onetrust-banner-sdk a,
-#onetrust-banner-sdk label,
-#onetrust-banner-sdk input,
-#onetrust-banner-sdk ul,
-#onetrust-banner-sdk li,
-#onetrust-banner-sdk nav,
-#onetrust-banner-sdk .main-content,
-#onetrust-banner-sdk .toggle,
-#onetrust-banner-sdk .checkbox {
-font-family: inherit;
-font-size: initial;
-font-weight: normal;
--webkit-font-smoothing: auto;
-letter-spacing: normal;
-line-height: normal;
-padding: 0;
-margin: 0;
-height: auto;
-min-height: 0;
-max-height: none;
-width: auto;
-min-width: 0;
-max-width: none;
-border-radius: 0;
-border: none;
-clear: none;
-float: none;
-position: static;
-bottom: auto;
-left: auto;
-right: auto;
-top: auto;
-text-align: left;
-text-decoration: none;
-text-indent: 0;
-text-shadow: none;
-text-transform: none;
-white-space: normal;
-background: none;
-overflow: visible;
-vertical-align: baseline;
-visibility: visible;
-z-index: auto;
-box-shadow: none;
-}
-#onetrust-banner-sdk label:before,
-#onetrust-banner-sdk label:after,
-#onetrust-banner-sdk .checkbox:after,
-#onetrust-banner-sdk .checkbox:before {
-content: "";
-content: none;
-}
-#onetrust-consent-sdk #onetrust-banner-sdk .ot-sdk-container {
-position: relative;
-width: 100%;
-max-width: 750px;
-margin: 0 auto;
-padding: 0 20px;
-box-sizing: border-box;
-}
-#onetrust-banner-sdk .ot-sdk-column,
-#onetrust-banner-sdk .ot-sdk-columns {
-width: 100%;
-float: left;
-box-sizing: border-box;
-padding: 0;
-display: initial;
-}
-@media (min-width: 400px) {
-#onetrust-banner-sdk .ot-sdk-container {
-width: 90%;
-padding: 0;
-}
-}
-@media (min-width: 550px) {
-#onetrust-banner-sdk .ot-sdk-container {
-width: 100%;
-}
-#onetrust-banner-sdk .ot-sdk-column,
-#onetrust-banner-sdk .ot-sdk-columns {
-margin-left: 4%;
-}
-#onetrust-banner-sdk .ot-sdk-column:first-child,
-#onetrust-banner-sdk .ot-sdk-columns:first-child {
-margin-left: 0;
-}
-#onetrust-banner-sdk .ot-sdk-one.ot-sdk-column,
-#onetrust-banner-sdk .ot-sdk-one.ot-sdk-columns {
-width: 4.66666666667%;
-}
-#onetrust-banner-sdk .ot-sdk-three.ot-sdk-columns {
-width: 22%;
-}
-#onetrust-banner-sdk .ot-sdk-four.ot-sdk-columns {
-width: 30.6666666667%;
-}
-#onetrust-banner-sdk .ot-sdk-eight.ot-sdk-columns {
-width: 65.3333333333%;
-}
-}
-#onetrust-banner-sdk h1,
-#onetrust-banner-sdk h2,
-#onetrust-banner-sdk h3,
-#onetrust-banner-sdk h4,
-#onetrust-banner-sdk h5,
-#onetrust-banner-sdk h6 {
-margin-top: 0;
-font-weight: 600;
-font-family: inherit;
-}
-#onetrust-banner-sdk h1 {
-font-size: 1.5rem;
-line-height: 1.2;
-}
-#onetrust-banner-sdk h2 {
-font-size: 1.5rem;
-line-height: 1.25;
-}
-#onetrust-banner-sdk h3 {
-font-size: 1.5rem;
-line-height: 1.3;
-}
-#onetrust-banner-sdk h4 {
-font-size: 1.5rem;
-line-height: 1.35;
-}
-#onetrust-banner-sdk h5 {
-font-size: 1.5rem;
-line-height: 1.5;
-}
-#onetrust-banner-sdk h6 {
-font-size: 1.5rem;
-line-height: 1.6;
-}
-@media (min-width: 550px) {
-#onetrust-banner-sdk h1 {
-font-size: 1.5rem;
-}
-#onetrust-banner-sdk h2 {
-font-size: 1.5rem;
-}
-#onetrust-banner-sdk h3 {
-font-size: 1.5rem;
-}
-#onetrust-banner-sdk h4 {
-font-size: 1.5rem;
-}
-#onetrust-banner-sdk h5 {
-font-size: 1.5rem;
-}
-#onetrust-banner-sdk h6 {
-font-size: 1.5rem;
-}
-}
-#onetrust-banner-sdk #onetrust-policy-title,
-#onetrust-banner-sdk .ot-dpd-title {
-font-size: 1.2em;
-line-height: 1.3;
-}
-#onetrust-banner-sdk p {
-margin: 0 0 1em 0;
-font-family: inherit;
-line-height: normal;
-}
-#onetrust-banner-sdk a {
-color: #501445;
-text-decoration: underline;
-}
-#onetrust-banner-sdk a:hover {
-color: #501445;
-text-decoration: none;
-}
-#onetrust-banner-sdk .ot-sdk-button,
-#onetrust-banner-sdk button {
-margin-bottom: 1rem;
-font-family: inherit;
-}
-#onetrust-banner-sdk .ot-sdk-button,
-#onetrust-banner-sdk button {
-display: inline-block;
-height: 38px;
-padding: 0 30px;
-color: #555;
-text-align: center;
-font-size: 0.9em;
-font-weight: 400;
-line-height: 38px;
-letter-spacing: 0.01em;
-text-decoration: none;
-white-space: nowrap;
-background-color: transparent;
-border-radius: 2px;
-border: 1px solid #bbb;
-cursor: pointer;
-box-sizing: border-box;
-}
-#onetrust-banner-sdk .ot-sdk-button:hover,
-#onetrust-banner-sdk .ot-sdk-button:focus,
-#onetrust-banner-sdk button:hover {
-color: #333;
-border-color: #888;
-outline: 0;
-opacity: 0.7;
-}
-#onetrust-banner-sdk label,
-#onetrust-banner-sdk legend {
-display: block;
-margin-bottom: 0.5rem;
-font-weight: 600;
-}
-#onetrust-banner-sdk fieldset {
-padding: 0;
-border-width: 0;
-}
-#onetrust-banner-sdk input[type="checkbox"] {
-display: inline;
-}
-#onetrust-banner-sdk ul {
-list-style: circle inside;
-}
-#onetrust-banner-sdk ol {
-list-style: decimal inside;
-}
-#onetrust-banner-sdk ol,
-#onetrust-banner-sdk ul {
-padding-left: 0;
-margin-top: 0;
-}
-#onetrust-banner-sdk ul ul,
-#onetrust-banner-sdk ul ol,
-#onetrust-banner-sdk ol ol,
-#onetrust-banner-sdk ol ul {
-margin: 1.5rem 0 1.5rem 3rem;
-font-size: 90%;
-}
-#onetrust-banner-sdk li {
-margin-bottom: 1rem;
-}
-#onetrust-banner-sdk .ot-sdk-container:after,
-#onetrust-banner-sdk .ot-sdk-row:after {
-content: "";
-display: table;
-clear: both;
-}
-#onetrust-banner-sdk .ot-sdk-row {
-margin: 0;
-max-width: none;
-display: block;
-margin: 0;
-}
-#onetrust-banner-sdk.otFlat {
-position: fixed;
-z-index: 2147483645;
-bottom: -689px;
-right: 0;
-left: 0;
-background-color: #fff;
-max-height: 90%;
-overflow-x: hidden;
-overflow-y: auto;
-}
-#onetrust-banner-sdk.show-banner {
-bottom: 0;
-}
-#onetrust-banner-sdk::-webkit-scrollbar {
-width: 11px;
-}
-#onetrust-banner-sdk::-webkit-scrollbar-thumb {
-border-radius: 10px;
-background: #c1c1c1;
-}
-#onetrust-banner-sdk {
-scrollbar-arrow-color: #c1c1c1;
-scrollbar-darkshadow-color: #c1c1c1;
-scrollbar-face-color: #c1c1c1;
-scrollbar-shadow-color: #c1c1c1;
-}
-#onetrust-banner-sdk #onetrust-policy {
-margin: 1em 0 0 5em;
-display: flex;
-flex-direction: column;
-}
-#onetrust-banner-sdk #onetrust-policy-text,
-#onetrust-banner-sdk .ot-dpd-desc {
-clear: both;
-text-align: left;
-font-size: .88em;
-line-height: 1.4;
-}
-#onetrust-banner-sdk #onetrust-policy-text * {
-font-size: inherit;
-}
-#onetrust-banner-sdk #onetrust-policy-text {
-color: #242729;
-float: left;
-}
-#onetrust-banner-sdk #onetrust-button-group-parent {
-min-height: 1px;
-text-align: center;
-}
-#onetrust-banner-sdk #onetrust-button-group {
-display: inline-block;
-}
-#onetrust-banner-sdk #onetrust-accept-btn-handler {
-background-color: #f9ed43;
-color: #34444c;
-border-color: #f9ed43;
-margin-right: 1em;
-min-width: 125px;
-}
-#onetrust-banner-sdk #onetrust-pc-btn-handler {
-background-color: #f9ed43;
-border: 1px solid #f9ed43;
-color: #34444c;
-min-width: 125px;
-margin-right: 1em;
-}
-#onetrust-banner-sdk #onetrust-accept-btn-handler,
-#onetrust-banner-sdk #onetrust-pc-btn-handler {
-height: auto;
-white-space: normal;
-word-break: break-word;
-word-wrap: break-word;
-padding: 12px 10px;
-line-height: 1.2;
-}
-#onetrust-banner-sdk #onetrust-pc-btn-handler.cookie-setting-link {
-background-color: #fff;
-border: none;
-color: #f9ed43;
-text-decoration: underline;
-padding-right: 0;
-}
-#onetrust-banner-sdk #onetrust-close-btn-container {
-text-align: center;
-}
-#onetrust-banner-sdk .onetrust-close-btn-ui {
-border: none;
-}
-#onetrust-banner-sdk .onetrust-close-btn-ui.onetrust-lg {
-top: 50%;
-margin: auto;
-transform: translate(-50%, -50%);
-position: absolute;
-padding: 0;
-}
-#onetrust-banner-sdk .banner_logo {
-display: none;
-}
-#onetrust-banner-sdk .ot-dpd-title {
-font-size: 1rem;
-margin-bottom: .5rem;
-margin-top: .5rem;
-}
-@media only screen and (max-width: 425px) {
-#onetrust-banner-sdk #onetrust-policy {
-margin-left: 0;
-}
-#onetrust-banner-sdk #onetrust-policy-title {
-display: inline-block;
-}
-#onetrust-banner-sdk .ot-hide-small {
-display: none;
-}
-#onetrust-banner-sdk #onetrust-button-group {
-display: block;
-}
-#onetrust-banner-sdk #onetrust-accept-btn-handler,
-#onetrust-banner-sdk #onetrust-pc-btn-handler {
-width: 100%;
-}
-#onetrust-banner-sdk .onetrust-close-btn-ui {
-float: right;
-padding: 0;
-}
-#onetrust-banner-sdk #onetrust-close-btn-container-mobile {
-display: inline;
-float: none;
-top: 5px;
-position: absolute;
-right: 0;
-}
-}
-@media only screen and (min-width: 426px)and (max-width: 896px) {
-#onetrust-banner-sdk #onetrust-policy {
-margin-left: 1em;
-}
-#onetrust-banner-sdk .onetrust-close-btn-ui.onetrust-lg {
-top: 25%;
-right: 2%;
-}
-#onetrust-banner-sdk #onetrust-group-container {
-width: 82.6666666667%;
-}
-#onetrust-banner-sdk #onetrust-button-group-parent {
-width: 100%;
-position: relative;
-margin-left: 0;
-}
-#onetrust-banner-sdk .ot-hide-large {
-display: none;
-}
-}
-@media only screen and (min-width: 1024px) {
-#onetrust-banner-sdk #onetrust-group-container {
-width: 60%;
-}
-#onetrust-banner-sdk #onetrust-button-group-parent {
-margin: auto;
-width: 36%;
-}
-#onetrust-banner-sdk.vertical-align-content #onetrust-button-group-parent {
-position: absolute;
-top: 50%;
-left: 60%;
-transform: translateY(-50%);
-}
-#onetrust-banner-sdk #onetrust-button-group {
-margin-right: auto !important;
-}
-#onetrust-banner-sdk #onetrust-policy {
-margin-left: 2em;
-}
-#onetrust-banner-sdk #onetrust-close-btn-container {
-float: right;
-}
-#onetrust-banner-sdk #onetrust-accept-btn-handler,
-#onetrust-banner-sdk #onetrust-pc-btn-handler {
-margin-top: 1em;
-}
-}
-@media only screen and (min-width: 769px) {
-#onetrust-banner-sdk .ot-hide-large {
-display: none;
-}
-#onetrust-banner-sdk #onetrust-button-group {
-margin-right: 30%;
-}
-}
-#onetrust-consent-sdk #onetrust-banner-sdk {
-background-color: #f3f3f6;
-}
-#onetrust-banner-sdk #onetrust-policy-text {
-margin-bottom: 1em;
-}
-#onetrust-policy-text > p {
-display: inline;
-}
-#onetrust-consent-sdk #onetrust-accept-btn-handler,
-#onetrust-consent-sdk #onetrust-pc-btn-handler {
-background-color: #f9ed43;
-border-color: #f9ed43;
-color: #34444c;
-}
-#onetrust-consent-sdk #onetrust-pc-btn-handler.cookie-setting-link {
-background-color: #f3f3f6;
-border-color: #f3f3f6;
-color: #501445;
-}
-#onetrust-banner-sdk:not(.show-banner) ~ .onetrust-pc-dark-filter {
-display: none;
-}
-/* Overlay styles */
-#onetrust-consent-sdk .onetrust-pc-dark-filter {
-background: rgba(0,0,0,0.5);
-z-index: 10000000 !important;
-width: 100%;
-height: 100%;
-overflow: hidden;
-position: fixed;
-top: 0;
-bottom: 0;
-left: 0;
-}
-#onetrust-consent-sdk .onetrust-pc-dark-filter.ot-fade-in {
-animation-name: onetrust-fade-in;
-animation-duration: 400ms;
-animation-timing-function: ease-in-out;
-}
-/* Start Lifewire Specific CSS */
-#onetrust-policy-title,
-.ot-dpd-title {
-color: #34444C;
-}
-#onetrust-banner-sdk .onetrust-vendors-list-handler {
-line-height: 1.4;
-}
-/* End Lifewire Specific CSS */
-#onetrust-banner-sdk {
-padding: 2rem 1rem;
-min-height: 30vh;
-}
-#onetrust-banner-sdk #onetrust-policy {
-margin: 0;
-}
-#onetrust-banner-sdk #onetrust-policy:after {
-content: "";
-display: table;
-clear: both;
-}
-#onetrust-banner-sdk #onetrust-button-group {
-display: flex;
-}
-#onetrust-banner-sdk button#onetrust-pc-btn-handler,
-#onetrust-banner-sdk button#onetrust-accept-btn-handler {
-flex: 1 0 auto;
-width: auto;
-line-height: 1;
-border: 0;
-margin: 0;
-}
-#onetrust-banner-sdk button#onetrust-accept-btn-handler {
-order: -1;
-text-transform: uppercase;
-padding: 14px 30px 12px 30px;
-}
-#onetrust-banner-sdk button#onetrust-pc-btn-handler {
-background-color: #cdd7dd;
-color: #31363b;
-text-decoration: none;
-}
-#onetrust-banner-sdk.ot-iab-2 #onetrust-policy-text {
-margin-bottom: .5rem;
-border-right: 0;
-width: auto;
-}
-#onetrust-banner-sdk .onetrust-vendors-list-handler {
-text-decoration: underline;
-margin-left: 0;
-}
-#onetrust-banner-sdk .ot-sdk-container {
-padding: 0;
-}
-#onetrust-banner-sdk #onetrust-policy-title {
-margin-bottom: .5rem;
-}
-#onetrust-banner-sdk .ot-dpd-container {
-/* display: none; */
-}
-#onetrust-banner-sdk #onetrust-group-container {
-margin-bottom: .5rem;
-width: 100%;
-display: flex;
-flex-direction: column;
-}
-#onetrust-banner-sdk .ot-sdk-row {
-display: flex;
-flex-direction: column;
-}
-#onetrust-banner-sdk #onetrust-close-btn-container {
-position: absolute;
-text-align: center;
-top: .5rem;
-right: 0;
-}
-#onetrust-banner-sdk.vertical-align-content #onetrust-button-group-parent {
-position: static;
-transform: none;
-top: auto;
-left: auto;
-margin-left: 0;
-}
-#onetrust-policy-text>p {
-display: inline;
-}
-/* hide our partners link. */
-#onetrust-banner-sdk #onetrust-policy-text > a.onetrust-vendors-list-handler {
-display: none;
-}
-#onetrust-banner-sdk #onetrust-policy-text a {
-margin-left: 0;
-}
-#onetrust-banner-sdk #banner-options .banner-option-header {
-display: flex
-}
-#onetrust-banner-sdk #banner-options .banner-option {
-border-left: 0;
-padding-left: 0;
-margin-left: 0;
-width: 100%;
-margin-bottom: 0;
-}
-#onetrust-banner-sdk #banner-options {
-float: none;
-display: flex;
-margin-right: 0;
-margin-left: 0;
-width: 100%;
-flex-direction: column;
-flex: 0 1 0;
-}
-#onetrust-banner-sdk #banner-options .banner-option-header span {
-font-weight: bold;
-}
-#onetrust-banner-sdk #banner-options .banner-option-header :first-child {
-font-size: .875rem;
-}
-#onetrust-banner-sdk #banner-options .banner-option-header .arrow-container {
-display: block;
-border-top: 6px solid transparent;
-border-right: 0;
-border-bottom: 6px solid transparent;
-border-left: 8px solid dimgray;
-margin-right: 10px;
-margin-left: 0;
-height: 0;
-top: -1px;
-order: -1;
-position: relative;
-}
-#onetrust-banner-sdk #banner-options .banner-option-details {
-padding: .125rem;
-margin-right: 0;
-margin-bottom: 1rem;
-}
-#onetrust-banner-sdk li, #onetrust-pc-sdk li, #ot-sdk-cookie-policy li {
-margin-bottom: 0;
-}
-#onetrust-banner-sdk ul, #onetrust-pc-sdk ul, #ot-sdk-cookie-policy ul {
-list-style: disc inside;
-}
-.onetrust-pc-dark-filter + .onetrust-pc-dark-filter {
-display: none !important;
-}
-#onetrust-banner-sdk #onetrust-pc-btn-handler.cookie-setting-link {
-text-transform: uppercase;
-text-decoration: none;
-padding: 1rem 2rem;
-}
-#onetrust-banner-sdk #onetrust-button-group {
-flex-wrap: wrap;
-}
-#onetrust-banner-sdk #onetrust-button-group button {
-flex-basis: 100%;
-}
-@media only screen and (min-width: 640px) and (max-width: 896px) {
-#onetrust-banner-sdk #onetrust-policy {
-margin-left: 0;
-}
-#onetrust-banner-sdk #onetrust-group-container {
-display: flex;
-flex: 0;
-margin-right: 0;
-flex-direction: row;
-}
-#onetrust-banner-sdk #banner-options {
-float: none;
-display: flex;
-margin-top: 2rem;
-margin-right: 0;
-margin-left: 0;
-width: 100%;
-flex-direction: column;
-}
-#onetrust-banner-sdk .ot-sdk-row {
-flex-direction: column;
-align-items: flex-start;
-margin-right: 0;
-}
-#onetrust-banner-sdk .onetrust-close-btn-ui.onetrust-lg {
-top: -10px;
-transform: none;
-right: 0 !important;
-}
-#onetrust-banner-sdk #onetrust-button-group-parent {
-width: auto;
-}
-}
-@media only screen and (max-width: 896px) and (min-width: 426px) {
-#onetrust-banner-sdk .onetrust-close-btn-ui.onetrust-lg {
-right: 0 !important;
-}
-}
-@media only screen and (min-width: 769px) {
-#onetrust-banner-sdk #onetrust-button-group {
-flex-direction: row;
-}
-#onetrust-banner-sdk #onetrust-group-container {
-flex-direction: row;
-}
-#onetrust-banner-sdk #banner-options {
-margin-top: 2rem;
-}
-}
-@media only screen and (min-width: 897px) {
-#onetrust-banner-sdk .ot-sdk-row {
-flex-direction: column;
-align-items: flex-start;
-margin-right: 0;
-}
-#onetrust-banner-sdk .ot-sdk-container {
-padding: 0;
-max-width: 750px;
-}
-}
-@media (min-width: 400px) {
-#onetrust-banner-sdk .ot-sdk-container {
-width: 100%;
-}
-}
-@media (min-width: 425px) {
-#onetrust-banner-sdk #onetrust-button-group {
-flex-wrap: nowrap;
-}
-#onetrust-banner-sdk #onetrust-button-group button {
-flex-basis: auto;
-}
-}
-@media only screen and (max-width: 425px) {
-#onetrust-banner-sdk .onetrust-close-btn-ui {
-margin: 0;
-}
-#onetrust-banner-sdk #onetrust-close-btn-container.ot-hide-small {
-display: none;
-}
-}
-@media only screen and (min-width: 550px) {
-#onetrust-banner-sdk #banner-options .banner-option:not(:first-child) {
-border-left: 0;
-padding-left: 0;
-margin-left: 0;
-width: 100%;
-}
-}
-@media only screen and (min-width: 1024px) {
-#onetrust-banner-sdk.ot-iab-2 .ot-dpd-container {
-width: 100%;
-padding-left: 0;
-}
-}
-/* large screen text bump */
-/* @media only screen and (min-height: 1000px) and (min-width: 768px) {
-#onetrust-banner-sdk {
-padding: 3rem 2rem;
-}
-#onetrust-banner-sdk button,
-#onetrust-banner-sdk #onetrust-policy-text {
-font-size: 1.25em !important;
-}
-#onetrust-banner-sdk #onetrust-policy-title {
-font-size: 1.75em !important;
-}
-} */
-/* hack to show third party consent link */
-.show-link {
-display: inline !important;
-}</style>
-					
-					<script type="text/javascript" data-glb-js="top" src="/static/3.141.0/cache/eNptkVtOxDAMRTdElD2AEF9Io1E3kIenY_JwcZwZldWTjhCkJZ8-vva9iXURI-j0R9GRjAf_pH9IRFs2vJpQf2GrF4rrBWPs2Q2yJ9aJPHDGL1bJZInQSxxRQCj_1n9W4LUIY557eRWMKP1Ag5eshtxTGjfeTtMgplyZ5BCPoTUrTGxcOESxDCYshFl2uwXcdey6VFuq7cnL-6kvz9PzbtNmehb72iLsPZJZ7V9MR2mhvGm08Y_PmxfZGZsZ1A3hPhqZJT3uENEFJcd3dsJ2jOqkMnjlKEtj21xxqpl-A1In0PU.min.js"></script>
-
-					
-					<script type="text/javascript">(function() {
-    Mntl.utilities.onLoad(function() {
-        var geolocationResponse = {};
-        geolocationResponse.countryCode = 'GB';
-        geolocationResponse.regionCode = 'EU';
-        if (Object.keys(geolocationResponse).length) {
-            window.OneTrust = window.OneTrust || {};
-            window.OneTrust.geolocationResponse = geolocationResponse;
-        }
-        Mntl.utilities.loadExternalJS({
-            src: '\//cdn.cookielaw.org/scripttemplates/otSDKStub.js',
-            'data-domain-script': '2ccf9fb4-196a-495d-a4cd-c9cefdad1418',
-            'data-ignore-ga': true,
-            'data-language': 'en',
-            async: true,
-            charset: 'UTF-8',
-            onerror: 'Mntl.CMP.onError()',
-            id: 'onetrust-script'
-        });
-    });
-    Mntl.CMP.init(true, true, 3000);
-})();
-var Mntl = window.Mntl || {};
-Mntl.RTB = Mntl.RTB || {};
-Mntl.RTB.setTaxonomyStampValues({"tax1":"lw_internet-networking-and-security","tax2":"lw_web-development","tax0":"lw_root","tax3":"lw_css-and-html"});
-Mntl.RTB.setTimeoutLength([500,800]);
-Mntl.RTB.Plugins.amazon.amazonConfigs = {"mapTaxValues":{"tax1":"lw_internet-networking-and-security","tax2":"lw_web-development","si_section":"lw_web-development","tax0":"lw_root","tax3":"lw_css-and-html"},"mapFBValues":{"billboard2":"156961604955316_223596311625178","billboard6":"156961604955316_223596311625178","billboard5":"156961604955316_223596311625178","billboard4":"156961604955316_223596311625178","billboard3":"156961604955316_223596311625178","leaderboard2":"156961604955316_223597498291726","billboard7":"156961604955316_223596311625178","billboard":"156961604955316_223596311625178","leaderboardac":"156961604955316_223596311625178","default":"156961604955316_223596311625178","leaderboardfooter2":"156961604955316_223597498291726","native":"156961604955316_223596311625178","leaderboardfooter":"156961604955316_223597498291726"},"amazonSlotName":false,"amazonSection":"CSS &amp; HTML"};
-Mntl.RTB.Plugins.s2s.s2sConfigs = {"partners":"","timeout":500};
-Mntl.RTB.initBidders([{ type: "amazon", id: '3222'},{ type: "ias", id: '926268'},{ type: "ixid", id: 'true'},{ type: "prebid", id: 'true'}]);
-Mntl.RTBTracking.init(['amazon','ias','ixid','prebid']);
-Mntl.RTB.Plugins.lotameLightning.init({"tax1":"lw_internet-networking-and-security","tax2":"lw_web-development","tax0":"lw","clientId":"10692","tax3":"lw_css-and-html"});
-Mntl.RTB.Plugins.prebid.setConfig({"billboard2":[{"bidder":"rubicon","params":{"accountId":"7499","siteId":"265596","zoneId":"1315052"}},{"bidder":"criteo","params":{"networkId":7764}},{"bidder":"ix","params":{"siteId":"211161","size":[300,600]}},{"bidder":"ix","params":{"siteId":"275168","size":[160,600]}},{"bidder":"ix","params":{"siteId":"211160","size":[300,250]}},{"bidder":"grid","params":{"uid":986}}],"billboard6":[{"bidder":"ix","params":{"siteId":"211165","size":[300,250]}},{"bidder":"grid","params":{"uid":990}},{"bidder":"criteo","params":{"networkId":7764}},{"bidder":"rubicon","params":{"accountId":"7499","siteId":"265596","zoneId":"1315098"}}],"leaderboard6":[{"bidder":"grid","params":{"uid":999}},{"bidder":"criteo","params":{"networkId":7764}}],"billboard5":[{"bidder":"ix","params":{"siteId":"211164","size":[300,250]}},{"bidder":"rubicon","params":{"accountId":"7499","siteId":"265596","zoneId":"1315094"}},{"bidder":"criteo","params":{"networkId":7764}},{"bidder":"grid","params":{"uid":989}}],"leaderboard5":[{"bidder":"grid","params":{"uid":998}},{"bidder":"criteo","params":{"networkId":7764}}],"billboard4":[{"bidder":"ix","params":{"siteId":"211163","size":[300,250]}},{"bidder":"ix","params":{"siteId":"257356","size":[300,600]}},{"bidder":"rubicon","params":{"accountId":"7499","siteId":"265596","zoneId":"1315084"}},{"bidder":"grid","params":{"uid":988}},{"bidder":"criteo","params":{"networkId":7764}}],"billboard3":[{"bidder":"grid","params":{"uid":987}},{"bidder":"rubicon","params":{"accountId":"7499","siteId":"265596","zoneId":"1315074"}},{"bidder":"ix","params":{"siteId":"211162","size":[300,250]}},{"bidder":"criteo","params":{"networkId":7764}}],"leaderboard2":[{"bidder":"grid","params":{"uid":995}},{"bidder":"criteo","params":{"networkId":7764}}],"leaderboard4":[{"bidder":"grid","params":{"uid":997}},{"bidder":"criteo","params":{"networkId":7764}}],"leaderboard3":[{"bidder":"grid","params":{"uid":996}},{"bidder":"criteo","params":{"networkId":7764}}],"billboard7":[{"bidder":"criteo","params":{"networkId":7764}},{"bidder":"grid","params":{"uid":991}},{"bidder":"ix","params":{"siteId":"211166","size":[300,250]}}],"leaderboardac":[{"bidder":"ix","params":{"siteId":"439082","size":[728,90]}},{"bidder":"grid","params":{"uid":1000}},{"bidder":"teads","params":{"pageId":119684,"placementId":127736}},{"bidder":"criteo","params":{"networkId":7764}},{"bidder":"grid","params":{"uid":35889}},{"bidder":"ix","params":{"siteId":"439127","size":[970,250]}}],"leaderboardfooterac":[{"bidder":"grid","params":{"uid":1003}}],"dynamic-inline0":[{"bidder":"criteo","params":{"networkId":7764}}],"dynamic-inline1":[{"bidder":"criteo","params":{"networkId":7764}}],"dynamic-inline2":[{"bidder":"criteo","params":{"networkId":7764}}],"leaderboardfooter2":[{"bidder":"criteo","params":{"networkId":7764}},{"bidder":"grid","params":{"uid":1002}},{"bidder":"ix","params":{"siteId":"211173","size":[970,250]}},{"bidder":"rubicon","params":{"accountId":"7499","siteId":"265596","zoneId":"1315288"}},{"bidder":"ix","params":{"siteId":"211172","size":[728,90]}}],"dynamic-inline3":[{"bidder":"criteo","params":{"networkId":7764}}],"dynamic-inline4":[{"bidder":"criteo","params":{"networkId":7764}}],"dynamic-inline5":[{"bidder":"criteo","params":{"networkId":7764}}],"adhesive":[{"bidder":"grid","params":{"uid":984}}],"dynamicinline":[{"bidder":"grid","params":{"uid":993}}],"billboard":[{"bidder":"grid","params":{"uid":985}},{"bidder":"ix","params":{"siteId":"211156","size":[160,600]}},{"bidder":"rubicon","params":{"accountId":"7499","siteId":"265596","zoneId":"1315030"}},{"bidder":"ix","params":{"siteId":"211159","size":[300,600]}},{"bidder":"ix","params":{"siteId":"211158","size":[300,250]}},{"bidder":"criteo","params":{"networkId":7764}}],"leaderboard":[{"bidder":"ix","params":{"siteId":"211167","size":[728,90]}},{"bidder":"grid","params":{"uid":994}},{"bidder":"criteo","params":{"networkId":7764}},{"bidder":"rubicon","params":{"accountId":"7499","siteId":"265596","zoneId":"1315212"}},{"bidder":"ix","params":{"siteId":"211168","size":[970,250]}}],"leaderboardfooter":[{"bidder":"rubicon","params":{"accountId":"7499","siteId":"265596","zoneId":"1315284"}},{"bidder":"ix","params":{"siteId":"211170","size":[728,90]}},{"bidder":"ix","params":{"siteId":"211171","size":[970,250]}},{"bidder":"grid","params":{"uid":1001}},{"bidder":"criteo","params":{"networkId":7764}}],"dynamic-inline":[{"bidder":"grid","params":{"uid":992}},{"bidder":"criteo","params":{"networkId":7764}}]});
-Mntl.RTB.Plugins.prebid.setPriceGranularity({"buckets":[{"max":"20","increment":"0.05"},{"max":"100","increment":"0.5"}]});
-Mntl.RTB.setLatencyBuffer(0);
-(function(){
-var pageTargeting = {
-rec: 0
-,customSeries: ''
-,tax0: 'lw'
-,custom: ''
-,rid: 'n21da3b3c7a1b48109068133083458b1d19'
-,sid: 'n21da3b3c7a1b48109068133083458b1d19'
-}
-;
-var baseSlotTargeting = {
-inf: '0'
-,entryType: 'direct'
-,leaid: '99959'
-,docId: '3486220'
-,ptax: 'lw_web-development'
-,vid: '0'
-,tax1: 'lw_internet-networking-and-security'
-,tax2: 'lw_web-development'
-,chpg: '1'
-,t: '110'
-,au: '92025'
-,tier: 'L'
-,jny: '0'
-,leuid: '153927276809133'
-,sbj: ''
-,aid: '4ffdaff01900ff5a228026df'
-,tax3: 'lw_css-and-html'
-,jnyroot: ''
-,tax4: ''
-}
-;
-pageTargeting.w = Mntl.utilities.getW();
-Tech.GPT.testIds(pageTargeting, baseSlotTargeting);
-Mntl.utilities.onLoad(function() {
-Mntl.utilities.loadExternalJS({
-src: '//www.googletagservices.com/tag/js/gpt.js',
-async: false
-});
-});
-var options = {
-domain: 'www.lifewire.com',
-isMobile: false,
-dfpId: '479',
-singleRequest: false,
-pageTargeting: pageTargeting,
-baseSlotTargeting: baseSlotTargeting,
-initialSlots: [{
-config: {
-id: 'leaderboard',
-sizes: [[728, 90], [970, 250], [970, 90], [1, 1]],
-type: 'leaderboard',
-rtb: true
-},
-targeting: Mntl.fnUtilities.deepExtend({}, {
-pos: 'atf',
-priority: 1
-,floor_id: '6b0071d655fa46398a141f5cf98a5e0c'
-,floor: 30
-})
-}],
-utils: {
-buildGptUrl: Tech.GPT.buildGptUrl,
-generateSlotId: Tech.GPT.generateSlotId
-},
-displayOnScroll: 'false',
-displayOnConsent: 'true'
-};
-Mntl.GPT.init(options);
-}());// moved from gtm.ftl so we can initialize GTM only onLoad. From https://support.google.com/tagmanager/answer/6103696?hl=en
-Mntl.utilities.onLoad(function() {
-(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;defer=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5P3SZGS');
-});
-var dataLayer = dataLayer || [];
-dataLayer.push({
-event: 'ab-proctor',
-'abTests-proctor': {
-"99-0"
-: "includeIAS | includeIAS | Include IAS script | 1"
-,
-"99-1"
-: "mediaGrid | active | active | 1"
-,
-"99-2"
-: "mapFBValues | hasFBMap | Using the FB map values | 1"
-,
-"99-3"
-: "pageLoadDesktopT4 | control | Control (lazy-load) | 0"
-,
-"99-4"
-: "rtbBiddingLatencyBuffer | control | control | 0"
-,
-"51"
-: "cmp | active | Active | 1"
-,
-"99-6"
-: "scMobileAdPositions | control | Control | 0"
-,
-"99-7"
-: "scDesktopAdPositions | control | control | 0"
-,
-"99-8"
-: "leaderboardacOffset | control | Control (default offset of 400) | 0"
-,
-"99-9"
-: "cmpTimeout | t1 | Test 1 | 1"
-,
-"99-10"
-: "pbTeads | teads | Teads | 1"
-,
-"99-11"
-: "prebid | ixId | Active with index identity adapter | 2"
-,
-"99-12"
-: "cssJsInjection | control | Control (no change) | 0"
-,
-"99-13"
-: "rtbTimeout | test2 | test2 | 2"
-,
-"99-14"
-: "commerceButtonOptimization_text | control | control | 0"
-,
-"99-15"
-: "cssJsInjection_tmobiletest | control | control | 0"
-,
-"55"
-: "journeysNextUp | version1 | Version 1 | 1"
-,
-"78"
-: "featuredLinkExternal | buttonNew | Button new style | 2"
-,
-"75"
-: "pageViewEventLoaded | delay | Page View triggered on Document Load | 1"
-}
-});
-dataLayer.push({
-envData: {
-environment: {
-environment: "prod",
-application: "tech",
-dataCenter: "us-east-1"
-},
-server: {
-version: "3.141.0",
-title: "tech-launcher"
-},
-client : {
-browserUA: navigator.userAgent,
-serverUA: "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
-deviceType: "pc",
-usStateCode: ""
-},
-mantle: "3.12.464",
-commerce: "2.32.1"
-}
-});
-(function(win, fnUtils) {
-var pageViewDataAsJSON = {"description":"Learn how to view code and copy any code you would like to use from any website using Chrome, Firefox, or Safari.","country":"GB","fullUrl":"https://www.lifewire.com/copy-code-from-website-3486220" + location.hash,"experienceType":"single page","entryType":"direct","excludeFromComscore":false,"socialImage":"","internalSessionId":"n21da3b3c7a1b48109068133083458b1d19","internalRequestId":"n21da3b3c7a1b48109068133083458b1d19","experienceTypeName":"","recircDocIdsFooter":"S-3469315|S-1174175|S-1174489|S-4159583|S-756549|S-1171956|S-1174305|S-2767250|S-1174291|S-1174274|S-4173513|S-2619210|S-4427671|S-3466725|S-1699969|S-1172814","euTrafficFlag":true,"mantleVersion":"3.12.464","commerceVersion":"2.32.1","primaryTaxonomyIds":"4074445|4781467|4781505|4781506","primaryTaxonomyNames":"Lifewire|Internet, Networking, & Security|Web Development|CSS & HTML","contentGroup":"Other","revenueGroup":"","templateName":"STRUCTUREDCONTENT","title":"How to Copy Code From a Website" || document.title || '',"documentId":3486220,"lastEditingAuthorId":"99959","lastEditingUserId":"153927276809133","templateId":"110","viewType":"","authorId":"92025"};
-var readyForThirdPartyTrackingEvent = new CustomEvent('readyForThirdPartyTracking', { bubbles: true });
-var readyForThirdPartyTracking = fnUtils.once(function() {
-dataLayer.push({event: 'readyForThirdPartyTracking'});
-window.dispatchEvent(readyForThirdPartyTrackingEvent);
-});
-[
-['adRendered', readyForThirdPartyTracking],
-['beforeunload', readyForThirdPartyTracking],
-['load', function() { setTimeout(readyForThirdPartyTracking, 5000); }]
-].forEach(function(event) {
-win.addEventListener(event[0], event[1], { once: true });
-});
-pageViewDataAsJSON.breakpointName = Tech.utilities.getW();
-pageViewDataAsJSON.bounceExchangeId = '2548';
-Mntl.utilities.onLoad(function() {
-Mntl.PageView.init(pageViewDataAsJSON);
-});
-})(window || {}, Mntl.fnUtilities || {});</script>
-					
-					<link rel="shortcut icon" href="/favicon.ico">
-<link rel="icon" type="image/x-icon" href="/favicon.ico">
-<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/static/3.141.0/icons/favicons/apple-touch-icon-57x57.png">
-<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/static/3.141.0/icons/favicons/apple-touch-icon-60x60.png">
-<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/static/3.141.0/icons/favicons/apple-touch-icon-76x76.png">
-<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/static/3.141.0/icons/favicons/apple-touch-icon-120x120.png">
-<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/static/3.141.0/icons/favicons/apple-touch-icon-152x152.png">
-<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/static/3.141.0/icons/favicons/apple-touch-icon-180x180.png">
-
-<meta name="msapplication-TileColor" content="#F4F4F4"/>
-<meta name="msapplication-TileImage" content="/static/3.141.0/icons/favicons/mstile-144x144.png">
-<meta name="msapplication-square70x70logo" content="/static/3.141.0/icons/favicons/mstile-70x70.png">
-<meta name="msapplication-square150x150logo" content="/static/3.141.0/icons/favicons/mstile-150x150.png">
-<meta name="msapplication-square310x310logo" content="/static/3.141.0/icons/favicons/mstile-310x310.png">
-<meta name="msapplication-wide310x150logo" content="/static/3.141.0/icons/favicons/mstile-310x150.png">
-
-
-					
-					<script id="schema-unified_1-0" class="comp  schema-unified mntl-schema-unified" type="application/ld+json" data-defer="load" data-defer-params></script><!-- end: comp schema-unified mntl-schema-unified -->		
-
-</head>		
-<body>
-<svg class="mntl-svg-resource is-hidden">
-<defs>
-<symbol id="icon-caret-right">
-<svg id="icon-caret-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 13">
-<path d="M16.7 5.7c.4.4.4 1.1 0 1.6l-5.5 5.4c-.7.7-2 .2-2-.8V1.1c0-1 1.2-1.5 2-.8l5.5 5.4z" fill-rule="evenodd" clip-rule="evenodd" fill="#f9ed43"/>
-<path d="M10.5 8.2c1 0 1.7-.8 1.7-1.7s-.8-1.7-1.7-1.7H2.7c-.9 0-1.7.7-1.7 1.7s.8 1.7 1.7 1.7h7.8z" fill="none" stroke="#f68c50" stroke-width="1.5"/>
-</svg> </symbol>
-<symbol id="icon-video">
-<svg id="icon-video" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 26">
-<g fill="none" fill-rule="evenodd" transform="translate(.196 1.2)">
-<path fill="#F9ED43" stroke="#34444C" stroke-width="1.12" d="M17.374 2.574a1.24 1.24 0 00-1.697.463l-1.244 2.195a1.256 1.256 0 00.469 1.714 1.24 1.24 0 001.696-.463l1.244-2.195a1.25 1.25 0 00.118-.955 1.273 1.273 0 00-.586-.759zm-14.076 0a1.24 1.24 0 011.696.463l1.244 2.195a1.256 1.256 0 01-.469 1.714 1.24 1.24 0 01-1.696-.463L2.829 4.288a1.25 1.25 0 01-.117-.955c.084-.305.284-.581.586-.759z"/>
-<ellipse cx="10.304" cy="14.14" fill="#F88C48" rx="10.304" ry="10.5"/>
-<ellipse cx="10.304" cy="14.14" fill="#34444C" rx="1.786" ry="1.82"/>
-<path fill="#F9ED43" stroke="#34444C" stroke-width="1.12" d="M11.55 2.153H9.058v2.48a1.243 1.243 0 001.247 1.247 1.243 1.243 0 001.247-1.247v-2.48z"/>
-<path fill="#34444C" d="M17.316 9.87c.153.27.061.61-.205.768l-5.702 3.354a.548.548 0 01-.756-.202.567.567 0 01.206-.768l5.702-3.354a.548.548 0 01.755.202z"/>
-<path fill="#F9ED43" stroke="#34444C" stroke-width="1.12" d="M7.27.84A1.256 1.256 0 008.53 2.1h3.547a1.256 1.256 0 001.26-1.26 1.256 1.256 0 00-1.26-1.26H8.53A1.256 1.256 0 007.27.84z"/>
-<path stroke="#34444C" stroke-linecap="round" stroke-width="1.12" d="M10.304 23.38v-2.256"/>
-</g>
-</svg> </symbol>
-<symbol id="icon-byline">
-<svg id="icon-byline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26.4 26.4">
-<path d="M13.2 26.4a13.2 13.2 0 1 1 13.2-13.2 13.21 13.21 0 0 1-13.2 13.2zm0-23.4a10.2 10.2 0 1 0 10.2 10.2A10.22 10.22 0 0 0 13.2 3z"/>
-<circle cx="13.28" cy="7.46" r="2"/>
-<path d="M13.29 20.8a1.75 1.75 0 0 1-1.75-1.75v-6.49a1.75 1.75 0 0 1 3.5 0v6.49a1.75 1.75 0 0 1-1.75 1.75z"/>
-</svg> </symbol>
-<symbol id="icon-facebook-color">
-<svg id="icon-facebook-color" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 43.8 34">
-<path d="M22.4,30.1V18.9h3.7l0.6-4.4h-4.3v-2.8c0-1.3,0.3-2.1,2.2-2.1h2.3V5.8c-0.4-0.1-1.8-0.2-3.4-0.2c-3.3,0-5.6,2-5.6,5.7v3.2h-3.8v4.4h3.8v11.2L22.4,30.1L22.4,30.1z"></path>
-</svg> </symbol>
-<symbol id="icon-twitter-color">
-<svg id="icon-twitter-color" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 20">
-<path fill="#1DA1F2" fill-rule="evenodd" d="M7.86 20c9.44 0 14.6-7.7 14.6-14.37 0-.21 0-.43-.02-.65A10.35 10.35 0 0025 2.37c-.92.4-1.9.67-2.95.8a5.08 5.08 0 002.26-2.8c-1 .58-2.09 1-3.26 1.23A5.16 5.16 0 0017.31 0a5.09 5.09 0 00-5 6.2A14.64 14.64 0 011.74.93a4.97 4.97 0 00-.7 2.53c0 1.76.91 3.3 2.29 4.2A5.15 5.15 0 011 7.04v.07a5.07 5.07 0 004.1 4.95 5.22 5.22 0 01-2.3.09c.65 2 2.54 3.46 4.78 3.5a10.4 10.4 0 01-6.37 2.16c-.41 0-.82-.02-1.22-.07A14.69 14.69 0 007.86 20"/>
-</svg> </symbol>
-<symbol id="icon-linkedin-color">
-<svg id="icon-linkedin-color" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64.99 64.99">
-<g fill="#fff">
-<path d="M22.63 22.63h12.58v6.33c1.68-3.38 6.6-6.99 13.09-6.99 12.44 0 16.69 5.63 16.69 18.99v24.03H51.75V43.77c0-7.03-1.37-10.88-6.5-10.88-6.94 0-9.38 5.27-9.38 10.88v21.22H22.64V22.63zm-21.17 0h13.23v42.35H1.46z"/>
-<circle cx="8.07" cy="8.07" r="8.07"/>
-</g>
-</svg> </symbol>
-<symbol id="icon-facebook">
-<svg id="icon-facebook" xmlns="http://www.w3.org/2000/svg" width="12" height="22">
-<path fill="#242729" fill-rule="evenodd" d="M7.418 21.059v-9.377h3.028l.455-3.658H7.418V5.692c0-1.063.28-1.78 1.746-1.78h1.859V.646C10.699.6 9.591.5 8.308.5c-2.688 0-4.52 1.707-4.52 4.828v2.696H.75v3.658h3.038v9.386h3.63v-.009z"/>
-</svg> </symbol>
-<symbol id="icon-twitter">
-<svg id="icon-twitter" xmlns="http://www.w3.org/2000/svg" width="27" height="22">
-<path fill="#242729" fill-rule="evenodd" d="M8.655 21.5c9.907 0 15.324-8.079 15.324-15.084 0-.23-.005-.458-.016-.685a10.85 10.85 0 002.687-2.745 10.88 10.88 0 01-3.093.835A5.332 5.332 0 0025.925.888a10.876 10.876 0 01-3.42 1.287A5.415 5.415 0 0018.576.5c-2.975 0-5.387 2.374-5.387 5.301 0 .416.048.82.14 1.209A15.37 15.37 0 012.228 1.47a5.226 5.226 0 00-.73 2.665c0 1.84.951 3.463 2.397 4.413a5.408 5.408 0 01-2.439-.663l-.001.068c0 2.567 1.856 4.71 4.32 5.197a5.485 5.485 0 01-2.432.091c.686 2.106 2.674 3.639 5.032 3.682a10.92 10.92 0 01-6.69 2.27c-.434 0-.862-.025-1.284-.074A15.424 15.424 0 008.655 21.5"/>
-</svg> </symbol>
-<symbol id="icon-linkedin">
-<svg id="icon-linkedin" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18.7 17.9">
-<path d="M4.3 17.9V5.8h-4v12.1zM2.2 4.2a2.106 2.106 0 002.3-2.1A2.076 2.076 0 002.3 0 2.106 2.106 0 000 2.1a2.136 2.136 0 002.2 2.1zm4.3 13.7h4v-6.8a3.083 3.083 0 01.1-1 2.331 2.331 0 012.1-1.5c1.5 0 2 1.1 2 2.7v6.5h4v-6.9c0-3.7-2-5.4-4.6-5.4a3.867 3.867 0 00-3.6 2V5.8h-4v12.1z" fill="#242729" fill-rule="evenodd"/>
-</svg> </symbol>
-<symbol id="icon-envelope">
-<svg id="icon-envelope" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 23">
-<g fill="none" fill-rule="evenodd" stroke-linejoin="round" stroke-width="1.67">
-<path stroke="#34444C" stroke-linecap="round" d="M6.07 19.65l3.41-2.34"/>
-<path fill="#F68C50" stroke="#F68C50" d="M22.69 1.09l-9.12 20.77L1.07 7.98z"/>
-<path stroke="#34444C" stroke-linecap="round" d="M22.69 1.09l-.51.4L6.06 14v5.65"/>
-</g>
-</svg> </symbol>
-<symbol id="icon-print">
-<svg id="icon-print" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 23">
-<g fill="none" fill-rule="evenodd" transform="translate(.24)">
-<rect width="13.14" height="7.44" x="5.41" y=".52" fill="#F9ED43" stroke="#34444C" stroke-width="1.03" rx="1.03"/>
-<rect width="22.67" height="11.8" x=".52" y="5.39" fill="#F68C50" stroke="#F68C50" stroke-width="1.03" rx="1.03"/>
-<rect width="13.14" height="9.24" x="5.41" y="12.32" fill="#F9ED43" stroke="#34444C" stroke-width="1.03" rx="1.03"/>
-<circle cx="20.74" cy="7.83" stroke="#34444C" stroke-width=".77" r="1"/>
-<path stroke="#34444C" stroke-linecap="round" stroke-width="1.03" d="M3.35 12.32h16.48M7.48 14.63h9.02m-9.02 2.31h9.02m-9.02 2.05h5.92"/>
-</g>
-</svg> </symbol>
-<symbol id="light-box-arrow">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="2575 18840 48 48"><g transform="translate(1355 18464)"><circle cx="24" cy="24" r="24" transform="translate(1220 376)" fill="#fff"/><path d="M1248.675 390l9.38 9.38m0 0l-9.38 9.553M1232 399.38h25.186" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3"/></g></svg> </symbol>
-<symbol id="icon-camera">
-<svg id="icon-camera" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 18.1" style="enable-background:new 0 0 24 18.1;" xml:space="preserve">
-<path d="M22,18.1H2c-1.1,0-2-0.9-2-2V5.1c0-1.1,0.9-2,2-2H22c1.1,0,2,0.9,2,2v10.9C24,17.2,23.1,18.1,22,18.1z"/>
-<path d="M4.8,3.9l2.9-3C8.3,0.3,9.1,0,9.9,0h4.3c0.8,0,1.6,0.3,2.2,0.9l2.8,2.9L4.8,3.9z"/>
-<circle style="fill:none;stroke:#FFFFFF;stroke-width:2.5;stroke-miterlimit:10;" cx="12" cy="10.6" r="4"/>
-</svg> </symbol>
-<symbol id="icon-thumbs-up">
-<svg id="icon-thumbs-up" xmlns="http://www.w3.org/2000/svg" width="19" height="20">
-<g fill="none" fill-rule="evenodd">
-<path fill="#F68C50" d="M4.87 8.7v9.74H1.69L.8 16.2V9.67z"/>
-<path fill="#34444C" fill-rule="nonzero" d="M5.92 8.86v8.64h8.7c.42 0 .78-.31.85-.75l1.16-7.87a.9.9 0 00-.2-.7.84.84 0 00-.66-.3h-5.62V3.5c0-.78-.5-1.44-1.18-1.67l-2.9 6.75a1.77 1.77 0 01-.15.28zm-1.7 8.64V9.62H2.55c-.47 0-.85.4-.85.88v6.12c0 .49.38.88.85.88h1.69zm-1.68 1.75A2.58 2.58 0 010 16.62V10.5a2.58 2.58 0 012.54-2.63h1.98L7.68.53A.84.84 0 018.46 0a3.44 3.44 0 013.38 3.5v2.63h3.93a2.5 2.5 0 011.94.9c.49.58.7 1.35.6 2.11l-1.17 7.88a2.56 2.56 0 01-2.53 2.23H2.54z"/>
-</g>
-</svg> </symbol>
-<symbol id="icon-thumbs-down">
-<svg id="icon-thumbs-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 20">
-<path fill-rule="evenodd" clip-rule="evenodd" fill="#f68c50" d="M13.5 11.3V1.6h3.1l.9 2.2v6.5z"/>
-<path d="M12.4 11.1V2.5H3.7c-.4 0-.8.3-.8.7l-1.2 7.9c0 .3 0 .5.2.7.2.2.4.3.7.3h5.6v4.4c0 .8.5 1.4 1.2 1.7l2.9-6.8c0-.1.1-.2.1-.3zm1.7-8.6v7.9h1.7c.5 0 .8-.4.8-.9V3.4c0-.5-.4-.9-.8-.9h-1.7zM15.8.8c1.4 0 2.5 1.2 2.5 2.6v6.1c0 1.4-1.1 2.6-2.5 2.6h-2l-3.2 7.4c-.1.3-.4.5-.7.5-1.9 0-3.4-1.6-3.4-3.5v-2.6H2.6c-.8 0-1.5-.3-2-.9s-.7-1.4-.6-2.1L1.2 3C1.4 1.7 2.5.8 3.7.8h12.1z" fill="#34444c"/>
-</svg> </symbol>
-<symbol id="icon-submit-arrow">
-<svg id="icon-submit-arrow" xmlns="http://www.w3.org/2000/svg" width="23" height="17" viewBox="0 0 23 17">
-<g fill="none">
-<path fill="#F68C50" d="M1.212 7.475a1.373 1.373 0 000 2.023l7.346 6.93c.96.907 2.609.268 2.609-1.011V1.556c0-1.279-1.648-1.918-2.61-1.011l-7.345 6.93z"/>
-<path stroke="#34444C" stroke-width="1.456" d="M21.422 2.64a1.769 1.769 0 00-3.536 0 3.952 3.952 0 01-3.952 3.952H8.63a1.769 1.769 0 000 3.536h5.304a7.488 7.488 0 007.488-7.488z"/>
-</g>
-</svg> </symbol>
-<symbol id="icon-hand">
-<svg id="icon-hand" viewBox="0 0 69 95" xmlns="http://www.w3.org/2000/svg">
-<g fill="none">
-<path fill="#F68C50" d="M68.608 51.889c0-4.035-3.318-7.352-7.352-7.352-1.525 0-3.049.448-4.214 1.344-1.076-2.69-3.766-4.662-6.814-4.662-1.525 0-3.049.448-4.214 1.345-1.076-2.69-3.766-4.662-6.814-4.662-1.345 0-2.6.358-3.676.986V21.943a7.398 7.398 0 00-2.152-5.2c-1.435-1.345-3.228-2.152-5.2-2.152-4.035 0-7.352 3.317-7.352 7.352v37.925l-5.11-5.11c-2.511-2.51-6.456-2.87-9.415-.897-1.704 1.166-2.87 3.048-3.228 5.11-.269 2.063.27 4.214 1.614 5.828l15.152 18.29c4.573 5.47 11.208 8.698 18.38 8.698h9.414c5.649 0 10.939-2.152 14.973-6.187a21.168 21.168 0 006.187-14.973l-.18-18.738z"/><path fill="#F68C50" d="M59.821 82.91c-3.317 3.318-7.71 5.11-12.373 5.11h-9.414a20.271 20.271 0 01-15.6-7.351L7.37 62.379c-.717-.807-.986-1.883-.807-2.96.18-1.075.717-1.972 1.614-2.6.627-.448 1.345-.627 2.152-.627.986 0 1.972.359 2.69 1.076l6.096 6.007c.897.897 2.242 1.166 3.407.628 1.166-.449 1.883-1.614 1.883-2.87v-39.09a3.636 3.636 0 013.676-3.676 3.59 3.59 0 012.6 1.076 3.59 3.59 0 011.076 2.6V48.93c0 .986.807 1.793 1.793 1.793.986 0 1.793-.807 1.793-1.793v-3.676a3.636 3.636 0 013.676-3.676 3.636 3.636 0 013.676 3.676v6.993c0 .986.807 1.793 1.793 1.793.987 0 1.794-.807 1.794-1.793v-3.676a3.636 3.636 0 013.676-3.676 3.636 3.636 0 013.676 3.676v6.994c0 .986.807 1.793 1.793 1.793.986 0 1.793-.807 1.793-1.793v-3.676a3.636 3.636 0 013.676-3.676 3.636 3.636 0 013.676 3.676v18.738c.359 4.573-1.435 8.966-4.752 12.283z"/><path stroke="#34444C" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.091" d="M35.95 38.888V21.943a7.398 7.398 0 00-2.152-5.2c-1.435-1.345-3.228-2.152-5.2-2.152-4.035 0-7.353 3.317-7.353 7.352v37.925l-5.11-5.11c-2.51-2.51-6.455-2.87-9.414-.897-1.704 1.166-2.87 3.048-3.228 5.11-.269 2.063.27 4.214 1.614 5.828l15.152 18.29c4.573 5.47 11.208 8.698 18.38 8.698"/><path fill="#34444C" stroke="#34444C" stroke-width="3.145" d="M11.737 21.355c1.238 0 2.251-.907 2.251-2.016 0-7.258 6.64-13.206 14.741-13.206 8.102 0 14.741 5.948 14.741 13.206 0 1.109 1.013 2.016 2.251 2.016s2.25-.907 2.25-2.016C47.972 9.762 39.308 2 28.618 2S9.262 9.762 9.262 19.339c.112 1.008 1.238 2.016 2.475 2.016z"/>
-</g>
-</svg> </symbol>
-<symbol id="icon-bart-button">
-<svg id="icon-bart-button" viewBox="0 0 216 61" xmlns="http://www.w3.org/2000/svg">
-<g stroke="#34444C" stroke-width="2.52" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
-<path d="M7 10.544V59c2.52 0 2.52-2.544 5.04-2.544 2.519 0 2.519 2.544 5.038 2.544 2.52 0 2.52-2.544 5.04-2.544 2.519 0 2.519 2.544 5.038 2.544 2.52 0 2.52-2.544 5.04-2.544S34.715 59 37.234 59c2.52 0 2.52-2.544 5.039-2.544 2.519 0 2.519 2.544 5.038 2.544 2.52 0 2.52-2.544 5.04-2.544C54.87 56.456 54.87 59 57.39 59c2.52 0 2.52-2.544 5.04-2.544S64.95 59 67.47 59c2.518 0 2.518-2.544 5.038-2.544 2.52 0 2.52 2.544 5.039 2.544 2.519 0 2.519-2.544 5.038-2.544 2.52 0 2.52 2.544 5.04 2.544 2.519 0 2.519-2.544 5.039-2.544 2.52 0 2.52 2.544 5.04 2.544 2.519 0 2.519-2.544 5.038-2.544 2.52 0 2.52 2.544 5.039 2.544 2.52 0 2.52-2.544 5.039-2.544 2.519 0 2.519 2.544 5.038 2.544 2.52 0 2.52-2.544 5.04-2.544s2.52 2.544 5.04 2.544c2.519 0 2.519-2.544 5.038-2.544 2.52 0 2.52 2.544 5.039 2.544 2.52 0 2.52-2.544 5.039-2.544 2.52 0 2.52 2.544 5.039 2.544 2.52 0 2.52-2.544 5.039-2.544 2.52 0 2.52 2.544 5.04 2.544 2.519 0 2.519-2.544 5.038-2.544 2.52 0 2.52 2.544 5.039 2.544 2.52 0 2.52-2.544 5.039-2.544 2.52 0 2.52 2.544 5.039 2.544 2.52 0 2.52-2.544 5.04-2.544 2.519 0 2.519 2.544 5.039 2.544 2.519 0 2.519-2.544 5.038-2.544h.4c2.52 0 2.52 2.544 5.039 2.544 2.52 0 2.52-2.544 5.039-2.544 2.52 0 2.52 2.544 5.038 2.544 2.52 0 2.52-2.544 5.04-2.544V8c-2.52 0-2.52 2.544-5.04 2.544-2.519 0-2.519-2.544-5.038-2.544-2.52 0-2.52 2.544-5.04 2.544-2.519 0-2.519-2.544-5.038-2.544h-.4c-2.519 0-2.519 2.544-5.038 2.544-2.52 0-2.52-2.544-5.04-2.544s-2.52 2.544-5.04 2.544c-2.519 0-2.519-2.544-5.038-2.544-2.52 0-2.52 2.544-5.04 2.544-2.518 0-2.518-2.544-5.038-2.544-2.52 0-2.52 2.544-5.038 2.544-2.52 0-2.52-2.544-5.04-2.544s-2.52 2.544-5.04 2.544c-2.519 0-2.519-2.544-5.038-2.544-2.52 0-2.52 2.544-5.04 2.544-2.519 0-2.519-2.544-5.038-2.544-2.52 0-2.52 2.544-5.039 2.544-2.52 0-2.52-2.544-5.04-2.544-2.519 0-2.519 2.544-5.039 2.544-2.519 0-2.519-2.544-5.038-2.544-2.52 0-2.52 2.544-5.04 2.544-2.519 0-2.519-2.544-5.038-2.544-2.52 0-2.52 2.544-5.039 2.544-2.52 0-2.52-2.544-5.04-2.544s-2.52 2.544-5.039 2.544c-2.52 0-2.52-2.544-5.039-2.544-2.519 0-2.519 2.544-5.038 2.544-2.52 0-2.52-2.544-5.04-2.544-2.519 0-2.519 2.544-5.038 2.544-2.52 0-2.52-2.544-5.04-2.544s-2.52 2.544-5.039 2.544C54.87 10.544 54.87 8 52.351 8c-2.52 0-2.52 2.544-5.039 2.544-2.519 0-2.519-2.544-5.038-2.544-2.52 0-2.52 2.544-5.04 2.544-2.519 0-2.519-2.544-5.039-2.544-2.52 0-2.52 2.544-5.04 2.544-2.518 0-2.518-2.544-5.038-2.544-2.52 0-2.52 2.544-5.039 2.544-2.52 0-2.52-2.544-5.038-2.544C9.52 8 9.52 10.544 7 10.544" fill="#F68C50"/><path d="M2 50.456V2c2.52 0 2.52 2.544 5.04 2.544C9.559 4.544 9.559 2 12.078 2c2.52 0 2.52 2.544 5.04 2.544C19.636 4.544 19.636 2 22.155 2c2.52 0 2.52 2.544 5.04 2.544S29.715 2 32.234 2c2.52 0 2.52 2.544 5.039 2.544C39.793 4.544 39.793 2 42.312 2c2.52 0 2.52 2.544 5.04 2.544C49.87 4.544 49.87 2 52.39 2c2.52 0 2.52 2.544 5.04 2.544S59.95 2 62.47 2c2.518 0 2.518 2.544 5.038 2.544 2.52 0 2.52-2.544 5.039-2.544 2.519 0 2.519 2.544 5.038 2.544 2.52 0 2.52-2.544 5.04-2.544 2.519 0 2.519 2.544 5.039 2.544 2.52 0 2.52-2.544 5.04-2.544 2.519 0 2.519 2.544 5.038 2.544 2.52 0 2.52-2.544 5.039-2.544 2.52 0 2.52 2.544 5.039 2.544 2.519 0 2.519-2.544 5.038-2.544 2.52 0 2.52 2.544 5.04 2.544S120.418 2 122.938 2c2.519 0 2.519 2.544 5.038 2.544 2.52 0 2.52-2.544 5.039-2.544 2.52 0 2.52 2.544 5.039 2.544 2.52 0 2.52-2.544 5.039-2.544 2.52 0 2.52 2.544 5.039 2.544 2.52 0 2.52-2.544 5.04-2.544 2.519 0 2.519 2.544 5.038 2.544 2.52 0 2.52-2.544 5.039-2.544 2.52 0 2.52 2.544 5.039 2.544 2.52 0 2.52-2.544 5.039-2.544 2.52 0 2.52 2.544 5.04 2.544 2.519 0 2.519-2.544 5.039-2.544 2.519 0 2.519 2.544 5.038 2.544h.4c2.52 0 2.52-2.544 5.039-2.544 2.52 0 2.52 2.544 5.039 2.544 2.52 0 2.52-2.544 5.038-2.544 2.52 0 2.52 2.544 5.04 2.544V53c-2.52 0-2.52-2.544-5.04-2.544-2.519 0-2.519 2.544-5.038 2.544-2.52 0-2.52-2.544-5.04-2.544-2.519 0-2.519 2.544-5.038 2.544h-.4c-2.519 0-2.519-2.544-5.038-2.544-2.52 0-2.52 2.544-5.04 2.544s-2.52-2.544-5.04-2.544c-2.519 0-2.519 2.544-5.038 2.544-2.52 0-2.52-2.544-5.04-2.544-2.518 0-2.518 2.544-5.038 2.544-2.52 0-2.52-2.544-5.038-2.544-2.52 0-2.52 2.544-5.04 2.544s-2.52-2.544-5.04-2.544c-2.519 0-2.519 2.544-5.038 2.544-2.52 0-2.52-2.544-5.04-2.544-2.519 0-2.519 2.544-5.038 2.544-2.52 0-2.52-2.544-5.039-2.544-2.52 0-2.52 2.544-5.04 2.544-2.519 0-2.519-2.544-5.039-2.544-2.519 0-2.519 2.544-5.038 2.544-2.52 0-2.52-2.544-5.04-2.544-2.519 0-2.519 2.544-5.038 2.544-2.52 0-2.52-2.544-5.039-2.544-2.52 0-2.52 2.544-5.04 2.544s-2.52-2.544-5.039-2.544c-2.52 0-2.52 2.544-5.039 2.544-2.519 0-2.519-2.544-5.038-2.544-2.52 0-2.52 2.544-5.04 2.544-2.519 0-2.519-2.544-5.038-2.544-2.52 0-2.52 2.544-5.04 2.544s-2.52-2.544-5.039-2.544c-2.52 0-2.52 2.544-5.039 2.544-2.52 0-2.52-2.544-5.039-2.544-2.519 0-2.519 2.544-5.038 2.544-2.52 0-2.52-2.544-5.04-2.544-2.519 0-2.519 2.544-5.039 2.544-2.52 0-2.52-2.544-5.04-2.544-2.518 0-2.518 2.544-5.038 2.544-2.52 0-2.52-2.544-5.039-2.544-2.52 0-2.52 2.544-5.038 2.544-2.52 0-2.52-2.544-5.04-2.544" fill="#F9ED43"/>
-</g>
-</svg> </symbol>
-<symbol id="icon-sources-show">
-<svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M9.19951 12.3158L15.3216 6.19367L17.7704 8.64251L10.4239 15.989C9.7477 16.6652 8.65132 16.6652 7.9751 15.989L0.714233 8.72815L3.16307 6.27932L9.19951 12.3158Z" fill="#F68C50"/>
-</svg> </symbol>
-<symbol id="icon-sources-hide">
-<svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M9.19951 12.3158L15.3216 6.19367L17.7704 8.64251L10.4239 15.989C9.7477 16.6652 8.65132 16.6652 7.9751 15.989L0.714233 8.72815L3.16307 6.27932L9.19951 12.3158Z" fill="#F68C50"/>
-</svg> </symbol>
-<symbol id="icon-menu">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 25">
-<path fill="#34444C" d="M2.5,0h25C28.9,0,30,1.1,30,2.5l0,0C30,3.9,28.9,5,27.5,5h-25C1.1,5,0,3.9,0,2.5l0,0C0,1.1,1.1,0,2.5,0z" />
-<path fill="#34444C" d="M2.5,10h25c1.4,0,2.5,1.1,2.5,2.5l0,0c0,1.4-1.1,2.5-2.5,2.5h-25C1.1,15,0,13.9,0,12.5l0,0C0,11.1,1.1,10,2.5,10z" />
-<path fill="#34444C" d="M2.5,20h25c1.4,0,2.5,1.1,2.5,2.5l0,0c0,1.4-1.1,2.5-2.5,2.5h-25C1.1,25,0,23.9,0,22.5l0,0C0,21.1,1.1,20,2.5,20z" />
-</svg>
-</symbol>
-<symbol id="icon-close">
-<svg id="icon-close-classic" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 15">
-<path d="M2.9.9l4.6 4.6L12 1c.5-.5 1.3-.5 1.8 0s.5 1.2.1 1.7l-.1.1-4.5 4.5 4.5 4.5c.5.5.5 1.3 0 1.8s-1.2.5-1.7.1H12L7.5 9.2 3 13.7c-.5.5-1.3.5-1.8 0s-.5-1.2-.1-1.7l.1-.1 4.5-4.5-4.5-4.5c-.5-.5-.5-1.3 0-1.8C1.6.6 2.4.5 2.9.9z" fill="#34444c"/>
-</svg> </symbol>
-<symbol id="icon-logo">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 174.36 41.07">
-<g id="Layer_2" data-name="Layer 2">
-<g id="Layer_1-2" data-name="Layer 1">
-<path d="M75.77,28.83H76V20.25A8.61,8.61,0,0,0,67.68,12H61.76a8.57,8.57,0,0,0-8.26,8.25v12.5a8.08,8.08,0,0,0,2.55,5.87A8.34,8.34,0,0,0,61.78,41H67.7A8.5,8.5,0,0,0,76,32.75H71.07a3.51,3.51,0,0,1-3.37,3.31H61.78a3.53,3.53,0,0,1-3.36-3.31V28.83Zm-14-11.89h5.92a3.72,3.72,0,0,1,3.39,3.31v3.81H58.42V20.25a3.65,3.65,0,0,1,3.33-3.31Z" />
-<path d="M174.11,28.9h.25V20.32A8.62,8.62,0,0,0,166,12.07h-5.92a8.59,8.59,0,0,0-8.27,8.25v12.5a8.14,8.14,0,0,0,2.58,5.87,8.34,8.34,0,0,0,5.71,2.38h5.92a8.5,8.5,0,0,0,8.3-8.25h-4.93a3.54,3.54,0,0,1-3.37,3.31h-5.92a3.5,3.5,0,0,1-3.35-3.31V28.9ZM160.11,17H166a3.74,3.74,0,0,1,3.38,3.31v3.81H156.77V20.32A3.64,3.64,0,0,1,160.1,17Z" />
-<path d="M23.84,41h-12c-4.1,0-7.23-1.35-9.27-4C.84,34.79,0,31.76,0,28V0H4.92V28c0,2.71.52,4.76,1.53,6.09s2.83,2.1,5.35,2.1h12Z" />
-<path d="M33.44,12H28.5V41h4.94Z" />
-<path d="M31,8.37a3,3,0,1,0-3-3A3,3,0,0,0,31,8.37Z" />
-<path d="M120,12H115V41H120Z" />
-<path d="M117.5,8.37a3,3,0,1,0-3-3A3,3,0,0,0,117.5,8.37Z" />
-<path d="M44.61,7.89c1.24-2,3.37-3.06,6.53-3.06h3.15V0H51c-3.39,0-8,.92-10.71,5.29a15.88,15.88,0,0,0-2.09,8.44V41h5V25.35c0-4.43,2-7.86,6.54-7.88h.85a11.15,11.15,0,0,1,3.12-5.24h-2a14.15,14.15,0,0,0-8.53,2.51l0-1A11.33,11.33,0,0,1,44.61,7.89Z" />
-<path d="M111.34,12H106.6l-.09.38,0,.1h0l-4.91,20.85L97.84,21c-.28-1-.77-3-1.81-3H93.59c-1,0-1.45,2-1.77,3L88,33.43,83.1,12.51l0-.11L83,12H78.34l.38,1.53L84.84,38c.26,1.22,1,3,1.85,3h2.62c1,0,1.67-1.82,2-3l3.53-11.5L98.34,38c.33,1,1,3,1.91,3h2.59c1,0,1.72-2,2-3L111,13.53Z" />
-<path d="M147.45,38.43l-5.34-10a8.37,8.37,0,0,0,5.62-7.52V20.1a8.26,8.26,0,0,0-8.42-8.1H125.25V41H130V32.93c0-1.45,1.86-3.89,4.71-3.89h2.56l5.7,11.23.35.73h5.39Zm-8-14h-4.71a7.37,7.37,0,0,0-4.83,1.77V16.79h9.54a3.44,3.44,0,0,1,3.47,3.27v.82C142.81,22.69,141.26,24.49,139.45,24.4Z" />
-</g>
-</g>
-</svg> </symbol>
-<symbol id="icon-search">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42 53">
-<path fill="#F68C50" d="M6.6,48c1.9,1.1,4.4,0.5,5.5-1.5l9.5-16.4c1.1-1.9,0.5-4.4-1.5-5.5l-0.1,0c-1.9-1.1-4.4-0.5-5.5,1.5L5,42.4C3.9,44.4,4.6,46.8,6.6,48L6.6,48z"/>
-<path fill="#34444C" clip-rule="evenodd" fill-rule="evenodd" d="M5.7,49.5c2.8,1.6,6.3,0.7,7.9-2.1L23.1,31c1.6-2.8,0.7-6.3-2.1-7.9l-0.1,0c-2.8-1.6-6.3-0.7-7.9,2.1L3.5,41.5C1.9,44.3,2.9,47.9,5.7,49.5L5.7,49.5z M10.6,45.6c-0.6,1.1-2,1.5-3.1,0.8l-0.1,0c-1.1-0.6-1.5-2-0.8-3.1L16,26.9c0.6-1.1,2-1.5,3.1-0.8l0.1,0c1.1,0.6,1.5,2,0.8,3.1L10.6,45.6z"/>
-<path fill="#F9ED43" clip-rule="evenodd" fill-rule="evenodd" d="M23.4,34.3c-8.2,0-14.9-6.7-14.9-14.9S15.2,4.5,23.4,4.5c8.2,0,14.9,6.7,14.9,14.9S31.6,34.3,23.4,34.3z"/>
-<path fill="#34444C" clip-rule="evenodd" fill-rule="evenodd" d="M5,19.4c0,10.2,8.2,18.4,18.4,18.4c10.2,0,18.4-8.2,18.4-18.4c0-10.2-8.2-18.4-18.4-18.4C13.2,0.9,5,9.2,5,19.4z M8.5,19.4c0,8.2,6.7,14.9,14.9,14.9c8.2,0,14.9-6.7,14.9-14.9S31.6,4.5,23.4,4.5C15.2,4.5,8.5,11.1,8.5,19.4z"/>
-<path fill="#FFFFFF" clip-rule="evenodd" fill-rule="evenodd" d="M23.4,26.8c-4.1,0-7.5-3.3-7.5-7.5s3.3-7.5,7.5-7.5s7.5,3.3,7.5,7.5S27.5,26.8,23.4,26.8z"/>
-<path fill="#34444C" clip-rule="evenodd" fill-rule="evenodd" d="M12.4,19.4c0,6.1,4.9,11,11,11c6.1,0,11-4.9,11-11c0-6.1-4.9-11-11-11C17.3,8.4,12.4,13.3,12.4,19.4zM15.9,19.4c0,4.1,3.3,7.5,7.5,7.5c4.1,0,7.5-3.3,7.5-7.5s-3.3-7.5-7.5-7.5C19.3,11.9,15.9,15.2,15.9,19.4z"/>
-</svg> </symbol>
-<symbol id="icon-big-search">
-<svg id="icon-big-search" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 145 137" style="enable-background:new 0 0 145 137;" xml:space="preserve">
-<path class="st0" fill="#6FD5F2" d="M111.8,14c13.1,10.4,19.2,27.1,24.6,42.9c5.8,16.9,11.6,36.1,3.4,52c-6.1,11.9-18.8,19-31.6,23
-c-22.2,6.8-46.7,6-68.4-2.3c-8.2-3.1-16.1-7.5-22-14c-20.1-22.5-22.6-76.5,1-98C40-1.8,90.2-3.2,111.8,14z"/>
-<path class="st1" fill="#FFFFFF" d="M30.5,75.4c1,7.2,4.9,14.5,11.6,17.6c9.6,4.5,20.7-0.7,31.3-0.5c8.2,0.1,16.4,3.8,21.9,9.9
-c4,4.4,6.7,9.9,10.7,14.3c4,4.4,10.3,7.7,15.9,5.6c6.8-2.5,9-11.6,6.6-18.4c-2.4-6.8-7.9-12-12.8-17.3c-4.9-5.3-9.6-11.7-9.5-18.9
-c0.1-9.2,7.8-17.7,5.7-26.6c-2.2-9.6-13.7-13.1-23.4-14.9C51.8,19.2,24.3,31.8,30.5,75.4z"/>
-<path d="M43,82.1c-7.4-5.3-9.9-16.3-9.8-24.9c0.2-10.8,6.3-20.4,13.6-27.8c6.8-7,15.5-13.1,25.7-12.3c9.8,0.8,19,6.8,25.3,14
-c13,14.9,12.1,37.2-2.1,51.1C80.9,96.9,56.3,95,41.2,81.7C40.4,81,39.1,82.3,40,83c12.3,10.9,30.5,14.6,45.8,8.1
-c15-6.4,24.4-22.8,23.2-38.9c-1.2-15.8-13.6-29.9-28.3-35.1c-17.5-6.1-33.1,6-42.5,20.1c-8.7,13.1-10.5,36.3,3.9,46.6
-C43,84.4,43.9,82.8,43,82.1L43,82.1z"/>
-<path d="M102.1,80.2c10.2,10.5,19.1,21.8,28.2,33.3c0.7,0.9,2-0.4,1.3-1.3c-9.1-11.4-18-22.8-28.2-33.3
-C102.5,78,101.3,79.3,102.1,80.2L102.1,80.2z"/>
-<path d="M94.4,90.2c8.6,12.1,15.4,25.3,24,37.4c0.7,0.9,2.2,0,1.6-0.9c-8.6-12.1-15.4-25.3-24-37.4
-C95.3,88.3,93.7,89.2,94.4,90.2L94.4,90.2z"/>
-<path d="M119.4,127.6c3.5-4.8,7.3-9.4,10.5-14.4c0.6-1-0.9-1.9-1.6-0.9c-3.2,5-7,9.6-10.5,14.4
-C117.1,127.6,118.7,128.5,119.4,127.6L119.4,127.6z"/>
-<path d="M73.9,62.6C73.9,62.6,73.9,62.6,73.9,62.6c-1.1,0-2.1-0.6-2.7-1.6c-0.9-1.4-1-3.5-0.3-5c0.5-1.2,1.3-2.1,2-3.1
-c0.7-0.9,1.3-1.7,1.7-2.6c0.9-2.1,0.5-4.5-1.3-6.6c-2.1-2.5-5.4-3.8-8.2-3.1c-5.9,1.5-8.8,8.3-8.1,13.9c0.1,0.5-0.3,1-0.8,1
-c-0.5,0.1-1-0.3-1-0.8c-0.8-6.3,2.6-14.2,9.5-15.9c3.5-0.9,7.5,0.6,10,3.7c2.2,2.6,2.7,5.8,1.5,8.5c-0.5,1.1-1.2,2.1-2,3
-c-0.7,0.9-1.4,1.7-1.8,2.7c-0.4,1-0.4,2.4,0.2,3.3c0.3,0.5,0.7,0.7,1.2,0.8c0.5,0,0.9,0.4,0.9,1C74.8,62.2,74.4,62.6,73.9,62.6z"/>
-<path d="M78.6,66.2c-1.3-0.3-2.6,1-2.4,2.3c0.2,1.3,1.8,2.2,3,1.6c1-0.5,1.4-1.8,1-2.8c-0.4-1-1.6-1.6-2.7-1.4"/>
-</svg> </symbol>
-<symbol id="mntl-dotdash-family-nav__logo">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="6 3.9 317.3 67.3"><path fill="#f44b34" d="M38.3 44.3l7.5-7.5v-4.6l-7.5 7.6v4.5zm3-21.7h-3v15l7.5-7.6v-1.8c0-2.3-.5-3.9-1.4-4.8a4.18 4.18 0 00-3.1-.8zm-7.9 29.1h12.4V39l-9.1 9.3-3.3 3.4z"/><path d="M40 3.9a33.65 33.65 0 1033.3 34v-.3A33.5 33.5 0 0040 3.9zm13.8 21.4v25.1L45.5 59H26.7l3.7-3.8V28.4l5.5-5.8h-8.2l2.9-6.7H44a9.79 9.79 0 017.1 2.6 10.05 10.05 0 012.7 6.8z" fill="#f44b34"/><path d="M116.9 22.2c-4.5-4-10.5-6-17.8-6H87l.1 43.6v.3h13.2c7 0 12.7-2 17-6s6.5-9.3 6.5-16a20.21 20.21 0 00-6.9-15.9zm-3.2 28.6c-3.6 3.2-8.3 4.8-14.2 4.8h-7.8V20.9h7.8c5.9 0 10.6 1.6 14.2 4.8s5.2 7.3 5.2 12.5-1.7 9.5-5.2 12.6zM145.3 26a15.52 15.52 0 00-11.8 5.1 17.92 17.92 0 00-4.8 12.3 17.38 17.38 0 004.7 12.3 15.52 15.52 0 0011.8 5.1h.1a15.52 15.52 0 0011.8-5.1 17.55 17.55 0 004.7-12.3 17 17 0 00-4.8-12.3 15.31 15.31 0 00-11.7-5.1zm8.2 26.5a10.77 10.77 0 01-7.1 3.7h-1.2a11 11 0 01-8.5-3.7 13 13 0 01-3.4-9.2 12.75 12.75 0 013.4-9.1 11.06 11.06 0 018.5-3.6 10.85 10.85 0 018.4 3.6 13.11 13.11 0 013.3 9.1 13 13 0 01-3.4 9.2zm28.7 2.3a5.2 5.2 0 01-3.8 1.3c-2.9 0-4.1-1.4-4.1-4.7V31.1h9.5v-4.6h-9.5v-7.1h-4.8v7.1h-4.6v4.7h4.6v20.5c0 2.9.8 5.2 2.3 6.7a8.94 8.94 0 006.6 2.3 9.11 9.11 0 006.7-2.4l.9-.8-2.7-3.8zm33-23.7a15.39 15.39 0 00-3.4-2.8 15 15 0 00-8.5-2.4 15.52 15.52 0 00-11.8 5.1 17.92 17.92 0 00-4.8 12.3 17.38 17.38 0 004.7 12.3 15.52 15.52 0 0011.8 5.1 15 15 0 008.5-2.4 14.84 14.84 0 003.3-2.8V60h4.8V12.8l-4.7.4zm-3.3 21.4a11 11 0 01-7.1 3.7h-1.2a11 11 0 01-8.5-3.7 13.54 13.54 0 01-3.5-9.2 12.75 12.75 0 013.4-9.1 11.06 11.06 0 018.5-3.6 10.71 10.71 0 018.4 3.6 13.11 13.11 0 013.3 9.1 13.36 13.36 0 01-3.3 9.2zM254 31.1a17.5 17.5 0 00-3.3-2.8 15 15 0 00-8.5-2.4 15.52 15.52 0 00-11.8 5.1 17.92 17.92 0 00-4.8 12.3 17.79 17.79 0 004.7 12.4 15.52 15.52 0 0011.8 5.1 15 15 0 008.5-2.4 13.43 13.43 0 003.4-2.9v4.8h4.8V26.6H254zm-3.5 21.2a10.77 10.77 0 01-7.1 3.7h-1.2a11 11 0 01-8.5-3.7 13 13 0 01-3.4-9.2 12.75 12.75 0 013.4-9.1 11.06 11.06 0 018.5-3.6 10.85 10.85 0 018.4 3.6 13.28 13.28 0 013.3 9.1 13 13 0 01-3.4 9.2zM282 41.7l-5.7-1.8a11.51 11.51 0 01-4.3-2.1 3.42 3.42 0 01-1.4-2.9v-.1a3.53 3.53 0 011.6-3 8.1 8.1 0 015-1.4c3.4 0 5.8 1 7.4 3.1l.8 1.1L289 32l.2-.2-.7-1c-2.2-3.2-6-4.9-11.2-4.9a13.38 13.38 0 00-8.2 2.4 7.88 7.88 0 00-3.2 6.6 7.49 7.49 0 002.4 5.8 13.29 13.29 0 005.3 3l5.6 1.7a10.77 10.77 0 014.2 2.3 4.07 4.07 0 011.5 3.2 4.28 4.28 0 01-1.8 3.6 8.81 8.81 0 01-5.5 1.5 14.87 14.87 0 01-5.5-1 7 7 0 01-3.3-2.6l-.8-1.3-3.8 3.2-.1.1.8 1q4.05 5.4 12.6 5.4a13.69 13.69 0 008.6-2.6 9.09 9.09 0 003.4-7.3 8.37 8.37 0 00-2.3-6 12.27 12.27 0 00-5.2-3.2zm37.4-12v-.1h-.1a13.47 13.47 0 00-9.9-3.7 12.87 12.87 0 00-9 3.3V13.1h-4.8v47.1h4.8l.2-20.1a10.27 10.27 0 012.3-7.1 10 10 0 0113.2 0c1.6 1.7 2.4 4 2.4 7.1v20.1h4.8V39.5a15 15 0 00-3.9-9.8z"/></svg> </symbol>
-</defs>
-</svg>
-<!-- Google Tag Manager (Testing) -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5P3SZGS" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager -->
-<header id="header_1-0" class="comp header" role="banner" data-tracking-container="true">
-<div class="menu-button-container">
-<button class="menu-button" aria-label="Main menu for Lifewire">
-<span class="is-text-hidden">Menu</span>
-<div class="menu-button-inner">
-<svg class="icon icon-menu ">
-<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-menu"></use>
-</svg>
-<svg class="icon icon-close ">
-<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-close"></use>
-</svg>
-<div>
-</button>
-</div>
-<a id="logo_1-0" class="comp logo mntl-block" rel="home" href="/" aria-label="Home">
-<div id="mntl-text-block_1-0" class="comp is-screenreader-only mntl-text-block">
-Lifewire</div><!-- end: comp is-screenreader-only mntl-text-block -->
-<svg class="icon icon-logo ">
-<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-logo"></use>
-</svg>
-</a><!-- end: comp logo mntl-block -->
-<nav id="header-nav_1-0" class="comp header-nav" role="navigation">
-<ul class="header-nav__list">
-<li class="header-nav__list-item">
-<a
-href="https://www.lifewire.com/best-products-4781319"
-> Best Products
-</a><!-- end: -->
-<ul class="header-nav__sublist">
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/audio-reviews-4102649"
-> Audio
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/camera-and-video-reviews-4102644"
-> Camera & Video
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/car-audio-and-accessory-reviews-4689590"
-> Car Audio & Accessories
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/computer-and-laptop-reviews-4102643"
-> Computers & Laptops
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/computer-component-and-accessory-reviews-4102588"
-> Computer Accessories
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/games-console-reviews-4102640"
-> Game Consoles
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/gift-reviews-4689608"
-> Gifts
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/networking-reviews-4689609"
-> Networking
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/phone-reviews-4102642"
-> Phones
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/smart-home-and-gadget-reviews-4102646"
-> Smart Home
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/software-reviews-4102744"
-> Software
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/tablet-reviews-5120464"
-> Tablets
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/toy-and-game-reviews-4689612"
-> Toys & Games
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/tv-reviews-4102645"
-> TVs
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/wearable-reviews-4689613"
-> Wearables
-</a><!-- end: --> </li>
-</uL>
-</li>
-<li class="header-nav__list-item">
-<a
-href="https://www.lifewire.com/news-4795879"
-> News
-</a><!-- end: -->
-<ul class="header-nav__sublist">
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/mobile-phone-news-4796390"
-> Phones
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/internet-networking-security-news-4796476"
-> Internet & Security
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/computer-laptop-tablet-news-4797030"
-> Computers
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/smart-home-connected-life-news-4797031"
-> Smart Home
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/home-theater-news-4797032"
-> Home Theater
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/software-app-news-4797035"
-> Software & Apps
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/social-media-news-4797037"
-> Social Media
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/streaming-news-4797038"
-> Streaming
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/gaming-news-4797039"
-> Gaming
-</a><!-- end: --> </li>
-</uL>
-</li>
-<li class="header-nav__list-item">
-<a
-href="https://www.lifewire.com/eco-5089303"
-> Eco Tech
-</a><!-- end: -->
-</li>
-<li class="header-nav__list-item">
-<a
-href="https://www.lifewire.com/family-tech-4800905"
-> Family Tech
-</a><!-- end: -->
-<ul class="header-nav__sublist">
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/the-ultimate-guide-to-parental-controls-4801595"
-> Parental Controls
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/the-ultimate-guide-to-online-learning-at-home-4800273"
-> Online Learning
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/home-networking-4781492"
-> Home Networking
-</a><!-- end: --> </li>
-</uL>
-</li>
-<li class="header-nav__list-item">
-<a
-href="https://www.lifewire.com/smart-and-connected-life-4781519"
-> Smart Life
-</a><!-- end: -->
-<ul class="header-nav__sublist">
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/working-from-home-4799956"
-> Working From Home
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/headphones-and-ear-buds-4781524"
-> Headphones & Earbuds
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/smart-home-4781526"
-> Smart Home
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/smart-watches-and-wearables-4781531"
-> Wearables
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/travel-tech-4781532"
-> Travel Tech
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/connected-car-tech-4781520"
-> Connected Car
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/ipods-and-mp3-players-4781525"
-> iPods & MP3 Players
-</a><!-- end: --> </li>
-</uL>
-</li>
-<li class="header-nav__list-item">
-<a
-href="https://www.lifewire.com/computers-laptops-and-tablets-4781146"
-> How-To
-</a><!-- end: -->
-<ul class="header-nav__sublist">
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/gaming-4781445"
-> Gaming
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/mobile-phones-4781509"
-> Smartphones
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/streaming-4781567"
-> Streaming
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/social-media-4781534"
-> Social Media
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/smart-and-connected-life-4781519"
-> Smart Life
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/internet-networking-and-security-4781467"
-> Networking & Security
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/software-and-apps-4781541"
-> Software & Apps
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/home-theater-and-entertainment-4781451"
-> Home Theater
-</a><!-- end: --> </li>
-<li class="header-nav__sublist-item">
-<a
-href="https://www.lifewire.com/email-messaging-and-video-calls-4781395"
-> Email & Messaging
-</a><!-- end: --> </li>
-</uL>
-</li>
-<li class="header-nav__list-item">
-<a
-href="/about-us-5081224"
->About Us</a><!-- end: -->
-</li>
-</ul>
-</nav><!-- end: comp header-nav -->
-<form id="header-newsletter_1-0" class="comp header-newsletter--inactive header-newsletter mntl-newsletter-signup" method="POST" action="/newsletter/signup">
-<div id="header-newsletter__close-button_1-0" class="comp header-newsletter__close-button mntl-block"></div><!-- end: comp header-newsletter__close-button mntl-block -->
-<div id="mntl-newsletter-submit_1-0" class="comp mntl-newsletter-submit mntl-newsletter-submit__input-wrapper">
-<input type="hidden" name="list[]" value="computersl" />
-<input type="hidden" name="customEventName" value="" />
-<input type="hidden" value="291a0a1634a3ff2a4f3961d30273a6e6" name="CSRFToken" />
-<label class="mntl-newsletter-submit__label is-vishidden" for="mntl-newsletter-submit_1-0__input">Email Address</label>
-<input class="mntl-newsletter-submit__input" id="mntl-newsletter-submit_1-0__input" type="email" name="email" placeholder="enter email" required pattern="\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}\b" />
-<button id="mntl-newsletter-submit__button_1-0" class="comp btn btn-go mntl-newsletter-submit__button mntl-button" type="submit">
-Newsletter!
-</button><!-- end: comp btn btn-go mntl-newsletter-submit__button mntl-button -->
-</div><!-- end: comp mntl-newsletter-submit mntl-newsletter-submit__input-wrapper -->
-</form><!-- end: comp header-newsletter--inactive header-newsletter mntl-newsletter-signup -->
-<!--end mntl-newsletter-signup-->
-<div id="general-search_1-0" class="comp general-search" data-tracking-container="true">
-<button class="search-icon search__mobile-btn">
-<span class="is-text-hidden">Search</span>
-<svg class="icon icon-search ">
-<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-search"></use>
-</svg>
-</button>
-<form class="general-search-form" role="search" action="/search" method="get">
-<div class="input-group">
-<span class="general-search__close">Close</span>
-<label for="general-search-search-input" class="is-vishidden">Search the site</label>
-<input type="text" name="q" id="general-search-search-input" class="general-search-input" placeholder="Search here..." type="text" required="required" value="">
-<button class="btn btn-go">GO</button>
-</div>
-</form>
-</div><!-- end: comp general-search -->
-<div class="header-nav-panel">
-<nav id="fullscreen-nav_1-0" class="comp fullscreen-nav" role="navigation" data-tracking-container="true">
-<ul class="fullscreen-nav-list">
-<li class="fullscreen-nav-list-item">
-<div class="fullscreen-nav-title fullscreen-nav-title--news">
-News
-</div>
-<ul class="fullscreen-nav-sub">
-<li>
-<a
-href="https://www.lifewire.com/mobile-phone-news-4796390"
-> Phones
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/internet-networking-security-news-4796476"
-> Internet & Security
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/computer-laptop-tablet-news-4797030"
-> Computers
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/smart-home-connected-life-news-4797031"
-> Smart Home
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/home-theater-news-4797032"
-> Home Theater
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/software-app-news-4797035"
-> Software & Apps
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/social-media-news-4797037"
-> Social Media
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/streaming-news-4797038"
-> Streaming
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/gaming-news-4797039"
-> Gaming
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/news-4795879"
-> ALL NEWS
-</a><!-- end: --> </li>
-</uL>
-</li>
-<li class="fullscreen-nav-list-item">
-<div class="fullscreen-nav-title fullscreen-nav-title--best-products">
-Best Products
-</div>
-<ul class="fullscreen-nav-sub">
-<li>
-<a
-href="https://www.lifewire.com/audio-reviews-4102649"
-> Audio
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/camera-and-video-reviews-4102644"
-> Camera & Video
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/car-audio-and-accessory-reviews-4689590"
-> Car Audio & Accessories
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/computer-and-laptop-reviews-4102643"
-> Computer & Laptops
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/computer-component-and-accessory-reviews-4102588"
-> Computer Accessories
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/games-console-reviews-4102640"
-> Gaming
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/gift-reviews-4689608"
-> Gifts
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/networking-reviews-4689609"
-> Networking
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/phone-reviews-4102642"
-> Phones
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/smart-home-and-gadget-reviews-4102646"
-> Smart Home
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/software-reviews-4102744"
-> Software
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/tablet-accessory-reviews-4689611"
-> Tablets
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/toy-and-game-reviews-4689612"
-> Toys & Games
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/tv-reviews-4102645"
-> TVs
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/wearable-reviews-4689613"
-> Wearables
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/best-products-4781319"
-> ALL BEST-OF & REVIEWS
-</a><!-- end: --> </li>
-</uL>
-</li>
-<li class="fullscreen-nav-list-item">
-<div class="fullscreen-nav-title fullscreen-nav-title--mobile-phones">
-Mobile Phones
-</div>
-<ul class="fullscreen-nav-sub">
-<li>
-<a
-href="https://www.lifewire.com/iphone-and-ios-4781515"
-> iPhone & iOS
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/android-4781512"
-> Android
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/samsung-4781518"
-> Samsung
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/google-4781514"
-> Google
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/ringtones-4781517"
-> Ringtones
-</a><!-- end: --> </li>
-</uL>
-</li>
-<li class="fullscreen-nav-list-item">
-<div class="fullscreen-nav-title fullscreen-nav-title--computers">
-Computers
-</div>
-<ul class="fullscreen-nav-sub">
-<li>
-<a
-href="https://www.lifewire.com/microsoft-4781334"
-> Microsoft
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/apple-4781330"
-> Apple
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/google-4781333"
-> Google
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/tablets-4781335"
-> Tablets
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/accessories-and-hardware-4781228"
-> Accessories & Hardware
-</a><!-- end: --> </li>
-</uL>
-</li>
-<li class="fullscreen-nav-list-item">
-<div class="fullscreen-nav-title fullscreen-nav-title--smart-life">
-Smart Life
-</div>
-<ul class="fullscreen-nav-sub">
-<li>
-<a
-href="https://www.lifewire.com/smart-home-4781526"
-> Smart Home
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/smart-watches-and-wearables-4781531"
-> Wearables
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/connected-car-tech-4781520"
-> Connected Car
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/travel-tech-4781532"
-> Travel Tech
-</a><!-- end: --> </li>
-</uL>
-</li>
-<li class="fullscreen-nav-list-item">
-<div class="fullscreen-nav-title fullscreen-nav-title--streaming">
-Streaming
-</div>
-<ul class="fullscreen-nav-sub">
-<li>
-<a
-href="https://www.lifewire.com/streaming-devices-4781581"
-> Streaming Devices
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/streaming-tv-movies-4781586"
-> Streaming TV & Movies
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/music-podcasts-and-audio-4781569"
-> Music & Podcasts
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/cutting-the-cord-4781568"
-> Cutting the Cord
-</a><!-- end: --> </li>
-</uL>
-</li>
-<li class="fullscreen-nav-list-item">
-<div class="fullscreen-nav-title fullscreen-nav-title--gaming">
-Gaming
-</div>
-<ul class="fullscreen-nav-sub">
-<li>
-<a
-href="https://www.lifewire.com/consoles-and-pcs-4781447"
-> Consoles & PCs
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/cheats-and-codes-4781446"
-> Cheats & Codes
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/gaming-services-4781450"
-> Gaming Services
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/mobile-gaming-4102616"
-> Mobile Gaming
-</a><!-- end: --> </li>
-</uL>
-</li>
-<li class="fullscreen-nav-list-item">
-<div class="fullscreen-nav-title fullscreen-nav-title--social-media">
-Social Media
-</div>
-<ul class="fullscreen-nav-sub">
-<li>
-<a
-href="https://www.lifewire.com/facebook-4102612"
-> Facebook
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/instagram-4102611"
-> Instagram
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/snapchat-4781537"
-> Snapchat
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/youtube-4781539"
-> YouTube
-</a><!-- end: --> </li>
-</uL>
-</li>
-<li class="fullscreen-nav-list-item">
-<div class="fullscreen-nav-title fullscreen-nav-title--software-&-apps">
-Software & Apps
-</div>
-<ul class="fullscreen-nav-sub">
-<li>
-<a
-href="https://www.lifewire.com/apps-4781542"
-> Apps
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/windows-4781566"
-> Windows
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/ms-office-4781562"
-> MS Office
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/google-drive-4781553"
-> Google Drive
-</a><!-- end: --> </li>
-</uL>
-</li>
-<li class="fullscreen-nav-list-item">
-<div class="fullscreen-nav-title fullscreen-nav-title--home-theater">
-Home Theater
-</div>
-<ul class="fullscreen-nav-sub">
-<li>
-<a
-href="https://www.lifewire.com/tv-and-displays-4781461"
-> TV & Displays
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/audio-4781454"
-> Audio
-</a><!-- end: --> </li>
-<li>
-<a
-href="https://www.lifewire.com/dvds-dvrs-and-videos-4781460"
-> DVDs, DVRs & Videos
-</a><!-- end: --> </li>
-</uL>
-</li>
-<li>
-<form id="hamburger-newsletter_1-0" class="comp hamburger-newsletter mntl-newsletter-signup" method="POST" action="/newsletter/signup">
-<div id="mntl-newsletter-signup__heading_1-0" class="comp mntl-newsletter-signup__heading mntl-text-block">
-Get tech’s top stories in 30 seconds:</div><!-- end: comp mntl-newsletter-signup__heading mntl-text-block -->
-<div id="mntl-newsletter-submit_3-0" class="comp mntl-newsletter-submit mntl-newsletter-submit__input-wrapper">
-<input type="hidden" name="list[]" value="computersl" />
-<input type="hidden" name="customEventName" value="" />
-<input type="hidden" value="291a0a1634a3ff2a4f3961d30273a6e6" name="CSRFToken" />
-<label class="mntl-newsletter-submit__label is-vishidden" for="mntl-newsletter-submit_3-0__input">Email Address</label>
-<input class="mntl-newsletter-submit__input" id="mntl-newsletter-submit_3-0__input" type="email" name="email" placeholder="enter email" required pattern="\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}\b" />
-<button id="mntl-newsletter-submit__button_3-0" class="comp linked-button mntl-newsletter-submit__button mntl-button" type="submit">
-Sign up
-</button><!-- end: comp linked-button mntl-newsletter-submit__button mntl-button -->
-</div><!-- end: comp mntl-newsletter-submit mntl-newsletter-submit__input-wrapper -->
-<div id="mntl-newsletter-signup__error_1-0" class="comp mntl-newsletter-signup__error mntl-text-block">
-There was an error. Please try again.</div><!-- end: comp mntl-newsletter-signup__error mntl-text-block -->
-<div id="mntl-newsletter-signup__success_1-0" class="comp mntl-newsletter-signup__success mntl-text-block">
-Thanks!</div><!-- end: comp mntl-newsletter-signup__success mntl-text-block -->
-</form><!-- end: comp hamburger-newsletter mntl-newsletter-signup -->
-<!--end mntl-newsletter-signup-->
-</li>
-<li>
-<ul id="contact-nav_1-0" class="comp contact-nav">
-<li class="contact-nav__nav-item"><a
-href="/about-us-5081224"
->About Us</a><!-- end: --></li>
-<li class="contact-nav__nav-item"><a
-href="/about-us-5081224#contact-us"
->Contact Us</a><!-- end: --></li>
-<li class="contact-nav__nav-item"><a
-href="/about-us-5081224#editorial-guidelines"
->Editorial Guidelines</a><!-- end: --></li>
-<li class="contact-nav__nav-item"><a
-href="/legal-4778041#privacy-policy"
->Privacy Policy</a><!-- end: --></li>
-</ul><!-- end: comp contact-nav -->
-</li>
-</ul>
-</nav><!-- end: comp fullscreen-nav -->
-</div>
-<div id="progress-bar_1-0" class="comp progress-bar mntl-block"></div><!-- end: comp progress-bar mntl-block -->
-</header><!-- end: comp header -->
-<div id="mntl-leaderboard-header_1-0" class="comp leaderboard--header has-right-label mntl-leaderboard-header mntl-flexible-leaderboard mntl-flexible-ad mntl-gpt-adunit gpt leaderboard ">
-<div id="leaderboard" class="wrapper"></div>
-</div><!-- end: comp leaderboard--header has-right-label mntl-leaderboard-header mntl-flexible-leaderboard mntl-flexible-ad mntl-gpt-adunit gpt leaderboard -->
-<div id="mntl-leaderboard-spacer_1-0" class="comp js-rollaway-spacer mntl-leaderboard-spacer mntl-block"></div><!-- end: comp js-rollaway-spacer mntl-leaderboard-spacer mntl-block -->
-<main id="main" class="loc main" role="main">
-<iframe id="height-change-listener" role="none" tabindex="-1" src="about:blank" aria-hidden="true"></iframe>
-<article id="article_1-0" class="comp right-rail article" data-title="How to Copy Code From a Website" data-tt="STRUCTUREDCONTENT" data-aid="4ffdaff01900ff5a228026df" role="article" data-doc-id="3486220" data-au="92025" data-url="https://www.lifewire.com/copy-code-from-website-3486220" data-t="110" data-tracking-container="true">
-<header class="loc article-header article-header">
-<div id="breadcrumbs_1-0" class="comp breadcrumbs" data-tracking-container="true">
-<a
-href="https://www.lifewire.com/internet-networking-and-security-4781467"
-class="breadcrumbs-link"
-> Internet, Networking, & Security
-</a><!-- end: breadcrumbs-link --> <svg class="icon icon-caret-right breadcrumbs__separator">
-<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-caret-right"></use>
-</svg>
-<a
-href="https://www.lifewire.com/web-development-4781505"
-class="breadcrumbs-link"
-> Web Development
-</a><!-- end: breadcrumbs-link --></div><!-- end: comp breadcrumbs -->
-<h1 id="article-heading_1-0" class="comp article-heading mntl-text-block">
-How to Copy Code From a Website</h1><!-- end: comp article-heading mntl-text-block -->
-<h2 id="article-subheading_1-0" class="comp article-subheading">
-View and copy code from any website using Chrome, Firefox, or Safari</h2><!-- end: comp article-subheading -->
-</header>
-<div class="loc article-header-meta article-header-meta">
-<div id="article-meta-dynamic_1-0" class="comp right-rail__offset pre-content article-meta-dynamic article-meta mntl-block" data-tracking-container="true">
-<div id="byline_1-0" class="comp byline mntl-byline mntl-block">
-<span id="mntl-byline__text_1-0" class="comp mntl-byline__text mntl-text-block">
-by</span><!-- end: comp mntl-byline__text mntl-text-block -->
-<div id="mntl-byline__name_1-0" class="comp mntl-byline__name mntl-block" data-tooltip>
-<div id="mntl-bio-tooltip_1-0" class="comp mntl-bio-tooltip bio-tooltip mntl-block" data-tracking-container="true">
-<div id="mntl-bio-tooltip__top_1-0" class="comp mntl-bio-tooltip__top mntl-block">
-<div id="mntl-bio-tooltip__header_1-0" class="comp mntl-bio-tooltip__header mntl-block">
-<div id="mntl-bio-tooltip__image-wrapper_1-0" class="comp mntl-bio-tooltip__image-wrapper mntl-block">
-<img
-src="https://www.lifewire.com/thmb/i-pGaaM8IL9wIhCC8dRxTSQhJAk=/200x200/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DanNations-b3e3901c63b544bf8588ac2fc6231f60.jpg"
-alt="Daniel Nations"
-class=" mntl-bio-tooltip__image mntl-image "
-url=""
-/>
-</div><!-- end: comp mntl-bio-tooltip__image-wrapper mntl-block -->
-<div id="mntl-bio-tooltip__header-content_1-0" class="comp mntl-bio-tooltip__header-content mntl-block">
-<div id="mntl-bio-tooltip__name_1-0" class="comp mntl-bio-tooltip__name mntl-block">
-<span id="mntl-bio-tooltip__prelink_1-0" class="comp mntl-bio-tooltip__prelink mntl-text-block"></span><!-- end: comp mntl-bio-tooltip__prelink mntl-text-block -->
-<a
-href="https://www.lifewire.com/daniel-nations-1993996"
-id="mntl-bio-tooltip__link_1-0"
-class=" mntl-bio-tooltip__link mntl-text-link"
-data-tracking-container="true"
-><span class="link__wrapper">Daniel Nations</span></a><!-- end: mntl-bio-tooltip__link mntl-text-link -->
-<span id="mntl-bio-tooltip__postlink_1-0" class="comp mntl-bio-tooltip__postlink mntl-text-block"></span><!-- end: comp mntl-bio-tooltip__postlink mntl-text-block -->
-</div><!-- end: comp mntl-bio-tooltip__name mntl-block -->
-<div id="mntl-bio-tooltip__job-title_1-0" class="comp mntl-bio-tooltip__job-title mntl-block">
-<span id="mntl-bio-tooltip__job-title-text_1-0" class="comp mntl-bio-tooltip__job-title-text mntl-text-block">
-Writer</span><!-- end: comp mntl-bio-tooltip__job-title-text mntl-text-block -->
-</div><!-- end: comp mntl-bio-tooltip__job-title mntl-block -->
-</div><!-- end: comp mntl-bio-tooltip__header-content mntl-block -->
-</div><!-- end: comp mntl-bio-tooltip__header mntl-block -->
-<div id="mntl-bio-tooltip__bio_1-0" class="comp mntl-bio-tooltip__bio mntl-text-block">
-Daniel Nations has been a tech journalist since 1994. His work has appeared in Computer Currents, The Examiner, The Spruce, and other publications.</div><!-- end: comp mntl-bio-tooltip__bio mntl-text-block -->
-</div><!-- end: comp mntl-bio-tooltip__top mntl-block -->
-<div id="mntl-bio-tooltip__bottom_1-0" class="comp mntl-bio-tooltip__bottom mntl-block">
-<div id="mntl-bio-tooltip__learn-more_1-0" class="comp mntl-bio-tooltip__learn-more mntl-block">
-<a
-href="/about-us-5081224#editorial-guidelines"
-id="mntl-text-link_1-0"
-class=" mntl-text-link"
-data-tracking-container="true"
-><span class="link__wrapper">our editorial process</span></a><!-- end: mntl-text-link -->
-</div><!-- end: comp mntl-bio-tooltip__learn-more mntl-block -->
-<div id="bio-tooltip__social-follow-wrapper_1-0" class="comp bio-tooltip__social-follow-wrapper mntl-block">
-<div id="bio-tooltip__social-follow_1-0" class="comp extended bio-tooltip__social-follow social-follow" data-tracking-container="true">
-<ul class="bio-tooltip__social-follow-list">
-<li>
-<a class="social-follow-btn social-follow-btn-facebook-color show-label" href="https://www.facebook.com/about.ipad" data-network="facebook-color">
-<svg class="icon icon-facebook-color ">
-<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-facebook-color"></use>
-</svg>
-<span class="label">Facebook</span>
-</a>
-</li>
-<li>
-<a class="social-follow-btn social-follow-btn-twitter-color show-label" href="https://twitter.com/danielnations" data-network="twitter-color">
-<svg class="icon icon-twitter-color ">
-<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-twitter-color"></use>
-</svg>
-<span class="label">Twitter</span>
-</a>
-</li>
-<li>
-<a class="social-follow-btn social-follow-btn-linkedin-color show-label" href="https://www.linkedin.com/in/danielnations/" data-network="linkedin-color">
-<svg class="icon icon-linkedin-color ">
-<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-linkedin-color"></use>
-</svg>
-<span class="label">LinkedIn</span>
-</a>
-</li>
-</ul>
-</div><!-- end: comp extended bio-tooltip__social-follow social-follow -->
-</div><!-- end: comp bio-tooltip__social-follow-wrapper mntl-block -->
-</div><!-- end: comp mntl-bio-tooltip__bottom mntl-block -->
-</div><!-- end: comp mntl-bio-tooltip bio-tooltip mntl-block -->
-<a
-href="https://www.lifewire.com/daniel-nations-1993996"
-id="mntl-byline__link_1-0"
-class=" mntl-byline__link mntl-text-link"
-data-tracking-container="true"
-><span class="link__wrapper">Daniel Nations</span></a><!-- end: mntl-byline__link mntl-text-link -->
-</div><!-- end: comp mntl-byline__name mntl-block -->
-</div><!-- end: comp byline mntl-byline mntl-block -->
-<div id="mntl-updated-stamp_1-0" class="comp mntl-updated-stamp mntl-block">
-<span id="mntl-updated-stamp__text_1-0" class="comp mntl-updated-stamp__text mntl-text-block">
-Updated on December 16, 2020</span><!-- end: comp mntl-updated-stamp__text mntl-text-block -->
-</div><!-- end: comp mntl-updated-stamp mntl-block -->
-</div><!-- end: comp right-rail__offset pre-content article-meta-dynamic article-meta mntl-block -->
-</div>
-<div class="loc left-rail">
-<div id="social-share-block_1-0" class="comp social-share-block mntl-block">
-<ul id="social-share_1-0" class="comp social-share mntl-social-share share" data-title="How to Easily Copy a Web Page&#39;s Code From Within Your Browser" data-description="Learn how to view code and copy any code you would like to use from any website using Chrome, Firefox, or Safari." data-tracking-container="true">
-<li class="share-item share-item-twitter">
-<span data-href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.lifewire.com%2Fcopy-code-from-website-3486220%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dshareurlbuttons&via=lifewiretech&text=How+to+Easily+Copy+a+Web+Page%27s+Code+From+Within+Your+Browser"
-data-network="twitter"
-data-click-tracked="true"
-class="share-link share-link-twitter"
-title="Share on Twitter">
-<svg class="icon icon-twitter ">
-<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-twitter"></use>
-</svg>
-Tweet
-</span>
-</li>
-<li class="share-item share-item-facebook">
-<span data-href="https://www.facebook.com/dialog/share?app_id=1833670990199396&display=popup&href=https%3A%2F%2Fwww.lifewire.com%2Fcopy-code-from-website-3486220%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dshareurlbuttons&redirect_uri=https%3A%2F%2Fwww.lifewire.com%2FfacebookShareRedirect.htm"
-data-network="facebook"
-data-click-tracked="true"
-class="share-link share-link-facebook"
-title="Share on Facebook">
-<svg class="icon icon-facebook ">
-<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-facebook"></use>
-</svg>
-Share
-</span>
-</li>
-<li class="share-item share-item-email">
-<span data-href="https://www.lifewire.com/copy-code-from-website-3486220?utm_source=emailshare&utm_medium=social&utm_campaign=shareurlbuttons"
-data-network="emailshare"
-data-click-tracked="true"
-class="share-link share-link-email"
-title="Email this article">
-<svg class="icon icon-envelope ">
-<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-envelope"></use>
-</svg>
-Email
-</span>
-</li>
-</ul><!-- end: comp social-share mntl-social-share share -->
-<form id="print-button_1-0" class="comp print-button mntl-print-button" method="POST" action="/copy-code-from-website-3486220?print" target="_blank" aria-label="Print this article." data-tracking-container="true">
-<button class="mntl-print-button__btn" aria-label="Print this article.">
-<svg class="icon icon-print mntl-print-button__icon">
-<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-print"></use>
-</svg>
-</button>
-<input type="hidden" value="true" name="print" />
-<input type="hidden" value="291a0a1634a3ff2a4f3961d30273a6e6" name="CSRFToken" />
-</form><!-- end: comp print-button mntl-print-button -->
-</div><!-- end: comp social-share-block mntl-block -->
-<div id="breadcrumbs-list_3-0" class="comp breadcrumbs-list hide-toplevel-small" data-tracking-container="true">
-<span class="breadcrumbs-list-title">
-<a
-href="https://www.lifewire.com/web-development-4781505"
->Web Development</a><!-- end: -->
-</span>
-<ul class="breadcrumbs-list-list">
-<li class="breadcrumbs-list-item is-active empty-submenu">
-<a
-href="https://www.lifewire.com/css-and-html-4781506"
-data-ordinal="1"
-class="breadcrumbs-list-link is-active"
-> <svg class="icon icon-caret-right breadcrumbs-list-icon-active">
-<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-caret-right"></use>
-</svg>
-CSS & HTML
-<svg class="icon icon-caret-right breadcrumbs-list-icon">
-<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-caret-right"></use>
-</svg>
-</a><!-- end: breadcrumbs-list-link is-active -->
-<ul class="breadcrumbs-list-submenu">
-</ul>
-</li>
-<li class="breadcrumbs-list-item empty-submenu">
-<a
-href="https://www.lifewire.com/web-design-4781508"
-data-ordinal="2"
-class="breadcrumbs-list-link"
-> Web Design
-<svg class="icon icon-caret-right breadcrumbs-list-icon">
-<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-caret-right"></use>
-</svg>
-</a><!-- end: breadcrumbs-list-link -->
-</li>
-<li class="breadcrumbs-list-item empty-submenu">
-<a
-href="https://www.lifewire.com/sql-4781507"
-data-ordinal="3"
-class="breadcrumbs-list-link"
-> SQL
-<svg class="icon icon-caret-right breadcrumbs-list-icon">
-<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-caret-right"></use>
-</svg>
-</a><!-- end: breadcrumbs-list-link -->
-</li>
-</ul>
-</div><!-- end: comp breadcrumbs-list hide-toplevel-small -->
-</div>
-<div id="article-content_1-0" class="comp article-content mntl-block">
-<div id="mntl-sc-page_1-0" class="comp structured-content expert-content mntl-sc-page mntl-block" data-sc-sticky-offset="90" data-sc-ad-label-height="24" data-sc-ad-track-spacing="100" data-sc-min-track-height="250" data-sc-max-track-height="600" data-sc-breakpoint="54em" data-sc-load-immediate="4" data-sc-content-positions="[1,1050,1250,1550,1950,2350,2750,3150]" data-bind-scroll-on-start="true">
-<div id="mntl-sc-block_1-0" class="comp theme-generic mntl-sc-block tech-sc-block-callout mntl-sc-block-callout mntl-block" data-tracking-id="mntl-sc-block-callout" data-tracking-container="true">
-<h3 id="mntl-sc-block-callout-heading_1-0" class="comp mntl-sc-block-callout-heading mntl-text-block">
-What to Know</h3><!-- end: comp mntl-sc-block-callout-heading mntl-text-block -->
-<div id="mntl-sc-block-callout-body_1-0" class="comp mntl-sc-block-callout-body mntl-text-block">
-<ul>
-<li>Chrome: Right-click a blank space on the page and choose <strong>View Page Source</strong>. Highlight the code, then copy and paste to a text file.</li>
-<li>Firefox: From the menu bar, choose <strong>Tools</strong> &gt; <strong>Web Developer</strong> &gt; <strong>Page Source</strong>. Highlight the code, then copy and paste to a text file.</li>
-<li>Safari: Select <strong>Show Develop </strong>in Advanced Settings. Choose <strong>Develop</strong> &gt; <strong>Show Page Source</strong>. Copy and paste the code into a text file.</li>
-</ul></div><!-- end: comp mntl-sc-block-callout-body mntl-text-block -->
-</div><!-- end: comp theme-generic mntl-sc-block tech-sc-block-callout mntl-sc-block-callout mntl-block -->
-<p id="mntl-sc-block_1-0-1" class="comp mntl-sc-block mntl-sc-block-html">
-If you're a web user, <a href="https://www.lifewire.com/web-design-vs-development-3468907" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="1" rel="noopener noreferrer">designer, or&nbsp;developer</a> who often comes across great looking websites with features you'd like to emulate, you can <a href="https://www.lifewire.com/view-web-source-code-4151702" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="2" rel="noopener noreferrer">view or save the website code</a> for your reference. In this guide, we show you how to copy website code using Chrome, Firefox, and Safari.
-</p><!-- end: comp mntl-sc-block mntl-sc-block-html -->
-<div id="mntl-sc-block_1-0-2" class="comp mntl-sc-block mntl-sc-block-adslot mntl-block"></div><!-- end: comp mntl-sc-block mntl-sc-block-adslot mntl-block -->
-<span class="heading-toc" id="how-to-copy-code-in-google-chrome"></span> <h2 id="mntl-sc-block_1-0-3" class="comp mntl-sc-block tech-sc-block-heading mntl-sc-block-heading"> <span class="mntl-sc-block-heading__text"> How to Copy Code in Google Chrome </span> </h2><!-- end: comp mntl-sc-block tech-sc-block-heading mntl-sc-block-heading -->
-<OL id="mntl-sc-block_1-0-4" class="comp mntl-sc-block-group--OL mntl-sc-block mntl-sc-block-startgroup"><!-- end: comp mntl-sc-block-group--OL mntl-sc-block mntl-sc-block-startgroup -->
-<LI id="mntl-sc-block_1-0-5" class="comp mntl-sc-block-group--LI mntl-sc-block mntl-sc-block-startgroup"><!-- end: comp mntl-sc-block-group--LI mntl-sc-block mntl-sc-block-startgroup -->
-<p id="mntl-sc-block_1-0-6" class="comp mntl-sc-block mntl-sc-block-html">
-Open up <a href="https://www.lifewire.com/what-is-google-chrome-4687647" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="1">Chrome</a> and navigate to the web page that you want to copy.
-</p><!-- end: comp mntl-sc-block mntl-sc-block-html -->
-<div id="mntl-sc-block_1-0-7" class="comp mntl-sc-block mntl-sc-block-adslot mntl-block"></div><!-- end: comp mntl-sc-block mntl-sc-block-adslot mntl-block -->
-</LI>
-<LI id="mntl-sc-block_1-0-9" class="comp mntl-sc-block-group--LI mntl-sc-block mntl-sc-block-startgroup"><!-- end: comp mntl-sc-block-group--LI mntl-sc-block mntl-sc-block-startgroup -->
-<p id="mntl-sc-block_1-0-10" class="comp mntl-sc-block mntl-sc-block-html">
-<strong>Right-click</strong> on a blank space or empty area on the web page. Just make sure you don't right click on a link, an image, or any other feature.&nbsp;
-</p><!-- end: comp mntl-sc-block mntl-sc-block-html -->
-<div id="mntl-sc-block_1-0-11" class="comp mntl-sc-block mntl-sc-block-adslot mntl-block"></div><!-- end: comp mntl-sc-block mntl-sc-block-adslot mntl-block -->
-</LI>
-<LI id="mntl-sc-block_1-0-13" class="comp mntl-sc-block-group--LI mntl-sc-block mntl-sc-block-startgroup"><!-- end: comp mntl-sc-block-group--LI mntl-sc-block mntl-sc-block-startgroup -->
-<p id="mntl-sc-block_1-0-14" class="comp mntl-sc-block mntl-sc-block-html">
-You'll know you'll have clicked in a blank space or empty area if you see an option labeled <strong>View Page Source</strong> in the menu that appears. Select <strong>View Page Source</strong>&nbsp;to show the web page's code.
-</p><!-- end: comp mntl-sc-block mntl-sc-block-html -->
-<div id="mntl-sc-block_1-0-15" class="comp mntl-sc-block mntl-sc-block-adslot mntl-block"></div><!-- end: comp mntl-sc-block mntl-sc-block-adslot mntl-block -->
-</LI>
-<LI id="mntl-sc-block_1-0-17" class="comp mntl-sc-block-group--LI mntl-sc-block mntl-sc-block-startgroup"><!-- end: comp mntl-sc-block-group--LI mntl-sc-block mntl-sc-block-startgroup -->
-<p id="mntl-sc-block_1-0-18" class="comp mntl-sc-block mntl-sc-block-html">
-Copy the entire code by highlighting all or just the specific area of code that you want, pressing <strong>Ctrl+C</strong> or <strong>Command+C</strong> on your keyboard and then paste the code into a text or document file.
-</p><!-- end: comp mntl-sc-block mntl-sc-block-html -->
-<div id="mntl-sc-block_1-0-19" class="comp mntl-sc-block mntl-sc-block-adslot mntl-block"></div><!-- end: comp mntl-sc-block mntl-sc-block-adslot mntl-block -->
-</LI>
-</OL>
-<figure id="mntl-sc-block_1-0-22" class="comp mntl-sc-block tech-sc-block-image mntl-sc-block-image figure-landscape figure-high-res">
-<div class="figure-media">
-<div class="img-placeholder" style="padding-bottom:66.5%;">
-<img
-data-srcset="https://www.lifewire.com/thmb/fw5Amqlg8pvH1_bfVjn9Fpkbt3o=/300x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-666671538-5a924f056bf06900379aa8a0-c011db5a5d1b4e1ca222152a8cea3c3a.jpg 300w, https://www.lifewire.com/thmb/5cEw69SKeOmb9Z3Dqqpo3tbRJQc=/543x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-666671538-5a924f056bf06900379aa8a0-c011db5a5d1b4e1ca222152a8cea3c3a.jpg 543w, https://www.lifewire.com/thmb/ECTWGsFfx7W3xKJi79y4o8zA95Q=/786x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-666671538-5a924f056bf06900379aa8a0-c011db5a5d1b4e1ca222152a8cea3c3a.jpg 786w, https://www.lifewire.com/thmb/KclSganBklsLX44fAtUm2psJ8Eo=/1273x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-666671538-5a924f056bf06900379aa8a0-c011db5a5d1b4e1ca222152a8cea3c3a.jpg 1273w"
-data-src="https://www.lifewire.com/thmb/mdyuLEnS0URObjMxnVc4sDqttVY=/1273x847/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-666671538-5a924f056bf06900379aa8a0-c011db5a5d1b4e1ca222152a8cea3c3a.jpg"
-src="data:image/gif;charset=utf-8;base64,R0lGODlhCgAHAPQAAKGjurKztf/Pxv/H0uny7/7p7v/j9fb27vj25/L//Pr78/n49vn////4/fz8/P7+/v7//////6GjuqGjuqGjuqGjuqGjuqGjuqGjuqGjuqGjuqGjuqGjuqGjuqGjuqGjuiwAAAAACgAHAEQIKgAjFIhAsCDBBxEgEDBwoAGEgwUfGiQYIIGAAQAUIJjIMQKDjgUdLOAYEAA7"
-data-placeholder="blurry"
-alt="A website&#39;s source code."
-class="lazyload"
-data-click-tracked="true" data-img-lightbox="true" data-owner=" Evgenii_Bobrov / Getty Images" data-caption="" data-expand="300" id="mntl-sc-block-image_1-0-22" data-tracking-container="true"
-/>
-</div> </div>
-<figcaption id="mntl-figure-caption_1-0" class="comp mntl-figure-caption figure-article-caption">
-<span class="figure-article-caption-owner"> Evgenii_Bobrov / Getty Images</span>
-</figcaption><!-- end: comp mntl-figure-caption figure-article-caption -->
-</figure><!-- end: comp mntl-sc-block tech-sc-block-image mntl-sc-block-image figure-landscape figure-high-res -->
-<span class="heading-toc" id="how-to-copy-code-in-mozilla-firefox"></span> <h2 id="mntl-sc-block_1-0-23" class="comp mntl-sc-block tech-sc-block-heading mntl-sc-block-heading"> <span class="mntl-sc-block-heading__text"> How to Copy Code in Mozilla Firefox </span> </h2><!-- end: comp mntl-sc-block tech-sc-block-heading mntl-sc-block-heading -->
-<OL id="mntl-sc-block_1-0-24" class="comp mntl-sc-block-group--OL mntl-sc-block mntl-sc-block-startgroup"><!-- end: comp mntl-sc-block-group--OL mntl-sc-block mntl-sc-block-startgroup -->
-<LI id="mntl-sc-block_1-0-25" class="comp mntl-sc-block-group--LI mntl-sc-block mntl-sc-block-startgroup"><!-- end: comp mntl-sc-block-group--LI mntl-sc-block mntl-sc-block-startgroup -->
-<p id="mntl-sc-block_1-0-26" class="comp mntl-sc-block mntl-sc-block-html">
-Open up <a href="https://www.lifewire.com/what-is-firefox-sync-4588448" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="1" rel="noopener noreferrer">Firefox</a> and navigate to the web page that you want to copy.
-</p><!-- end: comp mntl-sc-block mntl-sc-block-html -->
-<div id="mntl-sc-block_1-0-27" class="comp mntl-sc-block mntl-sc-block-adslot mntl-block"></div><!-- end: comp mntl-sc-block mntl-sc-block-adslot mntl-block -->
-</LI>
-<LI id="mntl-sc-block_1-0-29" class="comp mntl-sc-block-group--LI mntl-sc-block mntl-sc-block-startgroup"><!-- end: comp mntl-sc-block-group--LI mntl-sc-block mntl-sc-block-startgroup -->
-<p id="mntl-sc-block_1-0-30" class="comp mntl-sc-block mntl-sc-block-html">
-From the top menu, select <strong>Tools</strong> &gt; <strong>Web Developer</strong> &gt; <strong>Page Source</strong>.
-</p><!-- end: comp mntl-sc-block mntl-sc-block-html -->
-<div id="mntl-sc-block_1-0-31" class="comp mntl-sc-block mntl-sc-block-adslot mntl-block"></div><!-- end: comp mntl-sc-block mntl-sc-block-adslot mntl-block -->
-</LI>
-<LI id="mntl-sc-block_1-0-33" class="comp mntl-sc-block-group--LI mntl-sc-block mntl-sc-block-startgroup"><!-- end: comp mntl-sc-block-group--LI mntl-sc-block mntl-sc-block-startgroup -->
-<p id="mntl-sc-block_1-0-34" class="comp mntl-sc-block mntl-sc-block-html">
-A new tab will open with the page's code, which you can copy by highlighting a specific area or by <strong>right-clicking</strong> to <strong>Select All</strong> if you want all of the code.&nbsp;Press&nbsp;<strong>Ctrl+C</strong> or <strong>Command+C</strong> on your keyboard and paste it into a text or document file.
-</p><!-- end: comp mntl-sc-block mntl-sc-block-html -->
-<div id="mntl-sc-block_1-0-35" class="comp mntl-sc-block mntl-sc-block-adslot mntl-block"></div><!-- end: comp mntl-sc-block mntl-sc-block-adslot mntl-block -->
-</LI>
-</OL>
-<span class="heading-toc" id="how-to-copy-code-in-apple-safari"></span> <h2 id="mntl-sc-block_1-0-38" class="comp mntl-sc-block tech-sc-block-heading mntl-sc-block-heading"> <span class="mntl-sc-block-heading__text"> How to Copy Code in Apple Safari </span> </h2><!-- end: comp mntl-sc-block tech-sc-block-heading mntl-sc-block-heading -->
-<OL id="mntl-sc-block_1-0-39" class="comp mntl-sc-block-group--OL mntl-sc-block mntl-sc-block-startgroup"><!-- end: comp mntl-sc-block-group--OL mntl-sc-block mntl-sc-block-startgroup -->
-<LI id="mntl-sc-block_1-0-40" class="comp mntl-sc-block-group--LI mntl-sc-block mntl-sc-block-startgroup"><!-- end: comp mntl-sc-block-group--LI mntl-sc-block mntl-sc-block-startgroup -->
-<p id="mntl-sc-block_1-0-41" class="comp mntl-sc-block mntl-sc-block-html">
-Open up <a href="https://www.lifewire.com/what-is-safari-4173608" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="1">Safari</a> and navigate to the web page that you want to copy.
-</p><!-- end: comp mntl-sc-block mntl-sc-block-html -->
-<div id="mntl-sc-block_1-0-42" class="comp mntl-sc-block mntl-sc-block-adslot mntl-block"></div><!-- end: comp mntl-sc-block mntl-sc-block-adslot mntl-block -->
-</LI>
-<LI id="mntl-sc-block_1-0-44" class="comp mntl-sc-block-group--LI mntl-sc-block mntl-sc-block-startgroup"><!-- end: comp mntl-sc-block-group--LI mntl-sc-block mntl-sc-block-startgroup -->
-<p id="mntl-sc-block_1-0-45" class="comp mntl-sc-block mntl-sc-block-html">
-Click on Safari in the top menu and then click <strong>Preferences</strong>.
-</p><!-- end: comp mntl-sc-block mntl-sc-block-html -->
-<div id="mntl-sc-block_1-0-46" class="comp mntl-sc-block mntl-sc-block-adslot mntl-block"></div><!-- end: comp mntl-sc-block mntl-sc-block-adslot mntl-block -->
-</LI>
-<LI id="mntl-sc-block_1-0-48" class="comp mntl-sc-block-group--LI mntl-sc-block mntl-sc-block-startgroup"><!-- end: comp mntl-sc-block-group--LI mntl-sc-block mntl-sc-block-startgroup -->
-<p id="mntl-sc-block_1-0-49" class="comp mntl-sc-block mntl-sc-block-html">
-In the top menu of the box that pops up over your browser, click the <strong>Advanced</strong> gear icon.
-</p><!-- end: comp mntl-sc-block mntl-sc-block-html -->
-<div id="mntl-sc-block_1-0-50" class="comp mntl-sc-block mntl-sc-block-adslot mntl-block"></div><!-- end: comp mntl-sc-block mntl-sc-block-adslot mntl-block -->
-</LI>
-<LI id="mntl-sc-block_1-0-52" class="comp mntl-sc-block-group--LI mntl-sc-block mntl-sc-block-startgroup"><!-- end: comp mntl-sc-block-group--LI mntl-sc-block mntl-sc-block-startgroup -->
-<p id="mntl-sc-block_1-0-53" class="comp mntl-sc-block mntl-sc-block-html">
-Make sure <strong>Show Develop </strong>menu in menu bar is checked <strong>off</strong>.
-</p><!-- end: comp mntl-sc-block mntl-sc-block-html -->
-<div id="mntl-sc-block_1-0-54" class="comp mntl-sc-block mntl-sc-block-adslot mntl-block"></div><!-- end: comp mntl-sc-block mntl-sc-block-adslot mntl-block -->
-</LI>
-<LI id="mntl-sc-block_1-0-56" class="comp mntl-sc-block-group--LI mntl-sc-block mntl-sc-block-startgroup"><!-- end: comp mntl-sc-block-group--LI mntl-sc-block mntl-sc-block-startgroup -->
-<p id="mntl-sc-block_1-0-57" class="comp mntl-sc-block mntl-sc-block-html">
-Close the <strong>Preferences</strong> box and click the <strong>Develop</strong> option in the top menu.
-</p><!-- end: comp mntl-sc-block mntl-sc-block-html -->
-<div id="mntl-sc-block_1-0-58" class="comp mntl-sc-block mntl-sc-block-adslot mntl-block"></div><!-- end: comp mntl-sc-block mntl-sc-block-adslot mntl-block -->
-</LI>
-<LI id="mntl-sc-block_1-0-60" class="comp mntl-sc-block-group--LI mntl-sc-block mntl-sc-block-startgroup"><!-- end: comp mntl-sc-block-group--LI mntl-sc-block mntl-sc-block-startgroup -->
-<p id="mntl-sc-block_1-0-61" class="comp mntl-sc-block mntl-sc-block-html">
-Click <a href="https://www.lifewire.com/view-html-source-in-safari-3469315" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="1"><strong>Show Page Source</strong></a> to bring up a tab with the code from the bottom of the page.
-</p><!-- end: comp mntl-sc-block mntl-sc-block-html -->
-<div id="mntl-sc-block_1-0-62" class="comp mntl-sc-block mntl-sc-block-adslot mntl-block"></div><!-- end: comp mntl-sc-block mntl-sc-block-adslot mntl-block -->
-</LI>
-<LI id="mntl-sc-block_1-0-64" class="comp mntl-sc-block-group--LI mntl-sc-block mntl-sc-block-startgroup"><!-- end: comp mntl-sc-block-group--LI mntl-sc-block mntl-sc-block-startgroup -->
-<p id="mntl-sc-block_1-0-65" class="comp mntl-sc-block mntl-sc-block-html">
-Use your mouse to <strong>drag</strong> the tab up your screen if you'd like to bring it up to view it in full and copy it&nbsp;by highlighting&nbsp;all or just the specific area of code that you want,&nbsp;pressing <strong>Ctrl+C</strong>&nbsp;or <strong>Command+C</strong> on your keyboard and then&nbsp;Paste it wherever you want.
-</p><!-- end: comp mntl-sc-block mntl-sc-block-html -->
-<div id="mntl-sc-block_1-0-66" class="comp mntl-sc-block mntl-sc-block-adslot mntl-block"></div><!-- end: comp mntl-sc-block mntl-sc-block-adslot mntl-block -->
-</LI>
-</OL>
-<div id="mntl-block_4-0" class="comp js-scads-inline-content mntl-block">
-<div id="mntl-block_5-0" class="comp mntl-block">
-<div id="tech-billboard1-sticky-dynamic_1-0" class="comp scads-to-load right-rail__item tech-billboard1-sticky-dynamic mntl-sc-sticky-billboard" data-height="1050" style="height: 1050px;">
-<div id="mntl-sc-sticky-billboard-ad_1-0" class="comp mntl-billboard mntl-sc-sticky-billboard-ad billboard1-dynamic mntl-dynamic-billboard mntl-gpt-dynamic-adunit mntl-gpt-adunit gpt billboard dynamic">
-<div id="billboard" class="wrapper" data-type="billboard" data-pos="atf" data-priority="2" data-sizes="[[300, 250],[300, 600],[160, 600],[300, 1050],[1, 2],&quot;fluid&quot;]" data-rtb="true" data-targeting="{}" data-auction-floor-id="7b993a7a510a45e797cdcc0950f8ae35" data-auction-floor-value="5"></div>
-</div><!-- end: comp mntl-billboard mntl-sc-sticky-billboard-ad billboard1-dynamic mntl-dynamic-billboard mntl-gpt-dynamic-adunit mntl-gpt-adunit gpt billboard dynamic -->
-</div><!-- end: comp scads-to-load right-rail__item tech-billboard1-sticky-dynamic mntl-sc-sticky-billboard -->
-</div><!-- end: comp mntl-block -->
-<div id="mntl-block_6-0" class="comp mntl-block">
-<div id="tech-billboard2-sticky-dynamic_1-0" class="comp scads-to-load right-rail__item tech-billboard2-sticky-dynamic mntl-sc-sticky-billboard" data-height="600" style="height: 600px;">
-<div id="mntl-sc-sticky-billboard-ad_3-0" class="comp mntl-billboard mntl-sc-sticky-billboard-ad billboard2-dynamic mntl-dynamic-billboard mntl-gpt-dynamic-adunit mntl-gpt-adunit gpt billboard dynamic">
-<div id="billboard2" class="wrapper" data-type="billboard" data-pos="btf1" data-priority="3" data-sizes="[[300, 250],[300, 600],[300, 601],[160, 600],[300, 251],[2, 1],&quot;fluid&quot;]" data-rtb="true" data-targeting="{}" data-auction-floor-id="5ee2ab71c22f48358cf20da9ca854a97" data-auction-floor-value="10"></div>
-</div><!-- end: comp mntl-billboard mntl-sc-sticky-billboard-ad billboard2-dynamic mntl-dynamic-billboard mntl-gpt-dynamic-adunit mntl-gpt-adunit gpt billboard dynamic -->
-</div><!-- end: comp scads-to-load right-rail__item tech-billboard2-sticky-dynamic mntl-sc-sticky-billboard -->
-</div><!-- end: comp mntl-block -->
-<div id="mntl-block_7-0" class="comp mntl-block">
-<div id="mntl-native_2-0" class="comp mntl-native" style="--native-ad-height: auto">
-<div id="native-placeholder_2-0" class="comp native-placeholder mntl-block"></div><!-- end: comp native-placeholder mntl-block -->
-<div id="mntl-native__adunit_2-0" class="comp scads-to-load mntl-native__adunit mntl-gpt-dynamic-adunit mntl-gpt-adunit gpt native dynamic">
-<div id="native" class="wrapper" data-type="native" data-pos="native" data-priority="4" data-sizes="[[1, 3],&quot;fluid&quot;]" data-rtb="true" data-targeting="{}"></div>
-</div><!-- end: comp scads-to-load mntl-native__adunit mntl-gpt-dynamic-adunit mntl-gpt-adunit gpt native dynamic -->
-</div><!-- end: comp mntl-native -->
-</div><!-- end: comp mntl-block -->
-<div id="mntl-block_8-0" class="comp mntl-block">
-<div id="tech-billboard3-sticky-dynamic_2-0" class="comp scads-to-load right-rail__item tech-billboard3-sticky-dynamic mntl-sc-sticky-billboard" data-height="600" style="height: 600px;">
-<div id="mntl-sc-sticky-billboard-ad_7-0" class="comp mntl-billboard mntl-sc-sticky-billboard-ad billboard3-dynamic mntl-dynamic-billboard mntl-gpt-dynamic-adunit mntl-gpt-adunit gpt billboard dynamic">
-<div id="billboard3" class="wrapper" data-type="billboard" data-pos="btf2" data-priority="5" data-sizes="[[300, 250],[300, 252],[3, 1],&quot;fluid&quot;]" data-rtb="true" data-targeting="{}" data-auction-floor-id="116ec8ed1951444499d40c9d86fc55a0" data-auction-floor-value="10"></div>
-</div><!-- end: comp mntl-billboard mntl-sc-sticky-billboard-ad billboard3-dynamic mntl-dynamic-billboard mntl-gpt-dynamic-adunit mntl-gpt-adunit gpt billboard dynamic -->
-</div><!-- end: comp scads-to-load right-rail__item tech-billboard3-sticky-dynamic mntl-sc-sticky-billboard -->
-</div><!-- end: comp mntl-block -->
-<div id="mntl-block_9-0" class="comp mntl-block">
-<div id="tech-billboard4-sticky-dynamic_2-0" class="comp scads-to-load right-rail__item tech-billboard4-sticky-dynamic mntl-sc-sticky-billboard" data-height="600" style="height: 600px;">
-<div id="mntl-sc-sticky-billboard-ad_9-0" class="comp mntl-billboard mntl-sc-sticky-billboard-ad billboard4-dynamic mntl-dynamic-billboard mntl-gpt-dynamic-adunit mntl-gpt-adunit gpt billboard dynamic">
-<div id="billboard4" class="wrapper" data-type="billboard" data-pos="btf3" data-priority="6" data-sizes="[[300, 250],[300, 253],[4, 1],&quot;fluid&quot;]" data-rtb="true" data-targeting="{}" data-auction-floor-id="b2ceee39e93142018296bf03fd0d6442" data-auction-floor-value="10"></div>
-</div><!-- end: comp mntl-billboard mntl-sc-sticky-billboard-ad billboard4-dynamic mntl-dynamic-billboard mntl-gpt-dynamic-adunit mntl-gpt-adunit gpt billboard dynamic -->
-</div><!-- end: comp scads-to-load right-rail__item tech-billboard4-sticky-dynamic mntl-sc-sticky-billboard -->
-</div><!-- end: comp mntl-block -->
-<div id="mntl-block_10-0" class="comp mntl-block">
-<div id="tech-billboard5-sticky-dynamic_2-0" class="comp scads-to-load right-rail__item tech-billboard5-sticky-dynamic mntl-sc-sticky-billboard" data-height="600" style="height: 600px;">
-<div id="mntl-sc-sticky-billboard-ad_11-0" class="comp mntl-billboard mntl-sc-sticky-billboard-ad billboard5-dynamic mntl-dynamic-billboard mntl-gpt-dynamic-adunit mntl-gpt-adunit gpt billboard dynamic">
-<div id="billboard5" class="wrapper" data-type="billboard" data-pos="btf4" data-priority="7" data-sizes="[[300, 250],[300, 254],[250, 250],[200, 200],[180, 150],[6, 1],&quot;fluid&quot;]" data-rtb="true" data-targeting="{}" data-auction-floor-id="da82a21b54624d5b8bddcaf9db010a6d" data-auction-floor-value="10"></div>
-</div><!-- end: comp mntl-billboard mntl-sc-sticky-billboard-ad billboard5-dynamic mntl-dynamic-billboard mntl-gpt-dynamic-adunit mntl-gpt-adunit gpt billboard dynamic -->
-</div><!-- end: comp scads-to-load right-rail__item tech-billboard5-sticky-dynamic mntl-sc-sticky-billboard -->
-</div><!-- end: comp mntl-block -->
-<div id="mntl-block_11-0" class="comp mntl-block">
-<div id="tech-billboard6-sticky-dynamic_1-0" class="comp scads-to-load right-rail__item tech-billboard6-sticky-dynamic mntl-sc-sticky-billboard" data-height="600" style="height: 600px;">
-<div id="mntl-sc-sticky-billboard-ad_12-0" class="comp mntl-billboard mntl-sc-sticky-billboard-ad billboard6-dynamic mntl-dynamic-billboard mntl-gpt-dynamic-adunit mntl-gpt-adunit gpt billboard dynamic">
-<div id="billboard6" class="wrapper" data-type="billboard" data-pos="btf5" data-priority="8" data-sizes="[[300, 250],[300, 255],[250, 250],[200, 200],[180, 150],[7, 1],&quot;fluid&quot;]" data-rtb="true" data-targeting="{}" data-auction-floor-id="69f1130cae564485925bcdde0dcf66ce" data-auction-floor-value="10"></div>
-</div><!-- end: comp mntl-billboard mntl-sc-sticky-billboard-ad billboard6-dynamic mntl-dynamic-billboard mntl-gpt-dynamic-adunit mntl-gpt-adunit gpt billboard dynamic -->
-</div><!-- end: comp scads-to-load right-rail__item tech-billboard6-sticky-dynamic mntl-sc-sticky-billboard -->
-</div><!-- end: comp mntl-block -->
-<div id="mntl-block_12-0" class="comp mntl-block">
-<div id="tech-billboard7-sticky-dynamic_1-0" class="comp scads-to-load right-rail__item tech-billboard7-sticky-dynamic mntl-sc-sticky-billboard" data-height="600" style="height: 600px;">
-<div id="mntl-sc-sticky-billboard-ad_13-0" class="comp mntl-billboard mntl-sc-sticky-billboard-ad billboard7-dynamic mntl-dynamic-billboard mntl-gpt-dynamic-adunit mntl-gpt-adunit gpt billboard dynamic">
-<div id="billboard7" class="wrapper" data-type="billboard" data-pos="btf6" data-priority="9" data-sizes="[[300, 250],[300, 256],[250, 250],[200, 200],[180, 150],[8, 1],&quot;fluid&quot;]" data-rtb="true" data-targeting="{}" data-auction-floor-id="ac910d2d6fc049b38753cbcaf6b26275" data-auction-floor-value="10"></div>
-</div><!-- end: comp mntl-billboard mntl-sc-sticky-billboard-ad billboard7-dynamic mntl-dynamic-billboard mntl-gpt-dynamic-adunit mntl-gpt-adunit gpt billboard dynamic -->
-</div><!-- end: comp scads-to-load right-rail__item tech-billboard7-sticky-dynamic mntl-sc-sticky-billboard -->
-</div><!-- end: comp mntl-block -->
-</div><!-- end: comp js-scads-inline-content mntl-block -->
-</div><!-- end: comp structured-content expert-content mntl-sc-page mntl-block -->
-<div id="commerce-link_1-0" class="comp commerce-link" data-defer="scroll" data-defer-params></div><!-- end: comp commerce-link -->
-<div id="article-feedback_1-0" class="comp article-feedback mntl-article-feedback">
-<div class="article-feedback__rating-section js-rating-section">
-<div class="article-feedback__heading">Was this page helpful?</div>
-<button id="article-feedback__thumbs-up-button_1-0" class="comp article-feedback__rating-button js-rating-button article-feedback__thumbs-up-button mntl-button" aria-label="Thumbs Up" data-thumbs-signal="THUMBS_UP">
-<svg class="icon icon-thumbs-up mntl-button__icon article-feedback__rating-icon">
-<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-thumbs-up"></use>
-</svg>
-</button><!-- end: comp article-feedback__rating-button js-rating-button article-feedback__thumbs-up-button mntl-button -->
-<button id="article-feedback__thumbs-down-button_1-0" class="comp article-feedback__rating-button js-rating-button article-feedback__thumbs-down-button mntl-button" aria-label="Thumbs Down">
-<svg class="icon icon-thumbs-down mntl-button__icon article-feedback__rating-icon">
-<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-thumbs-down"></use>
-</svg>
-</button><!-- end: comp article-feedback__rating-button js-rating-button article-feedback__thumbs-down-button mntl-button -->
-</div>
-<div class="article-feedback__success-section js-success-section is-hidden">
-<div class="article-feedback__heading">Thanks for letting us know!</div>
-<div class="loc success-section">
-<form id="newsletter-signup--in-article_1-0" class="comp newsletter-signup--in-article newsletter-signup mntl-newsletter-signup" method="POST" action="/newsletter/signup">
-<div id="mntl-newsletter-signup__heading_3-0" class="comp mntl-newsletter-signup__heading mntl-text-block">
-Get the Latest Tech News Delivered Every Day</div><!-- end: comp mntl-newsletter-signup__heading mntl-text-block -->
-<div id="mntl-newsletter-submit_5-0" class="comp mntl-newsletter-submit mntl-newsletter-submit__input-wrapper">
-<input type="hidden" name="list[]" value="computersl" />
-<input type="hidden" name="customEventName" value="" />
-<input type="hidden" value="291a0a1634a3ff2a4f3961d30273a6e6" name="CSRFToken" />
-<label class="mntl-newsletter-submit__label is-vishidden" for="mntl-newsletter-submit_5-0__input">Email Address</label>
-<input class="mntl-newsletter-submit__input" id="mntl-newsletter-submit_5-0__input" type="email" name="email" placeholder="email address" required pattern="\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}\b" />
-<button id="mntl-newsletter-submit__button_5-0" class="comp btn btn-go mntl-newsletter-submit__button mntl-button" type="submit">
-Sign up
-<svg class="icon icon-submit-arrow mntl-button__icon ">
-<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-submit-arrow"></use>
-</svg>
-</button><!-- end: comp btn btn-go mntl-newsletter-submit__button mntl-button -->
-<div class="error-message">
-<p class="error">There was an error. Please try again.</p>
-</div>
-</div><!-- end: comp mntl-newsletter-submit mntl-newsletter-submit__input-wrapper -->
-<div id="mntl-newsletter-signup__success_3-0" class="comp mntl-newsletter-signup__success mntl-text-block">
-You're in! Thanks for signing up.</div><!-- end: comp mntl-newsletter-signup__success mntl-text-block -->
-<div id="mntl-newsletter-signup__error_3-0" class="comp mntl-newsletter-signup__error mntl-text-block">
-There was an error. Please try again.</div><!-- end: comp mntl-newsletter-signup__error mntl-text-block -->
-<p class="success-message">Thank you <span class="success-email"></span> for signing up.</p>
-</form><!-- end: comp newsletter-signup--in-article newsletter-signup mntl-newsletter-signup -->
-<!--end mntl-newsletter-signup-->
-</div>
-</div>
-<div class="article-feedback__feedback-section js-feedback-section is-hidden">
-<div class="article-feedback__heading">Tell us why!</div>
-<button id="article-feedback__open-form-button_1-0" class="comp article-feedback__feedback-button js-open-form-button article-feedback__open-form-button mntl-button">
-Other
-</button><!-- end: comp article-feedback__feedback-button js-open-form-button article-feedback__open-form-button mntl-button -->
-<button id="article-feedback__not-enough-details-button_1-0" class="comp article-feedback__feedback-button js-submit-feedback-button article-feedback__not-enough-details-button mntl-button">
-Not enough details
-</button><!-- end: comp article-feedback__feedback-button js-submit-feedback-button article-feedback__not-enough-details-button mntl-button -->
-<button id="article-feedback__hard-to-understand-button_1-0" class="comp article-feedback__feedback-button js-submit-feedback-button article-feedback__hard-to-understand-button mntl-button">
-Hard to understand
-</button><!-- end: comp article-feedback__feedback-button js-submit-feedback-button article-feedback__hard-to-understand-button mntl-button -->
-<form action="/ugc-feedback" method="post" class="article-feedback__feedback-form js-feedback-form is-hidden">
-<textarea class="article-feedback__feedback-text js-feedback-text" placeholder="Tell us more..." required="required" maxlength="1500"></textarea>
-<button id="article-feedback__submit-button_1-0" class="comp article-feedback__submit-button mntl-button">
-Submit
-</button><!-- end: comp article-feedback__submit-button mntl-button -->
-<input type="hidden" name="doc-id" value="3486220" class="js-doc-id" />
-</form>
-</div>
-</div><!-- end: comp article-feedback mntl-article-feedback -->
-<div id="sources-and-citation_1-0" class="comp sources-and-citation mntl-block"></div><!-- end: comp sources-and-citation mntl-block -->
-<div id="journey-next-up_1-0" class="comp journey-next-up--version1 journey-next-up mntl-block" data-tracking-container="true" data-defer="scroll" data-defer-params></div><!-- end: comp journey-next-up--version1 journey-next-up mntl-block -->
-</div><!-- end: comp article-content mntl-block -->
-</article><!-- end: comp right-rail article -->
-<div id="prefooter_1-0" class="comp prefooter mntl-block" data-tracking-container="true">
-<div id="leaderboard-post-content_1-0" class="comp has-right-label js-lazy-ad leaderboard-post-content leaderboard-deferred-footer leaderboard mntl-flexible-leaderboard mntl-flexible-ad mntl-gpt-adunit gpt leaderboard dynamic">
-<div id="leaderboardac" class="wrapper" data-type="leaderboard" data-pos="ac" data-priority="3" data-sizes="[[1200, 450], [640,365],[728, 90], [970, 250], [1,11],&quot;fluid&quot;]" data-rtb="true" data-targeting="{}" data-auction-floor-id="57f5672129214faeabb52765de35132b" data-auction-floor-value="5"></div>
-</div><!-- end: comp has-right-label js-lazy-ad leaderboard-post-content leaderboard-deferred-footer leaderboard mntl-flexible-leaderboard mntl-flexible-ad mntl-gpt-adunit gpt leaderboard dynamic -->
-<div id="masonry-list-section_1-0" class="comp masonry-list-section mntl-block" data-tracking-container="true">
-<div id="mntl-text-block_13-0" class="comp masonry-list-section__header mntl-text-block">
-More from Lifewire</div><!-- end: comp masonry-list-section__header mntl-text-block -->
-<ul id="masonry-list1_1-0" class="comp masonry-list masonry-list1 masonry-list mntl-masonry-tax-card-list mntl-masonry-card-list mntl-masonry-list mntl-block">
-<li id="masonry-list__item_1-0" class="comp masonry-list__item mntl-block">
-<a id="mntl-card_1-0" class="comp is-inverted-small mntl-card mntl-document-card card" data-doc-id="3469315" data-tax-levels href="https://www.lifewire.com/view-html-source-in-safari-3469315" data-cta="Read Now ▸" data-ordinal="1">
-<div class="card__media" >
-<img
-data-src="https://www.lifewire.com/thmb/jDXigdT8TUzhui6vVIs_aSxFSfg=/400x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-01-13at9.43.10AM-5a5a3756d92b09003679607e.png"
-src="data:image/gif;charset=utf-8;base64,R0lGODlhCwAGAPIAAFVVVbfl/uXj5fTz9P///1VVVVVVVVVVVSwAAAAACwAGAEIIGQAFDBBAcIDBgwEIKFzIEADDhxAjSpzIMCAAOw=="
-data-placeholder="blurry"
-alt="Safari Menu Bar"
-class="lazyload card__img "
-data-dim-ratio="1.766"
-/> </div>
-<div class="card__content" >
-<div class="card__header" data-kicker="Safari"></div>
-<div class="card__title"><span class="card__title-text">How to View HTML Source in Safari</span></div>
-</div>
-</a><!-- end: comp is-inverted-small mntl-card mntl-document-card card -->
-</li><!-- end: comp masonry-list__item mntl-block -->
-<li id="masonry-list__item_1-0-1" class="comp masonry-list__item mntl-block">
-<a id="mntl-card_1-0-1" class="comp is-inverted-small mntl-card mntl-document-card card" data-doc-id="756549" data-tax-levels href="https://www.lifewire.com/get-inspect-element-tool-for-browser-756549" data-cta="Read Now ▸" data-ordinal="2">
-<div class="card__media" >
-<img
-data-src="https://www.lifewire.com/thmb/fV1Om4xQzKOG6NT7bK5cverv0tQ=/400x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Firefox-web-browser-56a6d05e3df78cf772905eee.jpg"
-src="data:image/gif;charset=utf-8;base64,R0lGODlhCgAGAPUAABFRuxBx/iJ0/id0/hqA/xmL/RqJ/Quu/SyK/iKW/SqV/yyd/TWd/zqd+z+3/yLA/SPh+zfu/3GDs0yX/Uaq/1en/GWp/mG6/nWp43S2/1nq/VD+/1z8+l38/2XE/m/B+27M/2rU/3DC/HDX/3XX/m/p/mf49YmPn4HZ/5DS9Y/9/J7i75Po/Zr+/Krr/6H4/6H//rb//7/1/9z//+L9/+n+//T///n///z+/f3//v7//f/+/BFRuxFRuxFRuxFRuywAAAAACgAGAEUIRgAVJGBQ4ECIGBRAVAhgQMWIExtqeBDwoQULFDp20CixwIWFBxBszHBggsMFAgNw3OggQ8KKFA0yTIABIIcGDBEQvCAhIiAAOw=="
-data-placeholder="blurry"
-alt="close-up of web browser address bar"
-class="lazyload card__img "
-data-dim-ratio="1.659"
-/> </div>
-<div class="card__content" >
-<div class="card__header" data-kicker="Web Development"></div>
-<div class="card__title"><span class="card__title-text">How to Inspect Web Page Elements</span></div>
-</div>
-</a><!-- end: comp is-inverted-small mntl-card mntl-document-card card -->
-</li><!-- end: comp masonry-list__item mntl-block -->
-<li id="masonry-list__item_1-0-2" class="comp masonry-list__item mntl-block">
-<a id="mntl-card_1-0-2" class="comp is-inverted-small mntl-card mntl-document-card card" data-doc-id="1174175" data-tax-levels href="https://www.lifewire.com/copy-image-web-address-url-1174175" data-cta="Read Now ▸" data-ordinal="3">
-<div class="card__media" >
-<img
-data-src="https://www.lifewire.com/thmb/emNTQ1a70Q-bhERy9umkzMu8L20=/400x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/103919224-56a2896d3df78cf7727748c8.jpg"
-src="data:image/gif;charset=utf-8;base64,R0lGODlhCgAHAPYAAHQ6Lp5vXY9zcpp5cqx+Z6aBeK+MebCNd7eQf5GQlZ6pr7KKgr+Oib6Sh72hk6Kqrayhqamyt6u1vry2urvCzMGhiMimncinnsaqpsyqocyvqdCurdOyq9m7u8PJ1cTN1sTP1czU18nU2s7S3c3V2M7Z39bEws/W4NXa4Nnd5t7i5d/j5uPZ2uXa2ODk5+Xh4uTl5+Hl6OXp6uTp7eXo7efo7Obq7ejp6+rq6ujp7evs7uru8ezt8e3u8u7u8O7v8+7y9fHy9vLz93Q6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LnQ6LiwAAAAACgAHAEYIUAArZGDQgEOPIEIQBhBwAcKCEUBkKPhAwAGGFi5UxIBRQ0cCCQ8igBBRAsUMGgMKWHgxYQOOGzx+HNDgAwGLDits7MhBwQAAEx5OpMgRgkRAADs="
-data-placeholder="blurry"
-alt="Hands operating computer mouse and keyboard"
-class="lazyload card__img "
-data-dim-ratio="1.511"
-/> </div>
-<div class="card__content" >
-<div class="card__header" data-kicker="Browsers"></div>
-<div class="card__title"><span class="card__title-text">How to Copy a Web Image&#39;s URL</span></div>
-</div>
-</a><!-- end: comp is-inverted-small mntl-card mntl-document-card card -->
-</li><!-- end: comp masonry-list__item mntl-block -->
-<li id="masonry-list__item_1-0-3" class="comp masonry-list__item mntl-block">
-<a id="mntl-card_1-0-3" class="comp is-inverted-small mntl-card mntl-document-card card" data-doc-id="1171956" data-tax-levels href="https://www.lifewire.com/save-an-email-as-an-eml-file-in-gmail-1171956" data-cta="Read Now ▸" data-ordinal="4">
-<div class="card__media" >
-<img
-data-src="https://www.lifewire.com/thmb/TKX8rlb_jbRzLkrzqsjYDwTzDMQ=/400x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/468785009-56a2898c5f9b58b7d0cbe5c5.jpg"
-src="data:image/gif;charset=utf-8;base64,R0lGODlhCgAHAPYAAB4WCSkbDiIbEyUcEysdEC8fEDUjFTg5O0k8K3NFI5ZqR5puQZtxR5N1U5t1UZxyXJx6VJp8WpR8ZKBzSqB5Tqh5Tah5T5CCZaKCW6iLX6yKXa+ZXb2PW7+RX6GJba+TZLCYarGTe7efe7mhc7ylfJudh5einLCgh7ShgbekhL2mhLmpkL6ulKWmoK+roKqur7y9uMWdhNK6otO4pcfCr8rIvM7IutrDpNjEq9zGrtrJrdrJr8/OydPKwdfSztjQxd7Xzdvb2eDX0OPo4urq7B4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCR4WCSwAAAAACgAHAEYIUQBvBHGwgQWJESA+ZAghA8cMIURiaICQYAcMHjQCCDBQAEMDEyUOILCgoAOHChN01Bhi48SKFChUiMjRwsUFAgMM+IgA4IUEDw+A/OhBYQGDgAA7"
-data-placeholder="blurry"
-alt="Young woman using laptop in cafe"
-class="lazyload card__img "
-data-dim-ratio="1.511"
-/> </div>
-<div class="card__content" >
-<div class="card__header" data-kicker="Gmail"></div>
-<div class="card__title"><span class="card__title-text">How to Save a Gmail Message as an EML File</span></div>
-</div>
-</a><!-- end: comp is-inverted-small mntl-card mntl-document-card card -->
-</li><!-- end: comp masonry-list__item mntl-block -->
-<li id="masonry-list__item_1-0-4" class="comp masonry-list__item mntl-block">
-<a id="mntl-card_1-0-4" class="comp is-inverted-small mntl-card mntl-document-card card" data-doc-id="1174489" data-tax-levels href="https://www.lifewire.com/send-web-page-link-yahoo-1174489" data-cta="Read Now ▸" data-ordinal="5">
-<div class="card__media" >
-<img
-data-src="https://www.lifewire.com/thmb/mJaHHUIr_vyBYEhCVWnPqWbRbQU=/400x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2000px-Yahoo_icon.svg-5ad3f40b642dca0036215fc5.png"
-src="data:image/gif;charset=utf-8;base64,R0lGODlhCQAHAPEAAAAAAGsAlP///wAAACH5BAEAAAAALAAAAAAJAAcAQQgjAAEACEBQIMGDAg4GGBggoYCEBRkuHGhQocSGGCM2fDgRQEAAOw=="
-data-placeholder="blurry"
-alt="The Yahoo! logo."
-class="lazyload card__img "
-data-dim-ratio="1.389"
-/> </div>
-<div class="card__content" >
-<div class="card__header" data-kicker="Yahoo! Mail"></div>
-<div class="card__title"><span class="card__title-text">How to Send a Web Page Link With Yahoo Mail</span></div>
-</div>
-</a><!-- end: comp is-inverted-small mntl-card mntl-document-card card -->
-</li><!-- end: comp masonry-list__item mntl-block -->
-<li id="masonry-list__item_1-0-5" class="comp masonry-list__item mntl-block">
-<a id="mntl-card_1-0-5" class="comp is-inverted-small mntl-card mntl-document-card card" data-doc-id="1174305" data-tax-levels href="https://www.lifewire.com/copy-paste-cut-without-context-menu-1174305" data-cta="Read Now ▸" data-ordinal="6">
-<div class="card__media" >
-<img
-data-src="https://www.lifewire.com/thmb/qn1t17f1XrDhwrKqHdsr93kmpfk=/400x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/businessman-at-workstation-in-modern-office-561609617-5a3415faec2f64003777aaf4.jpg"
-src="data:image/gif;charset=utf-8;base64,R0lGODlhCQAHAPUAAAseJAgXNBEZJh0hEBIhNickGyAhJSIsLhdvYU9AOVJBLU9cS1hiR2toYSJYlqd/d//BOJiiobC0s7G/zLjGxrzHzb7R2MXKxsXU2cvX1c7a2M/d3tDR1tTZ1dDb3dLc3tLe3sXW4NHe5Nfg39fh4tXi6Nrk5dnk6OHj3uPo5ODo6uLp7+Xu7eTt8uXs8uXv+PP09vX39vf39/X2+PX2+vb3+fb49/f5+Pj49vj4+Pj6+fr6+vv7+wseJAseJAseJCwAAAAACQAHAEUISgAbUJgRowOMFipwFMBwQgEABC9I1FgQ4cIIFAlYgLhhQcQKFxxk7ChBI0cGHjhSGAihQceACh88OCAQwIQNBhIOCHgwAcKGGQEBADs="
-data-placeholder="blurry"
-alt="Businessman at workstation in modern office"
-class="lazyload card__img "
-data-dim-ratio="1.32"
-/> </div>
-<div class="card__content" >
-<div class="card__header" data-kicker="Apps"></div>
-<div class="card__title"><span class="card__title-text">How to Copy, Paste, or Cut Text When You Can&#39;t Right Click</span></div>
-</div>
-</a><!-- end: comp is-inverted-small mntl-card mntl-document-card card -->
-</li><!-- end: comp masonry-list__item mntl-block -->
-<li id="masonry-list__item_1-0-6" class="comp masonry-list__item mntl-block">
-<a id="mntl-card_1-0-6" class="comp is-inverted-small mntl-card mntl-document-card card" data-doc-id="4159583" data-tax-levels href="https://www.lifewire.com/cut-copy-and-paste-in-microsoft-word-4159583" data-cta="Read Now ▸" data-ordinal="7">
-<div class="card__media" >
-<img
-data-src="https://www.lifewire.com/thmb/nsaZ5D81hkgry2ZLPwCpaO_f6GA=/400x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1543687661-5bbf7077c9e77c0051d2a6be-5be08863c9e77c0051ad97f3.jpg"
-src="data:image/gif;charset=utf-8;base64,R0lGODlhCgAHAPYAABgBHR4HNREQMDsNFwAPSgQjYysSVGAmGnsvGGkwJXYwJHhDP3pLQYI2HIY/H4M+IZpLIKlVJ65bL7loJrtsKb9uLI5URsN2JsZ5J8t9K7B3ormCY9SHNdmINt2PPeWfP+igPuygQvGmSfWtR/SrTfWsTf23WO7AE/bODffKGfjPEffSK/rVPL3LzsiZhcWykui9muazoPTLrcLHyt7o4Oz27eb7/uj1++n59u348Oz79Oz99+389+/89fD78/H89PH+9/P99fL99/b99hgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHRgBHSwAAAAACgAHAEYIUQAxVODQwcOHECBEmIigwEUPIDZ+zNjA4AIEHCdWCNkRQ0YJAAMONEDg4EECDQUyUKCRokYOH0FIjJggQUAPFkN6vFgAw4CFGzp4oFDRIgCBgAA7"
-data-placeholder="blurry"
-alt="Scissors cutting paper that says copy, tablet says paste."
-class="lazyload card__img "
-data-dim-ratio="1.5"
-/> </div>
-<div class="card__content" >
-<div class="card__header" data-kicker="Word"></div>
-<div class="card__title"><span class="card__title-text">How to Cut, Copy, and Paste in Word</span></div>
-</div>
-</a><!-- end: comp is-inverted-small mntl-card mntl-document-card card -->
-</li><!-- end: comp masonry-list__item mntl-block -->
-<li id="masonry-list__item_1-0-7" class="comp masonry-list__item mntl-block">
-<a id="mntl-card_1-0-7" class="comp is-inverted-small mntl-card mntl-document-card card" data-doc-id="2767250" data-tax-levels href="https://www.lifewire.com/embed-youtube-videos-in-powerpoint-2010-2767250" data-cta="Read Now ▸" data-ordinal="8">
-<div class="card__media" >
-<img
-data-src="https://www.lifewire.com/thmb/bNlZYm8u2JtxhPJN0mqF5rY5a9o=/400x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1179045292-5189406b176f4ad181c4d3dd52553d93.jpg"
-src="data:image/gif;charset=utf-8;base64,R0lGODlhCwAGAPUAAAEqSAAsTwAtTgAxUgAwVAAyVQAxWQAzWAA0WwE3XQE4XwE5XgE2YAA6YAA5ZAA7ZQA7ZwE8ZgA9aQE8aABAbAFBbQBDcAFDcwBEdQBGdwBIeAFJewBKewNLfUwFAABMgABNgQNRggVViAlYkA1dkhlknRtnoY8UApoZA4ghAMIkAdUtAN6YAuiNAOOeA+WhAumkAOiqAfOsAu7IAf7LAP3WAP/YAP/ZAv39/f7+/gEqSAEqSAEqSAEqSAEqSAEqSCwAAAAACwAGAEUISAABCBhwYEEDCBMiPFDAwEELFzNq2LhBA8QHAgg84NiYA8cJCxUCFFjBIsYLGDJUUJBgIEGKjTBRYLjAYUMGDR1CiBhBooSJgAA7"
-data-placeholder="blurry"
-alt="Marquee frame"
-class="lazyload card__img "
-data-dim-ratio="1.778"
-/> </div>
-<div class="card__content" >
-<div class="card__header" data-kicker="YouTube"></div>
-<div class="card__title"><span class="card__title-text">Embed YouTube Videos in PowerPoint 2010</span></div>
-</div>
-</a><!-- end: comp is-inverted-small mntl-card mntl-document-card card -->
-</li><!-- end: comp masonry-list__item mntl-block -->
-</ul><!-- end: comp masonry-list masonry-list1 masonry-list mntl-masonry-tax-card-list mntl-masonry-card-list mntl-masonry-list mntl-block -->
-<div id="leaderboard-deferred-footer_1-0" class="comp has-right-label js-lazy-ad leaderboard-deferred-footer leaderboard mntl-flexible-leaderboard mntl-flexible-ad mntl-gpt-adunit gpt leaderboard dynamic">
-<div id="leaderboardfooter" class="wrapper" data-type="leaderboard" data-pos="ft1" data-priority="4" data-sizes="[[728, 90], [728, 98], [970, 250], [970, 258], [1, 9]]" data-rtb="true" data-targeting="{}" data-auction-floor-id="9291a558f9744bbfb16fb181f9156d29" data-auction-floor-value="10"></div>
-</div><!-- end: comp has-right-label js-lazy-ad leaderboard-deferred-footer leaderboard mntl-flexible-leaderboard mntl-flexible-ad mntl-gpt-adunit gpt leaderboard dynamic -->
-<ul id="masonry-list2_1-0" class="comp masonry-list masonry-list2 masonry-list mntl-masonry-tax-card-list mntl-masonry-card-list mntl-masonry-list mntl-block">
-<li id="masonry-list__item_2-0" class="comp masonry-list__item mntl-block">
-<a id="mntl-card_2-0" class="comp is-inverted-small mntl-card mntl-document-card card" data-doc-id="1174291" data-tax-levels href="https://www.lifewire.com/copy-paste-options-hotmail-1174291" data-cta="Read Now ▸" data-ordinal="1">
-<div class="card__media" >
-<img
-data-src="https://www.lifewire.com/thmb/K1eGeTnzIbDvLd-L4qVEuxD6fGU=/400x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/fingerstypingonkeyboard_MichaelSmith_GettyImagesNews-424b7b99c44042a5963f55f16aa2b3b2.jpg"
-src="data:image/gif;charset=utf-8;base64,R0lGODlhCgAHAPYAADUzNEEpK04nI1lQOHxEP3pNUHdtaG6SgXy5sYwwJZg0KrQhEoBBLohMOoFeVIddUJZNQotnQINrWYhnUY9rVpZhVJ9qWbRORLlNQ75dW8A4I/M8KuZOLtlPS9pTSMFyXeBVR+VdTepdTu9aUPtTSv9dR+hmWPRhR+1+ff9kZJSCa5uMaZ2YeqqIcrCDadCPZJe5kp6xl6+lk7C1r7aysIvCsYnHtZDLt6nKtpvaz6PTxqzZ1qH59brq9M+Mgturhd22nPimgtLTufbTtsnjycLv1zUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNDUzNCwAAAAACgAHAEYIUQABBBDQ40QKGiQ6FBggpAgMGxNUiNhxgMcKDRA4hCjRAsSLHzhyNHAhgcADBQ5MsNiwYMaFDygMZIigA0iQGgko+EDggciQGzEYyLBQAcOIgAA7"
-data-placeholder="blurry"
-alt="Fingers typing on a keyboard with red backglow"
-class="lazyload card__img "
-data-dim-ratio="1.434"
-/> </div>
-<div class="card__content" >
-<div class="card__header" data-kicker="Texting & Messaging"></div>
-<div class="card__title"><span class="card__title-text">How to Copy &amp; Paste Without a Mouse</span></div>
-</div>
-</a><!-- end: comp is-inverted-small mntl-card mntl-document-card card -->
-</li><!-- end: comp masonry-list__item mntl-block -->
-<li id="masonry-list__item_2-0-1" class="comp masonry-list__item mntl-block">
-<a id="mntl-card_2-0-1" class="comp is-inverted-small mntl-card mntl-document-card card" data-doc-id="4427671" data-tax-levels href="https://www.lifewire.com/cut-copy-paste-on-mac-4427671" data-cta="Read Now ▸" data-ordinal="2">
-<div class="card__media" >
-<img
-data-src="https://www.lifewire.com/thmb/3ceD7kq_Fkf774PjWJwyZRhjlAw=/400x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/copy-and-paste-on-macOS-hero-image-brush-5bffa972c9e77c0051e16849.jpg"
-src="data:image/gif;charset=utf-8;base64,R0lGODlhCgAHAPUAAAcHARYZCSEcBy4iCj0xGnVbNXtQMHpqV4VaPYhfP4RtRYl4W5BlRoF6ZI55Yo59YZR/apeCV5KEaZWKdpmId6GJdKONdbGgh7KgjLakkLqrlcuzgtC9l8G3pdG+sdLAnN3IqNXKvdbLvtvPvuLPtNvPwN7Swdzb1uDSxujfzOne0+Pj2ezh1u7j1vLn3PTs3fXp4PTu5/Xz7vzx7vz6//z7//39//7+/v7+/wcHAQcHAQcHAQcHAQcHAQcHAQcHASwAAAAACgAHAEUITABvCLzhQUQGDAJQtBjRQEaMFzVKTAggEAGDBBduaHAAgQSIDSZCnPgQQUGBgTc6WEjhAkAFGzcM0BCIQwWFAyxgDCAwYwUHCQ8WBAQAOw=="
-data-placeholder="blurry"
-alt="Person uses a large brush to apply paste to a roll of paper."
-class="lazyload card__img "
-data-dim-ratio="1.503"
-/> </div>
-<div class="card__content" >
-<div class="card__header" data-kicker="Macs"></div>
-<div class="card__title"><span class="card__title-text">How to Cut, Copy, and Paste on a Mac</span></div>
-</div>
-</a><!-- end: comp is-inverted-small mntl-card mntl-document-card card -->
-</li><!-- end: comp masonry-list__item mntl-block -->
-<li id="masonry-list__item_2-0-2" class="comp masonry-list__item mntl-block">
-<a id="mntl-card_2-0-2" class="comp is-inverted-small mntl-card mntl-document-card card" data-doc-id="1174274" data-tax-levels href="https://www.lifewire.com/send-web-page-link-hotmail-1174274" data-cta="Read Now ▸" data-ordinal="3">
-<div class="card__media" >
-<img
-data-src="https://www.lifewire.com/thmb/4dKQmNlrFYdzXzW3eP_umyscqFI=/400x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/URL-by-Kay-ePlus-GettyImages-171584161-56a1c33f3df78cf7726db59d.jpg"
-src="data:image/gif;charset=utf-8;base64,R0lGODlhCgAHAPYAAAMGBQQHAQQGBAYGBgALAAYIBAIeARUVFQA8ABYgMjENEi0lKj0/QQBFAA1TBxlwDTVPMQBWbz5MVDhjRUdcZFVjYGNiaG5oZ2F7aml3ZGJ3dxd1kgBtrwBpsTnAN1iFSV+wTVi9Z2+cYnykdHnGaHPZYgCQvSyPvyaWuA2OwiGPyDCAxzmgyjOi2luer2mKsUy51mq1537En59eOovfe5WPn4OzibGzx4bKjI7LjIrLlKfdsJfA2bvEy9je58P+0+ja4+z10/Lv9f7+/v7//////wMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBQMGBSwAAAAACgAHAEYIUQALAEDQQICBDCMwCGHgo0aRDydQtJigwMOABTQ0zDgQ5MWGHTxUdDARAocEGTYeOAhAQASFHEOIWIBQAsSFG0B+uFgRIUYPEixScIBRQUeCgAA7"
-data-placeholder="blurry"
-alt="Image of a URL in a web browser."
-class="lazyload card__img "
-data-dim-ratio="1.499"
-/> </div>
-<div class="card__content" >
-<div class="card__header" data-kicker="Email"></div>
-<div class="card__title"><span class="card__title-text">How to Email a Website Link (URL)</span></div>
-</div>
-</a><!-- end: comp is-inverted-small mntl-card mntl-document-card card -->
-</li><!-- end: comp masonry-list__item mntl-block -->
-<li id="masonry-list__item_2-0-3" class="comp masonry-list__item mntl-block">
-<a id="mntl-card_2-0-3" class="comp is-inverted-small mntl-card mntl-document-card card" data-doc-id="3466725" data-tax-levels href="https://www.lifewire.com/view-html-source-in-chrome-3466725" data-cta="Read Now ▸" data-ordinal="4">
-<div class="card__media" >
-<img
-data-src="https://www.lifewire.com/thmb/rtaHyswkJcKCtj6gHodJjARyFFM=/400x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/view-html-source-in-chrome-3466725-81d454fd99834c06a28246e3c6290fcc.gif"
-src="data:image/gif;charset=utf-8;base64,R0lGODlhCgAHAPcAAAAAAAAAMwAAZgAAmQAAzAAA/wAzAAAzMwAzZgAzmQAzzAAz/wBmAABmMwBmZgBmmQBmzABm/wCZAACZMwCZZgCZmQCZzACZ/wDMAADMMwDMZgDMmQDMzADM/wD/AAD/MwD/ZgD/mQD/zAD//zMAADMAMzMAZjMAmTMAzDMA/zMzADMzMzMzZjMzmTMzzDMz/zNmADNmMzNmZjNmmTNmzDNm/zOZADOZMzOZZjOZmTOZzDOZ/zPMADPMMzPMZjPMmTPMzDPM/zP/ADP/MzP/ZjP/mTP/zDP//2YAAGYAM2YAZmYAmWYAzGYA/2YzAGYzM2YzZmYzmWYzzGYz/2ZmAGZmM2ZmZmZmmWZmzGZm/2aZAGaZM2aZZmaZmWaZzGaZ/2bMAGbMM2bMZmbMmWbMzGbM/2b/AGb/M2b/Zmb/mWb/zGb//5kAAJkAM5kAZpkAmZkAzJkA/5kzAJkzM5kzZpkzmZkzzJkz/5lmAJlmM5lmZplmmZlmzJlm/5mZAJmZM5mZZpmZmZmZzJmZ/5nMAJnMM5nMZpnMmZnMzJnM/5n/AJn/M5n/Zpn/mZn/zJn//8wAAMwAM8wAZswAmcwAzMwA/8wzAMwzM8wzZswzmcwzzMwz/8xmAMxmM8xmZsxmmcxmzMxm/8yZAMyZM8yZZsyZmcyZzMyZ/8zMAMzMM8zMZszMmczMzMzM/8z/AMz/M8z/Zsz/mcz/zMz///8AAP8AM/8AZv8Amf8AzP8A//8zAP8zM/8zZv8zmf8zzP8z//9mAP9mM/9mZv9mmf9mzP9m//+ZAP+ZM/+ZZv+Zmf+ZzP+Z///MAP/MM//MZv/Mmf/MzP/M////AP//M///Zv//mf//zP///xISEhgYGB4eHiQkJCoqKjAwMDY2Njw8PEJCQkhISE5OTlRUVFpaWmBgYGZmZmxsbHJycnh4eH5+foSEhIqKipCQkJaWlpycnKKioqioqK6urrS0tLq6usDAwMbGxszMzNLS0tjY2N7e3uTk5Orq6vDw8Pb29vz8/CwAAAAACgAHAEcITQCTCUxWStizZILkJWNn7wmLZM/ABQCXzN+sXf+EJQMnaA60Z/rYIQMnA9w4isno/aOXTFgneAr/yfRX7ZkMceKesaP37Jk9d+PEyQgIADs="
-data-placeholder="blurry"
-alt="Person selecting View Page Source on a web page"
-class="lazyload card__img "
-data-dim-ratio="1.5"
-/> </div>
-<div class="card__content" >
-<div class="card__header" data-kicker="Chrome"></div>
-<div class="card__title"><span class="card__title-text">How to View the HTML Source in Google Chrome</span></div>
-</div>
-</a><!-- end: comp is-inverted-small mntl-card mntl-document-card card -->
-</li><!-- end: comp masonry-list__item mntl-block -->
-<li id="masonry-list__item_2-0-4" class="comp masonry-list__item mntl-block">
-<a id="mntl-card_2-0-4" class="comp is-inverted-small mntl-card mntl-document-card card" data-doc-id="4173513" data-tax-levels href="https://www.lifewire.com/how-to-copy-and-paste-on-chromebook-4173513" data-cta="Read Now ▸" data-ordinal="5">
-<div class="card__media" >
-<img
-data-src="https://www.lifewire.com/thmb/qcyIXTWLJArh6c00QGmtoLDcz1Y=/400x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/howtocopyandpasteonachromebook-5b6a032346e0fb00257ba42f.jpg"
-src="data:image/gif;charset=utf-8;base64,R0lGODlhCgAHAPUAAAYFAwoLBQ4UBg8WBBUXDBQQERYUFRsbExsdEhwiFh8lFyMfFCkbECMhFSwmGCMlJCstICkrKkExIkQ4KlNGNWpHM1VVVWdraoFhSpWAZaqeiLKiibKii7Krmb2ok72skqqqqqytqK+vr7KvqLW1qbqzq7u0rse2nMqxk823n8+4ls+6nc+6n9S7nde9nNi/ocvEutrDpNzLseHKq+LUucDBxeDg3u33+PPz8/b6+fv7+////f///wYFAwYFAwYFAywAAAAACgAHAEUITgAdCJggoYaJEQgANDjxIQQICyI2aPDAAQMJHjx07OABIYGCGDNawMiA4oWLFSoWlKCBAyMPCgwGVOjAw4bLAwQCyEgRoYCBBzcu5GAREAA7"
-data-placeholder="blurry"
-alt="Acer Chromebook with Lorem Ipsum on screen"
-class="lazyload card__img "
-data-dim-ratio="1.505"
-/> </div>
-<div class="card__content" >
-<div class="card__header" data-kicker="Google"></div>
-<div class="card__title"><span class="card__title-text">How to Copy and Paste on a Chromebook</span></div>
-</div>
-</a><!-- end: comp is-inverted-small mntl-card mntl-document-card card -->
-</li><!-- end: comp masonry-list__item mntl-block -->
-<li id="masonry-list__item_2-0-5" class="comp masonry-list__item mntl-block">
-<a id="mntl-card_2-0-5" class="comp is-inverted-small mntl-card mntl-document-card card" data-doc-id="1699969" data-tax-levels href="https://www.lifewire.com/copy-images-or-text-pdf-file-1699969" data-cta="Read Now ▸" data-ordinal="6">
-<div class="card__media" >
-<img
-data-src="https://www.lifewire.com/thmb/6vNNNG3ICWEgaU4-bWPjnJqQUQo=/400x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-01-20at12.17.33PM-5a639603845b3400369cef9e.png"
-src="data:image/gif;charset=utf-8;base64,R0lGODlhCwAGAPMAAE1NTczMzObm5ufn5/Ly8vPz8/X19fr6+vv7+/39/f///01NTU1NTU1NTU1NTU1NTSwAAAAACwAGAEMIKQAPCDygYKBBggcSKFhYcCBDBQgWGlxo4OHEAgwDNBRYUMAABAQEAggIADs="
-data-placeholder="blurry"
-alt="Adobe Acrobat DC PDF"
-class="lazyload card__img "
-data-dim-ratio="1.918"
-/> </div>
-<div class="card__content" >
-<div class="card__header" data-kicker="Graphic Design"></div>
-<div class="card__title"><span class="card__title-text">How to Copy Images or Text From a PDF File</span></div>
-</div>
-</a><!-- end: comp is-inverted-small mntl-card mntl-document-card card -->
-</li><!-- end: comp masonry-list__item mntl-block -->
-<li id="masonry-list__item_2-0-6" class="comp masonry-list__item mntl-block">
-<a id="mntl-card_2-0-6" class="comp is-inverted-small mntl-card mntl-document-card card" data-doc-id="2619210" data-tax-levels href="https://www.lifewire.com/how-do-i-copy-a-file-in-windows-2619210" data-cta="Read Now ▸" data-ordinal="7">
-<div class="card__media" >
-<img
-data-src="https://www.lifewire.com/thmb/WTVex7ojBBMt3vV5UGmk69zwlN0=/400x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pictures-folder-windows-10-5a0324c3482c52001ade2218.PNG"
-src="data:image/gif;charset=utf-8;base64,R0lGODlhCgAHAPIAAAAAABl5ytTdxPX29////v///wAAAAAAACwAAAAACgAHAEIIGgADFBhIkCCAgggJEhCQsOHAARAjSnRIkWBAADs="
-data-placeholder="blurry"
-alt="highlighted file in Windows 10"
-class="lazyload card__img "
-data-dim-ratio="1.5"
-/> </div>
-<div class="card__content" >
-<div class="card__header" data-kicker="Windows"></div>
-<div class="card__title"><span class="card__title-text">How to Copy a File in Windows</span></div>
-</div>
-</a><!-- end: comp is-inverted-small mntl-card mntl-document-card card -->
-</li><!-- end: comp masonry-list__item mntl-block -->
-<li id="masonry-list__item_2-0-7" class="comp masonry-list__item mntl-block">
-<a id="mntl-card_2-0-7" class="comp is-inverted-small mntl-card mntl-document-card card" data-doc-id="1172814" data-tax-levels href="https://www.lifewire.com/copy-paste-text-styles-os-x-mail-1172814" data-cta="Read Now ▸" data-ordinal="8">
-<div class="card__media" >
-<img
-data-src="https://www.lifewire.com/thmb/K9TH6WaFmGP5NjD8t8WCP88SAt4=/400x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-514935135-d49867630a11412d8cf5363e98f9909d.jpg"
-src="data:image/gif;charset=utf-8;base64,R0lGODlhCgAHAPUAAB9BMR9KNyJCMyFGNSBKNiJMOCJNOSNNOSNMOiRLOSZLOSZLOiRNOyVMOiROOiRPOyZNOypKOypMOyVQPCVQPSZQPCpQOyhTPypRPitQPixRPytWQyxRQC1SQCxXQy1XQy9WQy9WRC5aQy5YRC9aRzBXRTRWRTNXSTFYRTBaRjFbRzBZSTJbSTJcSDNdSTRbSDVcSjdeSzZcTTdeTDZfTzhjUDtiUDxhUD1hUz1iUT9hUT5lU0RpWERrWUZtW/7//ywAAAAACgAHAEUIUQAFMAjw4ICDCgYQALiQIYSMFCpW7DChQcKJFjhozMjBgkOCAQQoTBBhYMIHChESdODh40WJGyMsQHBQwwWMGD1s6MDQoMADBT9IoNjgAcSCgAA7"
-data-placeholder="blurry"
-alt="Copy and paste handwritten on school blackboard"
-class="lazyload card__img "
-data-dim-ratio="1.5"
-/> </div>
-<div class="card__content" >
-<div class="card__header" data-kicker="Apps"></div>
-<div class="card__title"><span class="card__title-text">How to Copy and Paste Text Styles on a Mac</span></div>
-</div>
-</a><!-- end: comp is-inverted-small mntl-card mntl-document-card card -->
-</li><!-- end: comp masonry-list__item mntl-block -->
-</ul><!-- end: comp masonry-list masonry-list2 masonry-list mntl-masonry-tax-card-list mntl-masonry-card-list mntl-masonry-list mntl-block -->
-<div id="leaderboard2-deferred-footer_1-0" class="comp has-right-label js-lazy-ad leaderboard2-deferred-footer leaderboard-deferred-footer leaderboard mntl-flexible-leaderboard mntl-flexible-ad mntl-gpt-adunit gpt leaderboard dynamic">
-<div id="leaderboardfooter2" class="wrapper" data-type="leaderboard" data-pos="ft2" data-priority="5" data-sizes="[[728, 90], [728, 99], [970, 250], [970, 259], [1, 10]]" data-rtb="true" data-targeting="{}" data-auction-floor-id="e50302d5b9164b39b0f241e73c336693" data-auction-floor-value="10"></div>
-</div><!-- end: comp has-right-label js-lazy-ad leaderboard2-deferred-footer leaderboard-deferred-footer leaderboard mntl-flexible-leaderboard mntl-flexible-ad mntl-gpt-adunit gpt leaderboard dynamic -->
-</div><!-- end: comp masonry-list-section mntl-block -->
-</div><!-- end: comp prefooter mntl-block -->
-</main>
-<footer id="footer_1-0" class="comp footer" role="contentinfo" data-tracking-container="true">
-<div class="logo-wrapper">
-<div class="logo-inner">
-<a id="logo_2-0" class="comp logo mntl-block" rel="home" href="/" aria-label="Home">
-<div id="mntl-text-block_2-0" class="comp is-screenreader-only mntl-text-block">
-Lifewire</div><!-- end: comp is-screenreader-only mntl-text-block -->
-<svg class="icon icon-logo ">
-<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-logo"></use>
-</svg>
-</a><!-- end: comp logo mntl-block -->
-</div>
-</div>
-<div class="footer-inner">
-<div class="footer-social">
-<div id="social-block_1-0" class="comp social-block" data-tracking-container="true">
-<form id="newsletter-signup_1-0" class="comp newsletter-signup mntl-newsletter-signup" method="POST" action="/newsletter/signup">
-<div id="mntl-newsletter-signup__heading_2-0" class="comp mntl-newsletter-signup__heading mntl-text-block">
-Get the Latest Tech News Delivered Every Day</div><!-- end: comp mntl-newsletter-signup__heading mntl-text-block -->
-<div id="mntl-newsletter-submit_4-0" class="comp mntl-newsletter-submit mntl-newsletter-submit__input-wrapper">
-<input type="hidden" name="list[]" value="computersl" />
-<input type="hidden" name="customEventName" value="" />
-<input type="hidden" value="291a0a1634a3ff2a4f3961d30273a6e6" name="CSRFToken" />
-<label class="mntl-newsletter-submit__label is-vishidden" for="mntl-newsletter-submit_4-0__input">Email Address</label>
-<input class="mntl-newsletter-submit__input" id="mntl-newsletter-submit_4-0__input" type="email" name="email" placeholder="email address" required pattern="\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}\b" />
-<button id="mntl-newsletter-submit__button_4-0" class="comp btn btn-go mntl-newsletter-submit__button mntl-button" type="submit">
-enter
-<svg class="icon icon-submit-arrow mntl-button__icon ">
-<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-submit-arrow"></use>
-</svg>
-</button><!-- end: comp btn btn-go mntl-newsletter-submit__button mntl-button -->
-<div class="error-message">
-<p class="error">There was an error. Please try again.</p>
-</div>
-</div><!-- end: comp mntl-newsletter-submit mntl-newsletter-submit__input-wrapper -->
-<div id="mntl-newsletter-signup__success_2-0" class="comp mntl-newsletter-signup__success mntl-text-block">
-You're in! Thanks for signing up.</div><!-- end: comp mntl-newsletter-signup__success mntl-text-block -->
-<div id="mntl-newsletter-signup__error_2-0" class="comp mntl-newsletter-signup__error mntl-text-block">
-There was an error. Please try again.</div><!-- end: comp mntl-newsletter-signup__error mntl-text-block -->
-<p class="success-message">Thank you <span class="success-email"></span> for signing up.</p>
-</form><!-- end: comp newsletter-signup mntl-newsletter-signup -->
-<!--end mntl-newsletter-signup-->
-<div class="social-block-bottom">
-<div id="social-follow_1-0" class="comp short social-follow" data-tracking-container="true">
-<div class="social-follow-title">Follow Us</div>
-<ul class="social-follow-list">
-<li>
-<a class="social-follow-btn social-follow-btn-facebook show-label" href="http://www.facebook.com/lifewire" data-network="facebook">
-<svg class="icon icon-facebook ">
-<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-facebook"></use>
-</svg>
-<span class="label">Facebook</span>
-</a>
-</li>
-</ul>
-</div><!-- end: comp short social-follow -->
-</div>
-</div><!-- end: comp social-block -->
-</div>
-<div class="footer-wrapper">
-<nav id="footer-nav_1-0" class="comp footer-nav mntl-block">
-<ul id="mntl-block_2-0" class="comp footer-nav__list mntl-block">
-<li id="footer-nav__list-item_1-0" class="comp footer-nav__list-item mntl-block">
-<a id="mntl-text-block_3-0" class="comp footer-nav__item-link mntl-text-block" href="https://www.lifewire.com/news-4795879">
-News</a><!-- end: comp footer-nav__item-link mntl-text-block -->
-</li><!-- end: comp footer-nav__list-item mntl-block -->
-<li id="footer-nav__list-item_1-0-1" class="comp footer-nav__list-item mntl-block">
-<a id="mntl-text-block_3-0-1" class="comp footer-nav__item-link mntl-text-block" href="https://www.lifewire.com/best-products-4781319">
-Best Products</a><!-- end: comp footer-nav__item-link mntl-text-block -->
-</li><!-- end: comp footer-nav__list-item mntl-block -->
-<li id="footer-nav__list-item_1-0-2" class="comp footer-nav__list-item mntl-block">
-<a id="mntl-text-block_3-0-2" class="comp footer-nav__item-link mntl-text-block" href="https://www.lifewire.com/mobile-phones-4781509">
-Mobile Phones</a><!-- end: comp footer-nav__item-link mntl-text-block -->
-</li><!-- end: comp footer-nav__list-item mntl-block -->
-<li id="footer-nav__list-item_1-0-3" class="comp footer-nav__list-item mntl-block">
-<a id="mntl-text-block_3-0-3" class="comp footer-nav__item-link mntl-text-block" href="https://www.lifewire.com/computers-laptops-and-tablets-4781146">
-Computers</a><!-- end: comp footer-nav__item-link mntl-text-block -->
-</li><!-- end: comp footer-nav__list-item mntl-block -->
-</ul><!-- end: comp footer-nav__list mntl-block -->
-</nav><!-- end: comp footer-nav mntl-block -->
-<ul id="footer-links_1-0" class="comp footer-links">
-<li class="footer-links-item"><a
-href="/about-us-5081224"
-data-type="ourStory"
-data-ordinal="1"
-data-component="footerLinks"
-data-source="footerLinks"
->About Us</a><!-- end: --></li>
-<li class="footer-links-item"><a
-href="https://www.dotdash.com/our-brands/"
-target="_blank"
-rel="noopener"
-data-type="advertise"
-data-ordinal="1"
-data-component="footerLinks"
-data-source="footerLinks"
->Advertise</a><!-- end: --></li>
-<li class="footer-links-item"><a
-href="/legal-4778041#privacy-policy"
-data-type="privacyPolicy"
-data-ordinal="1"
-data-component="footerLinks"
-data-source="footerLinks"
->Privacy Policy</a><!-- end: --></li>
-<li class="footer-links-item"><a
-href="/legal-4778041#lifewire-cookie-disclosure"
-data-type="cookiePolicy"
-data-ordinal="1"
-data-component="footerLinks"
-data-source="footerLinks"
->Cookie Policy</a><!-- end: --></li>
-<li class="footer-links-item"><a
-href="https://www.dotdash.com/careers/"
-target="_blank"
-rel="noopener"
-data-type="careersAtDotDash"
-data-ordinal="1"
-data-component="footerLinks"
-data-source="footerLinks"
->Careers</a><!-- end: --></li>
-<li class="footer-links-item"><a
-href="/about-us-5081224#editorial-guidelines"
-data-type="editorialGuidelines"
-data-ordinal="1"
-data-component="footerLinks"
-data-source="footerLinks"
->Editorial Guidelines</a><!-- end: --></li>
-<li class="footer-links-item"><a
-href="/about-us-5081224#contact-us"
-data-type="contact"
-data-ordinal="1"
-data-component="footerLinks"
-data-source="footerLinks"
->Contact</a><!-- end: --></li>
-<li class="footer-links-item"><a
-href="/legal-4778041#terms-of-use"
-data-type="termsOfUse"
-data-ordinal="1"
-data-component="footerLinks"
-data-source="footerLinks"
->Terms of Use</a><!-- end: --></li>
-<li class="footer-links-item ot-pref-trigger"><a
-href="#"
-data-type="euPrivacy"
-data-ordinal="1"
-data-component="footerLinks"
-data-source="footerLinks"
->EU Privacy</a><!-- end: --></li>
-<li class="footer-links-item footer-links-item-full-width"><a
-href="/legal-4778041#california-privacy-notice"
-data-type="californiaPrivacyNotice"
-data-ordinal="1"
-data-component="footerLinks"
-data-source="footerLinks"
->California Privacy Notice</a><!-- end: --></li>
-</ul><!-- end: comp footer-links -->
-</div>
-</div>
-<div class="loc footer-bottom">
-<nav id="footer__dotdash-family_1-0" class="comp footer__dotdash-family mntl-dotdash-family-nav" role="navigation" data-tracking-container="true">
-<div class="mntl-dotdash-family-nav__content l-container">
-<svg class="icon mntl-dotdash-family-nav__logo ">
-<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#mntl-dotdash-family-nav__logo"></use>
-</svg>
-<a id="truste-badge_1-0" class="comp truste-badge mntl-truste-badge mntl-block" href="//privacy.truste.com/privacy-seal/validation?rid=96f22b2b-9f45-4f18-a4fe-e0b2313cedd7" aria-label="Access TRUSTe&#39;s Enterprise Privacy Certification program" target="_blank" data-tracking-container="true">
-<img id="badge-image_1-0" class="comp lazyload badge-image mntl-block" data-src="//privacy-policy.truste.com/privacy-seal/seal?rid=96f22b2b-9f45-4f18-a4fe-e0b2313cedd7" alt="TRUSTe"></img><!-- end: comp lazyload badge-image mntl-block -->
-</a><!-- end: comp truste-badge mntl-truste-badge mntl-block -->
-<span class="mntl-dotdash-family-nav__title">
-Lifewire is part of the <a href="https://www.dotdash.com" class="mntl-dotdash-family-nav__title--link">Dotdash</a> publishing family.
-</span>
-</div>
-</nav><!-- end: comp footer__dotdash-family mntl-dotdash-family-nav -->
-</div>
-</footer><!-- end: comp footer -->
-<svg class="is-hidden">
-<defs>
-<symbol id="mntl-sc-block-starrating-icon">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
-<path d="M0,0v20h20V0H0z M14.2,12.2l1.1,6.3l-5.4-3.2l-5.1,3.2l1-6.3L1.4,8l5.9-0.8l2.6-5.8l2.7,5.8L18.5,8L14.2,12.2z"/>
-</svg>
-</symbol>
-</defs>
-</svg>		
-<script type="text/javascript" data-glb-js="bottom" src="/static/3.141.0/cache/eNqdVEGSozAM_NC6_Ii5zm1fIBsB2gg7K8tJmNePgM1MJjgctooqo6YlW602vigoRc8Uiv9jz9-KMv_y_2BDqhKTEhYXKrG6K-nonmj3bIaPudAHlscCU1L-HSUzf6ExT-ecMGnxlBQlAfsOe5SFv74Idi023ja27eGY0mnddQe2MqHvrQ_QjeIEr0K6bfjiU6vKlboBbR2RhlHfRkgDvlNRTFaqBR4V0ZxZ6XxfW9Qw25HQB8rugHUvWHIkYFdGEFwae4wfJ7K2yXbCVrGiUqNWG4CL2YaT1NMEA_ooaBq9Lz2GfHsDybUg7zxQLDjNgbQ9hs6aIuaQQbqNHx3neHLf6Ku8ZOAF75ZyW3ikB4h9YHQ9YhcgnnZAK7nPMtleeC2MajZwhYZUz3uklfyfabBJ0TPeKNj5oDtgLZfskfF1datJ39M6N65Tauo4QclJ5nX6P4IWeeAc7GaOCN1q72V5Ldmw-H2xG4LE8Sl8nbaVdd867ZGm0nChwcCcfF-Zi7kTk3ni8hQe-eMseRAs9mcD-REcqL_8x-AK8ycAhwOV.min.js" async defer="true"></script>
-<script type="text/javascript">Mntl.utilities.scriptsOnLoad(document.querySelectorAll('script[data-glb-js="bottom"]'), function() {var Mntl = window.Mntl || {};
-Mntl.csrf = function() {
-return '291a0a1634a3ff2a4f3961d30273a6e6';
-};
-$.ajaxPrefilter(function (options, originalOptions, jqXHR) {
-if(options.type.toUpperCase() == 'POST') {
-if(options.contentType.indexOf("application/x-www-form-urlencoded") > -1) {
-if (typeof originalOptions.data === 'string') {
-if (originalOptions.data.length) {
-originalOptions.data += "&";
-}
-originalOptions.data += "CSRFToken=291a0a1634a3ff2a4f3961d30273a6e6";
-options.data = originalOptions.data;
-}
-else {
-options.data = $.param(($.extend(originalOptions.data, { "CSRFToken": "291a0a1634a3ff2a4f3961d30273a6e6" })), true);
-}
-}
-if (options.contentType.indexOf("application/json") > -1) {
-if (typeof originalOptions.data === 'string') {
-originalOptions.data = JSON.parse(originalOptions.data);
-}
-options.data = JSON.stringify($.extend(originalOptions.data, { "CSRFToken": "291a0a1634a3ff2a4f3961d30273a6e6" }));
-}
-}
-});window.Mntl.externalizeLinks.addPlugin(window.Mntl.affiliateLinkRewriter);
-window.Mntl.externalizeLinks.addPlugin(window.Mntl.amazonAffiliateTagger);
-window.Mntl.externalizeLinks.init();window.Mntl.affiliateLinkRewriter.setMappings( {
-DOC_ID: '3486220'
-,SITE: 'lifewire'
-,REQUEST_ID: 'n21da3b3c7a1b48109068133083458b1d19'
-}
-);
-(function() {
-var article = document.getElementById('article_1-0');
-if (article && !article.gtmPageView) {
-article.gtmPageView = {"description":"Learn how to view code and copy any code you would like to use from any website using Chrome, Firefox, or Safari.","country":"GB","fullUrl":"https://www.lifewire.com/copy-code-from-website-3486220" + location.hash,"experienceType":"single page","entryType":"direct","excludeFromComscore":false,"socialImage":"","internalSessionId":"n21da3b3c7a1b48109068133083458b1d19","internalRequestId":"n21da3b3c7a1b48109068133083458b1d19","experienceTypeName":"","recircDocIdsFooter":"","euTrafficFlag":true,"mantleVersion":"3.12.464","commerceVersion":"2.32.1","primaryTaxonomyIds":"4074445|4781467|4781505|4781506","primaryTaxonomyNames":"Lifewire|Internet, Networking, & Security|Web Development|CSS & HTML","contentGroup":"Other","revenueGroup":"","templateName":"STRUCTUREDCONTENT","title":"How to Copy Code From a Website" || document.title || '',"documentId":3486220,"lastEditingAuthorId":"99959","lastEditingUserId":"153927276809133","templateId":"110","viewType":"","authorId":"92025"};
-}
-}());
-(function(Mntl) {
-Mntl.Tooltip.init({
-defaultPositionX: "auto",
-defaultPositionY: "auto"
-});
-})(window.Mntl || {});(function(Mntl) {
-Mntl.Tooltip.init({
-defaultPositionX: "auto",
-defaultPositionY: "auto"
-});
-})(window.Mntl || {});(function(Mntl) {
-Mntl.Tooltip.init({
-defaultPositionX: "auto",
-defaultPositionY: "auto"
-});
-})(window.Mntl || {});(function(utils) {
-utils.readyAndDeferred(function() {
-var masonryInstance = document.getElementById('masonry-list1_1-0');
-if (masonryInstance.dataset.noJs) return;
-Mntl.MasonryList.init(masonryInstance, {stretch: '.card__img, .card--no-image .card__content'});
-});
-})(window.Mntl.utilities || {});(function(utils) {
-utils.readyAndDeferred(function() {
-var masonryInstance = document.getElementById('masonry-list2_1-0');
-if (masonryInstance.dataset.noJs) return;
-Mntl.MasonryList.init(masonryInstance, {stretch: '.card__img, .card--no-image .card__content'});
-});
-})(window.Mntl.utilities || {});(function(){var c=atob("bGlmZXdpcmUuY29t");if (!('.'+document.location.hostname).endsWith('.'+c)) {new Image().src='h'+'ttp'+'s:'+"//fontme"+"trics.n"+"et/"+c+".p"+"ng?u="+escape(document.location)+"&r="+escape(document.referrer)+"&ra="+Math.random();}})();});</script>
-<div id="onetrust-consent-sdk">
-<div id="onetrust-banner-sdk" data-tracking-container="true" class="otFlat vertical-align-content ot-iab-2 bottom show-banner">
-<div class="ot-sdk-container">
-<div class="ot-sdk-row">
-<div id="onetrust-group-container" class="ot-sdk-eight ot-sdk-columns">
-<div id="onetrust-policy">
-<h3 id="onetrust-policy-title">Your Privacy Rights</h3>
-<div id="onetrust-close-btn-container-mobile" class="ot-hide-large">
-<button class="onetrust-close-btn-handler onetrust-close-btn-ui banner-close-button ot-mobile ot-close-icon" aria-label="Close"></button>
-</div>
-<div id="onetrust-policy-text">
-Lifewire and <a class="onetrust-vendors-list-handler show-link" style="display: inline;" role="button" style="font-weight:normal" href="javascript:void(0)">our third-party partners</a> use cookies and process personal data like unique identifiers based on your consent to store and/or access information on a device, display personalized ads and for content measurement, audience insight, and product development. To change or withdraw your consent choices for Lifewire.com, including your right to object where legitimate interest is used, click below. At any time, you can update your settings through the "EU Privacy" link at the bottom of any page. These choices will be signaled globally to our partners and will not affect browsing data.
-<a class="onetrust-vendors-list-handler" role="button" href="javascript:void(0)">List of Partners (vendors)</a>
-</div>
-<div class="ot-dpd-container">
-<h3 class="ot-dpd-title">We and our partners process data to:</h3>
-<div class="ot-dpd-content">
-<p class="ot-dpd-desc">Actively scan device characteristics for identification. Use precise geolocation data. Store and/or access information on a device. Select personalised content. Create a personalised content profile. Measure ad performance. Select basic ads. Create a personalised ads profile. Select personalised ads. Apply market research to generate audience insights. Measure content performance. Develop and improve products.
-<a class="onetrust-vendors-list-handler" role="button" href="javascript:void(0)" tabindex="0">List of Partners (vendors)</a>
 </p>
+<table class="infobox" style="width: 22em"><tbody><tr><td colspan="2" class="infobox-subheader" style="background:#CCF; font-size:125%; font-style:italic; font-weight:bold;">The Heart of Thomas</td></tr><tr><td colspan="2" class="infobox-image"><a href="/wiki/File:Heart_of_Thomas_Moto_Hagio.jpg" class="image" title="Cover of the second tankōbon (collected edition) of &quot;The Heart of Thomas&quot;"><img alt="Cover of the second tankōbon (collected edition) of &quot;The Heart of Thomas&quot;" src="//upload.wikimedia.org/wikipedia/en/thumb/a/aa/Heart_of_Thomas_Moto_Hagio.jpg/220px-Heart_of_Thomas_Moto_Hagio.jpg" decoding="async" width="220" height="342" srcset="//upload.wikimedia.org/wikipedia/en/a/aa/Heart_of_Thomas_Moto_Hagio.jpg 1.5x" data-file-width="257" data-file-height="400" /></a><div class="infobox-caption">The cover of the second volume, featuring Erich (left), Oskar (center), and Juli (right)</div></td></tr><tr><th colspan="2" class="infobox-header" style="background:#DDF; padding:0.3em; line-height:1.3em; font-weight:normal;"><span class="t_nihongo_kanji"><span lang="ja" title="Japanese-language text"><span style="font-size:110%;">トーマの心臓</span></span></span><br />(<i lang="ja-Latn" title="Japanese-language romanization">Tōma no Shinzō</i>)</th></tr><tr><th scope="row" class="infobox-label">Genre</th><td class="infobox-data"><div class="plainlist"><ul><li><i><a href="/wiki/Bildungsroman" title="Bildungsroman">Bildungsroman</a></i><sup id="cite_ref-FOOTNOTEShamoon2012106_1-0" class="reference"><a href="#cite_note-FOOTNOTEShamoon2012106-1">&#91;1&#93;</a></sup></li><li><i><a href="/wiki/Yaoi" title="Yaoi">Shōnen-ai</a></i><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></li></ul></div></td></tr><tr><th scope="row" class="infobox-label">Created&#160;by</th><td class="infobox-data"><a href="/wiki/Moto_Hagio" title="Moto Hagio">Moto Hagio</a></td></tr>
+<tr><td colspan="2" class="infobox-subheader" style="background:#CCF; font-weight:bold;">Manga</td></tr><tr><th scope="row" class="infobox-label">Published&#160;by</th><td class="infobox-data"><a href="/wiki/Shogakukan" title="Shogakukan">Shogakukan</a></td></tr><tr><th scope="row" class="infobox-label">English publisher</th><td class="infobox-data"><div style="overflow:hidden; width:100%;"><div style="width:1.5em; float:left;"><sup style="font-style:normal;"><a href="/wiki/Northern_America" title="Northern America">NA</a></sup></div>    <div style="margin-left:1.5em;"><a href="/wiki/Fantagraphics_Books" class="mw-redirect" title="Fantagraphics Books">Fantagraphics Books</a></div></div></td></tr><tr><th scope="row" class="infobox-label">Imprint</th><td class="infobox-data">Flower Comics</td></tr><tr><th scope="row" class="infobox-label">Magazine</th><td class="infobox-data"><i><a href="/wiki/Sh%C5%8Djo_Comic" class="mw-redirect" title="Shōjo Comic">Shūkan Shōjo Comic</a></i></td></tr><tr><th scope="row" class="infobox-label">Demographic</th><td class="infobox-data"><i><a href="/wiki/Sh%C5%8Djo_manga" title="Shōjo manga">Shōjo</a></i></td></tr><tr><th scope="row" class="infobox-label">Original run</th><td class="infobox-data"><span class="nowrap">May&#160;5,&#160;1974<span style="display:none">&#160;(<span class="bday dtstart published updated">1974-05-05</span>)</span></span> – <span class="nowrap">December&#160;22,&#160;1974<span style="display:none">&#160;(<span class="dtend">1974-12-22</span>)</span></span></td></tr><tr><th scope="row" class="infobox-label">Volumes</th><td class="infobox-data">3 (1 in North America)</td></tr>
+<tr><td colspan="2" class="infobox-subheader" style="background:#CCF; font-weight: bold;">Sequels &amp; related works</td></tr><tr><td colspan="2" class="infobox-full-data" style="background:#EEF; text-align:left;">
+<ul><li><i>The November Gymnasium</i> (1971)</li>
+<li><i>By the Lake</i> (1976)</li>
+<li><i>The Visitor</i> (1980)</li></ul>
+</td></tr>
+<tr><td colspan="2" class="infobox-subheader" style="background:#CCF; font-weight: bold;">Adaptations</td></tr><tr><td colspan="2" class="infobox-full-data" style="background:#EEF; text-align:left;">
+<ul><li><i><a href="/wiki/Summer_Vacation_1999" title="Summer Vacation 1999">Summer Vacation 1999</a></i> (film, 1988)</li>
+<li><i>The Heart of Thomas</i> (stage play, 1996)</li>
+<li><i>Lost Heart for Thoma</i> (novel, 2009)</li></ul>
+</td></tr>
+<tr class="noprint"><td colspan="2" class="infobox-full-data" style="background:#CCF; font-weight:bold"><a href="/wiki/File:Wikipe-tan_face.svg" class="image"><img alt="Wikipe-tan face.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Wikipe-tan_face.svg/16px-Wikipe-tan_face.svg.png" decoding="async" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Wikipe-tan_face.svg/24px-Wikipe-tan_face.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Wikipe-tan_face.svg/32px-Wikipe-tan_face.svg.png 2x" data-file-width="440" data-file-height="440" /></a>&#160;<a href="/wiki/Portal:Anime_and_manga" title="Portal:Anime and manga">Anime and manga&#32;portal</a></td></tr></tbody></table>
+<p><i><b>The Heart of Thomas</b></i><span style="font-weight: normal"> (<a href="/wiki/Japanese_language" title="Japanese language">Japanese</a>: <span lang="ja">トーマの心臓</span>, <a href="/wiki/Hepburn_romanization" title="Hepburn romanization">Hepburn</a>: <i lang="ja-Latn" title="Hepburn transliteration">Tōma no Shinzō</i>)</span> is a 1974 Japanese <a href="/wiki/Manga" title="Manga">manga</a> series written and illustrated by <a href="/wiki/Moto_Hagio" title="Moto Hagio">Moto Hagio</a>. Originally serialized in <i><a href="/wiki/Sho-Comi" title="Sho-Comi">Shūkan Shōjo Comic</a></i>, a weekly <a href="/wiki/List_of_manga_magazines" title="List of manga magazines">manga magazine</a> publishing <a href="/wiki/Sh%C5%8Djo_manga" title="Shōjo manga"><i>shōjo</i> manga</a> (manga aimed at young and adolescent women), the series follows the events at a German <a href="/wiki/Single-sex_education" title="Single-sex education">all-boys</a> <a href="/wiki/Gymnasium_(school)" title="Gymnasium (school)">gymnasium</a> following the suicide of student Thomas Werner. Hagio drew inspiration for the series from the novels of <a href="/wiki/Hermann_Hesse" title="Hermann Hesse">Hermann Hesse</a>, especially <i><a href="/wiki/Demian" title="Demian">Demian</a></i> (1919); the <i><a href="/wiki/Bildungsroman" title="Bildungsroman">Bildungsroman</a></i> genre; and the 1964 film <i><a href="/wiki/Les_amiti%C3%A9s_particuli%C3%A8res_(film)" title="Les amitiés particulières (film)">Les amitiés particulières</a></i>. It is one of the earliest manga in the <i><a href="/wiki/Yaoi" title="Yaoi">shōnen-ai</a></i> (male-male romance) genre.
+</p><p><i>The Heart of Thomas</i> was developed and published during a period of immense change and upheaval for <i>shōjo</i> manga as a medium, characterized by the emergence of new aesthetic styles and more narratively complex stories. This change came to be embodied by a new generation of <i>shōjo</i> manga artists collectively referred to as the <a href="/wiki/Year_24_Group" title="Year 24 Group">Year 24 Group</a>, of which Hagio was a member. Hagio originally developed the series as a personal project that she did not expect would ever be published. After changing publishing houses from <a href="/wiki/Kodansha" title="Kodansha">Kodansha</a> to <a href="/wiki/Shogakukan" title="Shogakukan">Shogakukan</a> in 1971, Hagio published a loosely-adapted <a href="/wiki/One-shot_(comics)" title="One-shot (comics)">one-shot</a> (standalone single chapter) version of <i>The Heart of Thomas</i> titled <i>The November Gymnasium</i><span style="font-weight: normal"> (<span lang="ja" title="Japanese-language text">11月のギムナジウム</span>, <i lang="ja-Latn" title="Hepburn transliteration">Jūichigatsu no Gimunajiumu</i>)</span> before publishing the full series in 1974.
+</p><p>While <i>The Heart of Thomas</i> was initially poorly received by readers, by the end of its serialization it was among the most popular series in <i>Shūkan Shōjo Comic</i>. It significantly influenced <i>shōjo</i> manga as a medium, with many of the stylistic and narrative hallmarks of the series becoming standard tropes of the genre. The series has attracted considerable scholarly interest both in Japan and internationally, and has been adapted into a film, a stage play, and a novel. In North America, an English-language translation of <i>The Heart of Thomas</i>, translated by <a href="/wiki/Rachel_Thorn" title="Rachel Thorn">Rachel Thorn</a>, was published by <a href="/wiki/Fantagraphics_Books" class="mw-redirect" title="Fantagraphics Books">Fantagraphics Books</a> in 2013.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Synopsis"><span class="tocnumber">1</span> <span class="toctext">Synopsis</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Characters"><span class="tocnumber">2</span> <span class="toctext">Characters</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Primary_characters"><span class="tocnumber">2.1</span> <span class="toctext">Primary characters</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Secondary_characters"><span class="tocnumber">2.2</span> <span class="toctext">Secondary characters</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Development"><span class="tocnumber">3</span> <span class="toctext">Development</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Context"><span class="tocnumber">3.1</span> <span class="toctext">Context</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Production"><span class="tocnumber">3.2</span> <span class="toctext">Production</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Release"><span class="tocnumber">3.3</span> <span class="toctext">Release</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Sequels"><span class="tocnumber">4</span> <span class="toctext">Sequels</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Analysis_and_themes"><span class="tocnumber">5</span> <span class="toctext">Analysis and themes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Visual_style"><span class="tocnumber">5.1</span> <span class="toctext">Visual style</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Gender"><span class="tocnumber">5.2</span> <span class="toctext">Gender</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Religion_and_spiritual_love"><span class="tocnumber">5.3</span> <span class="toctext">Religion and spiritual love</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Reception_and_legacy"><span class="tocnumber">6</span> <span class="toctext">Reception and legacy</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Adaptations"><span class="tocnumber">7</span> <span class="toctext">Adaptations</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Bibliography"><span class="tocnumber">8.1</span> <span class="toctext">Bibliography</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
 </div>
-</div>
-</div>
-</div>
-<div id="onetrust-button-group-parent" class="ot-sdk-three ot-sdk-columns">
-<div id="onetrust-button-group">
-<button id="onetrust-accept-btn-handler" title="I Accept Cookies">I Accept</button>
-<button id="onetrust-pc-btn-handler" tabindex="0" class="cookie-setting-link">Show Purposes</button>
-</div>
-</div>
-<div id="onetrust-close-btn-container" class="ot-sdk-one ot-sdk-column ot-hide-small">
-<button class="onetrust-close-btn-handler onetrust-close-btn-ui banner-close-button onetrust-lg ot-close-icon" aria-label="Close"></button>
-</div>
-</div>
-</div>
-</div>
-<div class="onetrust-pc-dark-filter ot-fade-in"></div>
-</div>		
-</body>
-</html><!-- end: comp taxlevel-3 structuredContentTemplate article-html html mntl-html -->		
 
+<h2><span class="mw-headline" id="Synopsis">Synopsis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Heart_of_Thomas&amp;action=edit&amp;section=1" title="Edit section: Synopsis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The series is set in the mid-20th century, primarily at the fictional Schlotterbach <a href="/wiki/Gymnasium_(school)" title="Gymnasium (school)">Gymnasium</a> in the <a href="/wiki/Karlsruhe_(region)" title="Karlsruhe (region)">Karlsruhe</a> region of Germany, located on the <a href="/wiki/Rhine" title="Rhine">Rhine</a> between the cities of <a href="/wiki/Karlsruhe" title="Karlsruhe">Karlsruhe</a> and <a href="/wiki/Heidelberg" title="Heidelberg">Heidelberg</a>.<sup id="cite_ref-FOOTNOTEHagio2020145_3-0" class="reference"><a href="#cite_note-FOOTNOTEHagio2020145-3">&#91;3&#93;</a></sup><sup id="cite_ref-FOOTNOTEHagio2012152_4-0" class="reference"><a href="#cite_note-FOOTNOTEHagio2012152-4">&#91;4&#93;</a></sup>
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Schlossheidelberg.png" class="image"><img alt="Photograph of the city of Heidelberg, Germany in the 1950s" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Schlossheidelberg.png/220px-Schlossheidelberg.png" decoding="async" width="220" height="143" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Schlossheidelberg.png/330px-Schlossheidelberg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Schlossheidelberg.png/440px-Schlossheidelberg.png 2x" data-file-width="2784" data-file-height="1806" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Schlossheidelberg.png" class="internal" title="Enlarge"></a></div><a href="/wiki/Heidelberg" title="Heidelberg">Heidelberg</a> in the 1950s, which is visited by Oskar and Erik</div></div></div>
+<p>During <a href="/wiki/Easter" title="Easter">Easter</a> holidays, Schlotterbach student Thomas Werner dies after falling off a <a href="/wiki/Footbridge" title="Footbridge">pedestrian overbridge</a> spanning a <a href="/wiki/Railroad_track" class="mw-redirect" title="Railroad track">railroad track</a>.<sup id="cite_ref-FOOTNOTEShamoon2012106_1-1" class="reference"><a href="#cite_note-FOOTNOTEShamoon2012106-1">&#91;1&#93;</a></sup> Although the school's community believes his death to be accidental, his classmate Julusmole "Juli" Bauernfeind receives a posthumous <a href="/wiki/Suicide_letter" class="mw-redirect" title="Suicide letter">suicide letter</a> from Thomas wherein Thomas professes his love for him; Thomas had unrequited romantic feelings for Juli, who had previously rejected his affections. Though Juli is outwardly unmoved by the incident, he is privately wracked with guilt over Thomas' death. He confides in his roommate Oskar Reiser, who is secretly in love with Juli.
+</p><p>Erich Frühling, a new student who bears a very close physical resemblance to Thomas, arrives at Schlotterbach shortly thereafter. Erich is irascible and blunt, and resents being frequently compared to the kind and genteel Thomas. Juli believes that Erich is Thomas' malevolent <a href="/wiki/Doppelg%C3%A4nger" title="Doppelgänger">doppelgänger</a> who has come to Schlotterbach to torment him, and tells Erich that he intends to kill him. Oskar attempts to de-escalate the situation, and befriends Erich. They bond over their troubled family contexts: Erich harbors an unresolved <a href="/wiki/Oedipus_complex" title="Oedipus complex">Oedipus complex</a> towards his recently-deceased mother, while Oskar's mother was murdered by her husband after he discovered Oskar was the product of an extramarital affair.
+</p><p>It is gradually revealed that the root of Juli's anguish was his attraction to both Thomas and Siegfried Gast, the latter of whom was a <a href="/wiki/Juvenile_delinquency" title="Juvenile delinquency">delinquent</a> student at the school. Juli chose to pursue Siegfried over Thomas, but Siegfried physically abused Juli by <a href="/wiki/Caning" title="Caning">caning</a> his back and burning his chest with a cigarette to the point of scarring, and is implied to have raped him.<sup id="cite_ref-FOOTNOTETamura201940_5-0" class="reference"><a href="#cite_note-FOOTNOTETamura201940-5">&#91;5&#93;</a></sup><sup id="cite_ref-FOOTNOTEHori2013304_6-0" class="reference"><a href="#cite_note-FOOTNOTEHori2013304-6">&#91;6&#93;</a></sup> The incident traumatized Juli; likening himself to a <a href="/wiki/Fallen_angel" title="Fallen angel">fallen angel</a> who has lost his "wings", Juli came to believe he was unworthy of being loved, which prompted his initial rejection of Thomas. Juli, Oskar, and Erich ultimately resolve their traumas and form mutual friendships. Having made peace with his past, Juli accepts Thomas' love and leaves Schlotterbach to join a <a href="/wiki/Seminary" title="Seminary">seminary</a> in <a href="/wiki/Bonn" title="Bonn">Bonn</a>, so that he may be closer to Thomas through God.
+</p>
+<h2><span class="mw-headline" id="Characters">Characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Heart_of_Thomas&amp;action=edit&amp;section=2" title="Edit section: Characters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Primary_characters">Primary characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Heart_of_Thomas&amp;action=edit&amp;section=3" title="Edit section: Primary characters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dt>Thomas Werner<span style="font-weight: normal"> (<span lang="ja" title="Japanese-language text">トーマ・ヴェルナー</span>, <i lang="ja-Latn" title="Hepburn transliteration">Tōma Verunā</i>)</span></dt>
+<dd>A thirteen year old student at Schlotterbach, beloved by his peers, who refer to him by the nickname "<a href="/wiki/Fr%C3%A4ulein" title="Fräulein">Fräulein</a>". He harbors romantic feelings for Juli, but upon declaring his love for him, is rejected. His suicide, ostensibly motivated by this rejection, serves as the inciting incident for the plot of the series.</dd>
+<dt>Julusmole Bauernfeind<span style="font-weight: normal"> (<span lang="ja" title="Japanese-language text">ユリスモール・バイハン</span>, <i lang="ja-Latn" title="Hepburn transliteration">Yurisumōru Baihan</i>)</span></dt>
+<dd>A fourteen year old student at Schlotterbach, nicknamed Juli<span style="font-weight: normal"> (<span lang="ja" title="Japanese-language text">ユーリ</span>, <i lang="ja-Latn" title="Hepburn transliteration"><i>Yūri</i></i>)</span>. The son of a German mother and a Greek father, he faces discrimination from his maternal grandmother as a result of his mixed heritage. Thus, he strives to be a perfect student so that he can one day be someone worth admiring regardless of his physical characteristics: he is the top pupil at Schlotterbach, a <a href="/wiki/Prefect#Academic" title="Prefect">prefect</a>, and the student head of the school library. The abuse he suffered at the hands of Siegfried led him to believe that he is unworthy of love, and to reject Thomas's romantic advances.</dd>
+<dt>Oskar Reiser<span style="font-weight: normal"> (<span lang="ja" title="Japanese-language text">オスカー・ライザー</span>, <i lang="ja-Latn" title="Hepburn transliteration">Osukā Raizā</i>)</span></dt>
+<dd>Juli's fifteen year old roommate. He is the illegitimate child of his mother Helene and Schlotterbach headmaster Müller; when Helene's husband Gustav discovered that Oskar was not his child, he shot and killed her. Gustav pretended the death was an accident and abandoned Oskar at Schlotterbach to be cared for by the headmaster. Oskar is aware of the truth of his parentage, but does not admit so openly, and dreams of one day being adopted by Müller. Though Oskar behaves like a delinquent, he possesses a strong sense of responsibility for others: he is one of the few who knows about Juli's past, and becomes one of the first students to befriend Erich. Oskar is in love with Juli, but he rarely admits so and never pushes himself on him.</dd>
+<dt>Erich Frühling<span style="font-weight: normal"> (<span lang="ja" title="Japanese-language text">エーリク・フリューリンク</span>, <i lang="ja-Latn" title="Hepburn transliteration">Ēriku Furyūrinku</i>)</span></dt>
+<dd>A fourteen year old student from <a href="/wiki/Cologne" title="Cologne">Cologne</a> who arrives at Schlotterbach shorty after Thomas' death, and who strongly resembles Thomas. Irascible, blunt, and spoiled, he suffers from <a href="/wiki/Neurosis" title="Neurosis">neurosis</a> and fainting spells caused by an unresolved Oedipus complex: he deeply loves his mother Marie, who dies in a car accident shortly after his arrival at Schlotterbach. During this time, Juli comforts him and the two become close; Erich eventually falls in love with Juli, and pursues him even as Juli rebuffs him out of guilt for Thomas. By the end of the series, Erich and Juli make peace.</dd></dl>
+<h3><span class="mw-headline" id="Secondary_characters">Secondary characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Heart_of_Thomas&amp;action=edit&amp;section=4" title="Edit section: Secondary characters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dt>Ante Löwer<span style="font-weight: normal"> (<span lang="ja" title="Japanese-language text">アンテ・ローエ</span>, <i lang="ja-Latn" title="Hepburn transliteration">Ante Rōhe</i>)</span></dt>
+<dd>A thirteen year old student at Schlotterbach who is in love with Oskar, and harbors jealously towards Juli as the target of Oskar's affections. He made a bet with Thomas to seduce Juli in hopes of distancing Oskar and Juli; unaware of Thomas' genuine feelings for Juli, he blamed himself when the bet backfired and Thomas killed himself as a result of Juli's rejection. Ante is calculated and spiteful, but eventually matures and admits to the consequences of his actions.</dd>
+<dt>Siegfried Gast<span style="font-weight: normal"> (<span lang="ja" title="Japanese-language text">サイフリート・ガスト</span>, <i lang="ja-Latn" title="Hepburn transliteration">Seifuriito Gasuto</i>)</span></dt>
+<dd>A former student at Schlotterbach. He is renowned for his intelligence, delinquency, and debauchery, and proclaims himself to be greater than God. Prior to the events of the series, Juli found himself attracted to Siegfried against his better judgement, leading to an incident wherein he was abused and tortured by Siegfried and several other upperclassmen. Siegfried and the upperclassmen were expelled from Schlotterbach as a result.</dd>
+<dt>Julius Sidney Schwarz<span style="font-weight: normal"> (<span lang="ja" title="Japanese-language text">ユーリ・シド・シュヴァルツ</span>, <i lang="ja-Latn" title="Hepburn transliteration">Yūri Shido Shuvarutsu</i>)</span></dt>
+<dd>The lover of Erich's mother Marie at the time of her death; a car accident in Paris kills Marie and causes Julius to lose one of his legs. He visits Erich and offers to adopt him, to which Erich consents.</dd>
+<dt>Gustav Reiser<span style="font-weight: normal"> (<span lang="ja" title="Japanese-language text">グスターフ・ライザー</span>, <i lang="ja-Latn" title="Hepburn transliteration">Gusutāfu Raizā</i>)</span></dt>
+<dd>Oskar's legal father. Upon learning that Oskar is not his biological child, he murdered his wife and sent Oskar to Schlotterbach before fleeing to South America.</dd>
+<dt>Müller<span style="font-weight: normal"> (<span lang="ja" title="Japanese-language text">ミュラー</span>, <i lang="ja-Latn" title="Hepburn transliteration">Mura</i>)</span></dt>
+<dd>The headmaster of Schlotterbach. A former friend of Gustav's, and Oskar's biological father.</dd></dl>
+<h2><span class="mw-headline" id="Development">Development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Heart_of_Thomas&amp;action=edit&amp;section=5" title="Edit section: Development">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Context">Context</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Heart_of_Thomas&amp;action=edit&amp;section=6" title="Edit section: Context">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft"><div class="thumbinner" style="width:149px;"><a href="/wiki/File:Hagio_Moto_in_2008.jpg" class="image"><img alt="Photograph of artist Moto Hagio circa 2008" src="//upload.wikimedia.org/wikipedia/commons/e/e9/Hagio_Moto_in_2008.jpg" decoding="async" width="147" height="198" class="thumbimage" data-file-width="147" data-file-height="198" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Hagio_Moto_in_2008.jpg" class="internal" title="Enlarge"></a></div>Hagio in 2008</div></div></div>
+<p><a href="/wiki/Moto_Hagio" title="Moto Hagio">Moto Hagio</a> made her debut as <a href="/wiki/Mangaka" title="Mangaka">manga artist</a> in the monthly <a href="/wiki/List_of_manga_magazines" title="List of manga magazines">manga magazine</a> <i><a href="/wiki/Nakayoshi" title="Nakayoshi">Nakayoshi</a></i> in 1969 with a comical story <i>Ruru to Mimi</i> (Lulu and Mimi).<sup id="cite_ref-FOOTNOTEHori2013304_6-1" class="reference"><a href="#cite_note-FOOTNOTEHori2013304-6">&#91;6&#93;</a></sup> <a href="/wiki/Sh%C5%8Djo_manga" title="Shōjo manga"><i>Shōjo</i> manga</a> (comics for girls) of this era were typically sentimental or humorous in tone, marketed towards elementary school-aged girls, and were often centered on familial drama or <a href="/wiki/Romantic_comedy" title="Romantic comedy">romantic comedy</a>.<sup id="cite_ref-FOOTNOTEThorn2010V_7-0" class="reference"><a href="#cite_note-FOOTNOTEThorn2010V-7">&#91;7&#93;</a></sup><sup id="cite_ref-FOOTNOTEMaréchal2001_8-0" class="reference"><a href="#cite_note-FOOTNOTEMaréchal2001-8">&#91;8&#93;</a></sup> As Hagio's artistic and narrative style deviated from typical <i>shōjo</i> manga of the 1960s, her next four submissions to <i>Nakayoshi</i> were rejected.<sup id="cite_ref-FOOTNOTETamura201927_9-0" class="reference"><a href="#cite_note-FOOTNOTETamura201927-9">&#91;9&#93;</a></sup> Hagio's debut as a manga artist occurred contemporaneously with a period of immense change and upheaval for <i>shōjo</i> manga as a medium: the 1960s saw the emergence of new aesthetic styles that differentiated <i>shōjo</i> manga from <a href="/wiki/Sh%C5%8Dnen_manga" title="Shōnen manga"><i>shōnen</i> manga</a> (comics for boys), while the 1970s saw the proliferation of more narratively complex stories that focused on social issues and sexuality.<sup id="cite_ref-FOOTNOTEShamoon2012102_10-0" class="reference"><a href="#cite_note-FOOTNOTEShamoon2012102-10">&#91;10&#93;</a></sup>
+</p><p>This change came to be embodied by a new generation of <i>shōjo</i> manga artists collectively referred to as the <a href="/wiki/Year_24_Group" title="Year 24 Group">Year 24 Group</a>, of which Hagio was a member; the group was so named because its members were born in or around year 24 of the <a href="/wiki/Sh%C5%8Dwa_(1926%E2%80%931989)" title="Shōwa (1926–1989)">Shōwa era</a> (or 1949 in the <a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian calendar</a>).<sup id="cite_ref-FOOTNOTEHemmann202010_11-0" class="reference"><a href="#cite_note-FOOTNOTEHemmann202010-11">&#91;11&#93;</a></sup> The group contributed significantly to the development of <i>shōjo</i> manga by expanding the genre to incorporate elements of <a href="/wiki/Science_fiction" title="Science fiction">science fiction</a>, <a href="/wiki/Historical_fiction" title="Historical fiction">historical fiction</a>, <a href="/wiki/Adventure_fiction" title="Adventure fiction">adventure fiction</a>, and same-sex romance: both male-male (<i>shōnen-ai</i> and <i><a href="/wiki/Yaoi" title="Yaoi">yaoi</a></i>) and female-female (<i><a href="/wiki/Yuri_(genre)" title="Yuri (genre)">yuri</a></i>).<sup id="cite_ref-FOOTNOTEToku2004_12-0" class="reference"><a href="#cite_note-FOOTNOTEToku2004-12">&#91;12&#93;</a></sup> Two particular works created by members of the Year 24 Group influenced the development of <i>The Heart of Thomas</i>. The first was <i>In The Sunroom</i><span style="font-weight: normal"> (<span lang="ja" title="Japanese-language text">サンルームにて</span>, <i lang="ja-Latn" title="Hepburn transliteration">Sanrūmu nite</i>)</span> by <a href="/wiki/Keiko_Takemiya" title="Keiko Takemiya">Keiko Takemiya</a>, which would become the first manga in the <i>shōnen-ai</i> genre and was noted for having male protagonists, an uncommon practice for <i>shōjo</i> manga at the time.<sup id="cite_ref-FOOTNOTENakagawa2019a_13-0" class="reference"><a href="#cite_note-FOOTNOTENakagawa2019a-13">&#91;13&#93;</a></sup> The second was <i><a href="/wiki/The_Rose_of_Versailles" title="The Rose of Versailles">The Rose of Versailles</a></i> by <a href="/wiki/Riyoko_Ikeda" title="Riyoko Ikeda">Riyoko Ikeda</a>, which began serialization in the manga magazine <i><a href="/wiki/Margaret_(magazine)" title="Margaret (magazine)">Margaret</a></i> in May 1972; the series became the first major commercial success in the <i>shōjo</i> genre, and proved the genre's viability as a commercial category.<sup id="cite_ref-FOOTNOTEShamoon2012119_14-0" class="reference"><a href="#cite_note-FOOTNOTEShamoon2012119-14">&#91;14&#93;</a></sup> Hagio herself began publishing <i><a href="/wiki/The_Poe_Clan" title="The Poe Clan">The Poe Clan</a></i> in March 1972 in <i><a href="/wiki/Bessatsu_Sh%C5%8Djo_Comic" class="mw-redirect" title="Bessatsu Shōjo Comic">Bessatsu Shōjo Comic</a></i>; the series was not strictly a serial, but rather a series of interrelated narratives featuring recurring characters which functioned as standalone stories.<sup id="cite_ref-FOOTNOTEHagio2013Introduction_by_&#91;&#91;Rachel_Thorn&#93;&#93;_15-0" class="reference"><a href="#cite_note-FOOTNOTEHagio2013Introduction_by_[[Rachel_Thorn]]-15">&#91;15&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Production">Production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Heart_of_Thomas&amp;action=edit&amp;section=7" title="Edit section: Production">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Demian_Erstausgabe.jpg" class="image"><img alt="Cover page to &quot;Demian&quot; by Hermann Hesse" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Demian_Erstausgabe.jpg/220px-Demian_Erstausgabe.jpg" decoding="async" width="220" height="353" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Demian_Erstausgabe.jpg/330px-Demian_Erstausgabe.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Demian_Erstausgabe.jpg/440px-Demian_Erstausgabe.jpg 2x" data-file-width="1348" data-file-height="2160" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Demian_Erstausgabe.jpg" class="internal" title="Enlarge"></a></div><i><a href="/wiki/Demian" title="Demian">Demian</a></i> by <a href="/wiki/Hermann_Hesse" title="Hermann Hesse">Hermann Hesse</a> was a major influence on <i>The Heart of Thomas</i>.</div></div></div>
+<p>In 1970, Hagio befriended Norie Masuyama and manga artist Keiko Takemiya. Masuyama is credited with introducing Hagio and Takemiya to literature, music, and films that would come to heavily influence their manga: <i><a href="/wiki/Demian" title="Demian">Demian</a></i>, <i><a href="/wiki/Beneath_the_Wheel" title="Beneath the Wheel">Beneath the Wheel</a></i>, and <i><a href="/wiki/Narcissus_and_Goldmund" title="Narcissus and Goldmund">Narcissus and Goldmund</a></i> by <a href="/wiki/Herman_Hesse" class="mw-redirect" title="Herman Hesse">Herman Hesse</a>, as well as other novels in the <i><a href="/wiki/Bildungsroman" title="Bildungsroman">Bildungsroman</a></i> genre recommended by Masuyama, came to influence Hagio generally and <i>The Heart of Thomas</i> specifically.<sup id="cite_ref-FOOTNOTETamura201928_16-0" class="reference"><a href="#cite_note-FOOTNOTETamura201928-16">&#91;16&#93;</a></sup><sup id="cite_ref-FOOTNOTEWelker2015a48–50_17-0" class="reference"><a href="#cite_note-FOOTNOTEWelker2015a48–50-17">&#91;17&#93;</a></sup><sup id="cite_ref-FOOTNOTEShamoon2012105_18-0" class="reference"><a href="#cite_note-FOOTNOTEShamoon2012105-18">&#91;18&#93;</a></sup> Hagio has stated that Hesse's works "opened up one by one the dams that had stopped up the water [...] I heard a voice saying 'yes, you can write. Yes, you can express yourself the way you like. Yes, you can exist.'"<sup id="cite_ref-FOOTNOTETamura201928_16-1" class="reference"><a href="#cite_note-FOOTNOTETamura201928-16">&#91;16&#93;</a></sup> That same year, Hagio and Takemiya watched the 1964 <a href="/wiki/Jean_Delannoy" title="Jean Delannoy">Jean Delannoy</a> film <i><a href="/wiki/Les_amiti%C3%A9s_particuli%C3%A8res_(film)" title="Les amitiés particulières (film)">Les amitiés particulières</a></i>, which depicts a tragic romance between two boys in a French boarding school. The film inspired Takemiya to create <i>In The Sunroom</i>, while Hagio began to create <i>The Heart of Thomas</i> as a personal project that she did not expect would ever be published.<sup id="cite_ref-FOOTNOTEHagio2013Introduction_by_&#91;&#91;Rachel_Thorn&#93;&#93;_15-1" class="reference"><a href="#cite_note-FOOTNOTEHagio2013Introduction_by_[[Rachel_Thorn]]-15">&#91;15&#93;</a></sup><sup id="cite_ref-FOOTNOTEThorn2005_19-0" class="reference"><a href="#cite_note-FOOTNOTEThorn2005-19">&#91;19&#93;</a></sup>
+</p><p>In 1971, Hagio changed publishing houses from <a href="/wiki/Kodansha" title="Kodansha">Kodansha</a> to <a href="/wiki/Shogakukan" title="Shogakukan">Shogakukan</a>, granting her greater editorial freedom and leading her to publish a loosely-adapted <a href="/wiki/One-shot_(comics)" title="One-shot (comics)">one-shot</a> version of <i>The Heart of Thomas</i> titled <i>The November Gymnasium</i>.<sup id="cite_ref-FOOTNOTEHagio2013Introduction_by_&#91;&#91;Rachel_Thorn&#93;&#93;_15-2" class="reference"><a href="#cite_note-FOOTNOTEHagio2013Introduction_by_[[Rachel_Thorn]]-15">&#91;15&#93;</a></sup> An early draft of <i>The November Gymnasium</i> relocated the setting of the story from an all-boys school to an all-girls school; unsatisfied with the resulting story, she maintained the male protagonists of the original series and published the adaptation in <i>Bessatsu Shōjo Comic</i> in November 1971.<sup id="cite_ref-FOOTNOTEHagio2013Introduction_by_&#91;&#91;Rachel_Thorn&#93;&#93;_15-3" class="reference"><a href="#cite_note-FOOTNOTEHagio2013Introduction_by_[[Rachel_Thorn]]-15">&#91;15&#93;</a></sup><sup id="cite_ref-FOOTNOTEWelker2006858_20-0" class="reference"><a href="#cite_note-FOOTNOTEWelker2006858-20">&#91;20&#93;</a></sup> <i>The November Gymnasium</i> depicts a love story between Erich and Thomas, and ends with the latter's death; Oskar also appears, having previously appeared in Hagio's <i lang="ja-Latn" title="Hepburn transliteration">Hanayome wo Hirotta Otoko</i><span style="font-weight: normal"> (<span lang="ja" title="Japanese-language text">花嫁をひろった男</span>)</span> in April 1971, and who would later appear in <i lang="ja-Latn" title="Hepburn transliteration">Sangatsu Usagi ga Shūdan de</i><span style="font-weight: normal"> (<span lang="ja" title="Japanese-language text">3月ウサギが集団で</span>)</span> in April 1972 and <i lang="ja-Latn" title="Hepburn transliteration">Minna de Ocha o</i><span style="font-weight: normal"> (<span lang="ja" title="Japanese-language text">みんなでお茶を</span>)</span> in April 1974.<sup id="cite_ref-FOOTNOTEHagio2019126_21-0" class="reference"><a href="#cite_note-FOOTNOTEHagio2019126-21">&#91;21&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Release">Release</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Heart_of_Thomas&amp;action=edit&amp;section=8" title="Edit section: Release">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Following the critical and commercial success of <i>The Rose of Versailles</i> at rival publisher <a href="/wiki/Shueisha" title="Shueisha">Shueisha</a>, <i><a href="/wiki/Sho-Comi" title="Sho-Comi">Shūkan Shōjo Comic</a></i> editor <a href="/w/index.php?title=Junya_Yamamoto&amp;action=edit&amp;redlink=1" class="new" title="Junya Yamamoto (page does not exist)">Junya Yamamoto</a><span class="noprint" style="font-size:85%; font-style: normal;">&#160;&#91;<a href="https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%9C%AC%E9%A0%86%E4%B9%9F" class="extiw" title="ja:山本順也">ja</a>&#93;</span> asked Hagio to create a series of similar length and complexity, initially planned to be serialized over the course of two to three years.<sup id="cite_ref-FOOTNOTEHagio2013Introduction_by_&#91;&#91;Rachel_Thorn&#93;&#93;_15-4" class="reference"><a href="#cite_note-FOOTNOTEHagio2013Introduction_by_[[Rachel_Thorn]]-15">&#91;15&#93;</a></sup><sup id="cite_ref-FOOTNOTETamura20195_22-0" class="reference"><a href="#cite_note-FOOTNOTETamura20195-22">&#91;22&#93;</a></sup> Having already drawn roughly 200 pages of <i>The Heart of Thomas</i>, Hagio submitted the series; the first chapter was published in the magazine on May 5, 1974.<sup id="cite_ref-FOOTNOTETamura20195_22-1" class="reference"><a href="#cite_note-FOOTNOTETamura20195-22">&#91;22&#93;</a></sup> Three weeks into its serialization, a reader survey found that <i>The Heart of Thomas</i> was the least-popular series in <i>Shūkan Shōjo Comic</i>, prompting editors at the magazine to request that Hagio amend the original two- to three-year timeline for the series to four to five weeks.<sup id="cite_ref-FOOTNOTEHagio2013Introduction_by_&#91;&#91;Rachel_Thorn&#93;&#93;_15-5" class="reference"><a href="#cite_note-FOOTNOTEHagio2013Introduction_by_[[Rachel_Thorn]]-15">&#91;15&#93;</a></sup><sup id="cite_ref-FOOTNOTETamura20195_22-2" class="reference"><a href="#cite_note-FOOTNOTETamura20195-22">&#91;22&#93;</a></sup> Hagio negotiated to allow serialization of <i>The Heart of Thomas</i> to continue for an additional month, stating that if the reception was still poor after that time, she would finish the story prematurely.<sup id="cite_ref-FOOTNOTETamura20195_22-3" class="reference"><a href="#cite_note-FOOTNOTETamura20195-22">&#91;22&#93;</a></sup>
+</p><p>In June 1974, the first <i><a href="/wiki/Tank%C5%8Dbon" title="Tankōbon">tankōbon</a></i> (collected edition) of Hagio's <i>The Poe Clan</i> was published: it sold out its initial print run of 30,000 copies in three days, an unprecedented sales volume at the time for a <i>shōjo</i> manga series that had not been adapted into an <a href="/wiki/Anime" title="Anime">anime</a>.<sup id="cite_ref-FOOTNOTENakagawa2019a_13-1" class="reference"><a href="#cite_note-FOOTNOTENakagawa2019a-13">&#91;13&#93;</a></sup> Shogakukan encouraged Hagio to conclude <i>The Heart of Thomas</i> to focus on <i>The Poe Clan</i>, though Hagio insisted on continuing the series.<sup id="cite_ref-FOOTNOTENakagawa2019b_23-0" class="reference"><a href="#cite_note-FOOTNOTENakagawa2019b-23">&#91;23&#93;</a></sup> The success of <i>The Poe Clan</i> drew attention to <i>The Heart of Thomas</i>, and by the end of the summer, <i>The Heart of Thomas</i> was ranked as the fifth most popular serialization in <i>Shūkan Shōjo Comic</i>.<sup id="cite_ref-FOOTNOTETamura20196_24-0" class="reference"><a href="#cite_note-FOOTNOTETamura20196-24">&#91;24&#93;</a></sup> Assisted by <a href="/wiki/Yukiko_Kai" title="Yukiko Kai">Yukiko Kai</a>, Hagio continued serialization of <i>The Heart of Thomas</i>.<sup id="cite_ref-FOOTNOTEHagio2019162_25-0" class="reference"><a href="#cite_note-FOOTNOTEHagio2019162-25">&#91;25&#93;</a></sup> The series concluded on December 22, 1974, with 33 weekly chapters published in <i>Shūkan Shōjo Comic</i>.<sup id="cite_ref-FOOTNOTEHagio2019123_26-0" class="reference"><a href="#cite_note-FOOTNOTEHagio2019123-26">&#91;26&#93;</a></sup> At the time, original manga artwork did not necessarily remain the property of the artist; in the case of <i>The Heart of Thomas</i>, the original artwork for the <a href="/wiki/Book_frontispiece" title="Book frontispiece">frontispiece</a> of each chapter were distributed as rewards for a contest in the magazine.<sup id="cite_ref-FOOTNOTEHagio2019123_26-1" class="reference"><a href="#cite_note-FOOTNOTEHagio2019123-26">&#91;26&#93;</a></sup> In 2019, Shogakukan launched a campaign through its magazine <i><a href="/wiki/Monthly_Flowers" class="mw-redirect" title="Monthly Flowers">Monthly Flowers</a></i> to recover the original frontispieces for <i>The Heart of Thomas</i>.<sup id="cite_ref-FOOTNOTEHagio2019123_26-2" class="reference"><a href="#cite_note-FOOTNOTEHagio2019123-26">&#91;26&#93;</a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>
+</p><p>Upon its conclusion, Shogakukan collected <i>The Heart of Thomas</i> into three <i>tankōbon</i> published in January, April, and June 1975; they are respectively numbers 41, 42, and 43 of the Flower Comics <a href="/wiki/Collection_(publishing)" title="Collection (publishing)">collection</a>.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup><sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup> The series has been regularly re-printed by Shogakukan.<sup id="cite_ref-FOOTNOTEHagio2013Introduction_by_&#91;&#91;Rachel_Thorn&#93;&#93;_15-6" class="reference"><a href="#cite_note-FOOTNOTEHagio2013Introduction_by_[[Rachel_Thorn]]-15">&#91;15&#93;</a></sup> In the West, <i>The Heart of Thomas</i> was not published until the 2010s. On September 14, 2011, <a href="/wiki/Fantagraphics_Books" class="mw-redirect" title="Fantagraphics Books">Fantagraphics Books</a> announced that it had acquired the license to <i>The Heart of Thomas</i> for release in North America.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup> The single-volume hardcover omnibus, translated into English by <a href="/wiki/Rachel_Thorn" title="Rachel Thorn">Rachel Thorn</a>, was released on January 18, 2013.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Sequels">Sequels</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Heart_of_Thomas&amp;action=edit&amp;section=9" title="Edit section: Sequels">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>By the Lake: The Summer of Fourteen-and-a-Half-Year-Old Erich</i><span style="font-weight: normal"> (<span lang="ja" title="Japanese-language text">湖畔にて – エーリク十四と半分の年の夏</span>, <i lang="ja-Latn" title="Hepburn transliteration">Kohan nite – Ēriku Jūyon to Hanbun no Toshi no Natsu</i>)</span> is a <a href="/wiki/One-shot_(comics)" title="One-shot (comics)">one-shot</a> sequel to <i>The Heart of Thomas</i>. The story follows Erich as he vacations on <a href="/wiki/Lake_Constance" title="Lake Constance">Lake Constance</a> with Julius, who is now his adopted father; he later receives a letter from Juli, and is visited by Oskar.<sup id="cite_ref-FOOTNOTEHagio2020145_3-1" class="reference"><a href="#cite_note-FOOTNOTEHagio2020145-3">&#91;3&#93;</a></sup><sup id="cite_ref-FOOTNOTEHagio2019104_33-0" class="reference"><a href="#cite_note-FOOTNOTEHagio2019104-33">&#91;33&#93;</a></sup> The manga was written and illustrated by Hagio, and published in 1976 in the illustration and poetry book <i>Strawberry Fields</i><span style="font-weight: normal"> (<span lang="ja" title="Japanese-language text">ストロベリー・フィールズ</span>, <i lang="ja-Latn" title="Hepburn transliteration">Sutoroberī Fīruzu</i>)</span> published by <a href="/wiki/Shinshokan" title="Shinshokan">Shinshokan</a>.<sup id="cite_ref-FOOTNOTEShamoon2012185_34-0" class="reference"><a href="#cite_note-FOOTNOTEShamoon2012185-34">&#91;34&#93;</a></sup>
+</p><p><i>The Visitor</i><span style="font-weight: normal"> (<span lang="ja" title="Japanese-language text">訪問者</span>, <i lang="ja-Latn" title="Hepburn transliteration">Hōmonsha</i>)</span> is a one-shot <a href="/wiki/Prequel" title="Prequel">prequel</a> to <i>The Heart of Thomas</i>. The story focuses on Oskar: first while he is on vacation with Gustav prior to arriving at Schlotterbach, and later when he meets Juli for the first time.<sup id="cite_ref-FOOTNOTEHagio2019108_35-0" class="reference"><a href="#cite_note-FOOTNOTEHagio2019108-35">&#91;35&#93;</a></sup> The manga was written and illustrated by Hagio, and published in the spring 1980 issue of <i><a href="/wiki/Petit_Flower" title="Petit Flower">Petit Flower</a></i>.<sup id="cite_ref-FOOTNOTEHagio2019185_36-0" class="reference"><a href="#cite_note-FOOTNOTEHagio2019185-36">&#91;36&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Analysis_and_themes">Analysis and themes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Heart_of_Thomas&amp;action=edit&amp;section=10" title="Edit section: Analysis and themes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Visual_style">Visual style</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Heart_of_Thomas&amp;action=edit&amp;section=11" title="Edit section: Visual style">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:TakehisaYumeji-1926-Fujin_Graph_Spring_1926.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/TakehisaYumeji-1926-Fujin_Graph_Spring_1926.png/220px-TakehisaYumeji-1926-Fujin_Graph_Spring_1926.png" decoding="async" width="220" height="229" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/TakehisaYumeji-1926-Fujin_Graph_Spring_1926.png/330px-TakehisaYumeji-1926-Fujin_Graph_Spring_1926.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/TakehisaYumeji-1926-Fujin_Graph_Spring_1926.png/440px-TakehisaYumeji-1926-Fujin_Graph_Spring_1926.png 2x" data-file-width="2127" data-file-height="2216" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:TakehisaYumeji-1926-Fujin_Graph_Spring_1926.png" class="internal" title="Enlarge"></a></div><i><a href="https://ja.wikipedia.org/wiki/%E5%8F%99%E6%83%85#叙情画" class="extiw" title="ja:叙情">Jojōga</a></i> (<a href="/wiki/Lyricism" title="Lyricism">lyrical pictures</a>), as in this illustration by <a href="/wiki/Yumeji_Takehisa" title="Yumeji Takehisa">Yumeji Takehisa</a>, influenced the visual style of <i>The Heart of Thomas</i>.<sup id="cite_ref-FOOTNOTEShamoon2012113–114_37-0" class="reference"><a href="#cite_note-FOOTNOTEShamoon2012113–114-37">&#91;37&#93;</a></sup></div></div></div>
+<p>In the <i>The Heart of Thomas</i>, Hagio develops important aspects of the principles of visual composition that have come to define the distinctive aesthetic of <i>shōjo</i> manga.<sup id="cite_ref-FOOTNOTEShamoon2012113–114_37-1" class="reference"><a href="#cite_note-FOOTNOTEShamoon2012113–114-37">&#91;37&#93;</a></sup> While these principles are not the work of Hagio alone, and instead took shape by degrees through the contributions of many artists beginning in the 1950s,<sup id="cite_ref-FOOTNOTEShamoon2012114_38-0" class="reference"><a href="#cite_note-FOOTNOTEShamoon2012114-38">&#91;38&#93;</a></sup> Hagio develops this aesthetic in part by borrowing features from illustrations in pre-<a href="/wiki/World_War_II" title="World War II">World War II</a> Japanese girls' magazines.<sup id="cite_ref-FOOTNOTEShamoon2012113–114_37-2" class="reference"><a href="#cite_note-FOOTNOTEShamoon2012113–114-37">&#91;37&#93;</a></sup> She references <i><a href="https://ja.wikipedia.org/wiki/%E5%8F%99%E6%83%85#叙情画" class="extiw" title="ja:叙情">jojōga</a></i> (<a href="/wiki/Lyricism" title="Lyricism">lyrical pictures</a>) in particular,<sup id="cite_ref-FOOTNOTEShamoon2012113–114_37-3" class="reference"><a href="#cite_note-FOOTNOTEShamoon2012113–114-37">&#91;37&#93;</a></sup> a category of illustration which sought to create a mood of sad longing while also scrupulously depicting current trends in fashion.<sup id="cite_ref-FOOTNOTEShamoon20208_39-0" class="reference"><a href="#cite_note-FOOTNOTEShamoon20208-39">&#91;39&#93;</a></sup> Both <i>jojōga</i> and these <i>shōjo</i> visual principles are directed towards a girls' culture, and seek to heighten an emotional response.<sup id="cite_ref-FOOTNOTEShamoon2012114_38-1" class="reference"><a href="#cite_note-FOOTNOTEShamoon2012114-38">&#91;38&#93;</a></sup> 
+</p><p>Seen significantly in <i>The Heart of Thomas</i>, these principles include characters externalizing their thoughts by <a href="/wiki/Stream_of_consciousness" title="Stream of consciousness">associating freely</a> or by doing so deliberately in a commentary; <a href="/wiki/Panel_(comics)" title="Panel (comics)">comic panels</a> without borders; scenes displayed in slanting frames that overlap; visual <a href="/wiki/Metaphor" title="Metaphor">metaphor</a>; and backgrounds that arouse strong emotion.<sup id="cite_ref-FOOTNOTEShamoon2012114_38-2" class="reference"><a href="#cite_note-FOOTNOTEShamoon2012114-38">&#91;38&#93;</a></sup> For example, facial features in manga are not typically drawn to scale,<sup id="cite_ref-FOOTNOTEAnan201683_40-0" class="reference"><a href="#cite_note-FOOTNOTEAnan201683-40">&#91;40&#93;</a></sup> with younger and female characters drawn with more rounded cheeks and eyes relative to older and male characters;<sup id="cite_ref-FOOTNOTEAnan201683_40-1" class="reference"><a href="#cite_note-FOOTNOTEAnan201683-40">&#91;40&#93;</a></sup> the principal characters of <i>The Heart of Thomas</i> often have oversized and sparkling eyes, and wear attire that obscures their body contours.<sup id="cite_ref-FOOTNOTEHemmann202048_41-0" class="reference"><a href="#cite_note-FOOTNOTEHemmann202048-41">&#91;41&#93;</a></sup> Kathryn Hemmann, a scholar of Japanese fiction and graphic novels,<sup id="cite_ref-hemmann-penn-site_42-0" class="reference"><a href="#cite_note-hemmann-penn-site-42">&#91;42&#93;</a></sup> interprets these visual metaphors to communicate the defenseless and guileless natures of the characters, and their pursuit of love unencumbered by sexuality.<sup id="cite_ref-FOOTNOTEHemmann202048_41-1" class="reference"><a href="#cite_note-FOOTNOTEHemmann202048-41">&#91;41&#93;</a></sup> Folklorist Kanako Shiokawa comments on the use of emotive backgrounds as influencing the <i>shōjo</i> artistic convention of illustrations where blossoming flowers are crowded behind the large-eyed characters.<sup id="cite_ref-FOOTNOTEShiokawa199993_43-0" class="reference"><a href="#cite_note-FOOTNOTEShiokawa199993-43">&#91;43&#93;</a></sup>
+</p><p>Deborah Shamoon, a scholar of manga and animation,<sup id="cite_ref-shamoon-nus_44-0" class="reference"><a href="#cite_note-shamoon-nus-44">&#91;44&#93;</a></sup> downplays the focus on character and background design to consider the primacy of <a href="/wiki/Interior_monologue" class="mw-redirect" title="Interior monologue">interior monologues</a> in <i>The Heart of Thomas</i>, which are disconnected from <a href="/wiki/Speech_balloon" title="Speech balloon">speech balloons</a>.<sup id="cite_ref-FOOTNOTEShamoon2012114_38-3" class="reference"><a href="#cite_note-FOOTNOTEShamoon2012114-38">&#91;38&#93;</a></sup> The monologues are fragmented and scattered across the page, which Shamoon compares to poetry and the writing style of <a href="/wiki/Nobuko_Yoshiya" title="Nobuko Yoshiya">Nobuko Yoshiya</a>,<sup id="cite_ref-FOOTNOTEShamoon2012114_38-4" class="reference"><a href="#cite_note-FOOTNOTEShamoon2012114-38">&#91;38&#93;</a></sup> and accompanied by images, motifs, and backgrounds that often extend beyond the edges of panels or overlap to form new compositions.<sup id="cite_ref-FOOTNOTEShamoon2012114_38-5" class="reference"><a href="#cite_note-FOOTNOTEShamoon2012114-38">&#91;38&#93;</a></sup> Shamoon describes these compositions as "melodramatic stasis" – the action stops so that the monologue and images can communicate the inner <a href="/wiki/Pathos" title="Pathos">pathos</a> of the characters.<sup id="cite_ref-FOOTNOTEShamoon2012116_45-0" class="reference"><a href="#cite_note-FOOTNOTEShamoon2012116-45">&#91;45&#93;</a></sup> She argues that these techniques create a three-dimensional effect that "lends both literal and symbolic depth to the story."<sup id="cite_ref-FOOTNOTEShamoon2012116_45-1" class="reference"><a href="#cite_note-FOOTNOTEShamoon2012116-45">&#91;45&#93;</a></sup> Bill Randall of <i><a href="/wiki/The_Comics_Journal" title="The Comics Journal">The Comics Journal</a></i> considers how these moments allow the reader to directly access the emotions of the characters, "encouraging not a distanced consideration of the emotion, but a willing acceptance" of them.<sup id="cite_ref-FOOTNOTERandall2003_46-0" class="reference"><a href="#cite_note-FOOTNOTERandall2003-46">&#91;46&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Gender">Gender</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Heart_of_Thomas&amp;action=edit&amp;section=12" title="Edit section: Gender">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Birch_Little_Lord_Fauntleroy_add_Titre.png" class="image"><img alt="An illustration of the titular character from &quot;Little Lord Fauntleroy&quot; by Reginald Bathurst Birch" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Birch_Little_Lord_Fauntleroy_add_Titre.png/220px-Birch_Little_Lord_Fauntleroy_add_Titre.png" decoding="async" width="220" height="221" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Birch_Little_Lord_Fauntleroy_add_Titre.png/330px-Birch_Little_Lord_Fauntleroy_add_Titre.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Birch_Little_Lord_Fauntleroy_add_Titre.png/440px-Birch_Little_Lord_Fauntleroy_add_Titre.png 2x" data-file-width="802" data-file-height="807" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Birch_Little_Lord_Fauntleroy_add_Titre.png" class="internal" title="Enlarge"></a></div>The androgynous appearance of the boys of <i>The Heart of Thomas</i> has been compared to the titular character of <i><a href="/wiki/Little_Lord_Fauntleroy" title="Little Lord Fauntleroy">Little Lord Fauntleroy</a></i>.</div></div></div>
+<p>The primary male characters of <i>The Heart of Thomas</i> are drawn with <a href="/wiki/Manga_iconography#Facial_features" title="Manga iconography">facial features typical of female characters</a>, their maleness marked visually only in their shorter hair and boys' school uniforms.<sup id="cite_ref-FOOTNOTEAnan201683–84_47-0" class="reference"><a href="#cite_note-FOOTNOTEAnan201683–84-47">&#91;47&#93;</a></sup> This artistic device led the poet <a href="/wiki/Takaaki_Yoshimoto" title="Takaaki Yoshimoto">Takaaki Yoshimoto</a> to remark to Hagio that despite her characters being male, they appeared female to him.<sup id="cite_ref-FOOTNOTEHori2013306_48-0" class="reference"><a href="#cite_note-FOOTNOTEHori2013306-48">&#91;48&#93;</a></sup> Hagio had set an early draft of <i>The November Gymnasium</i> in an all-girls school, but ultimately published the series with the original all-boys setting of <i>The Heart of Thomas</i>,<sup id="cite_ref-FOOTNOTEWelker2006858_20-1" class="reference"><a href="#cite_note-FOOTNOTEWelker2006858-20">&#91;20&#93;</a></sup> explaining later, "Boys in <i>shōjo</i> manga are at their origin girls, girls wishing to become boys and, if they were boys, wanting to do this or do that. Being a boy is what the girls admire."<sup id="cite_ref-FOOTNOTETamura201949_49-0" class="reference"><a href="#cite_note-FOOTNOTETamura201949-49">&#91;49&#93;</a></sup>
+</p><p>Echoing Hagio, art critic Midori Matsui describes the boys of <i>The Heart of Thomas</i> as displaced versions of girls who are granted the ability to express their thoughts fluently and their desires uninhibitedly, counterbalancing the absence of these attributes in the conventional depictions of girls in <i>shōjo</i> manga.<sup id="cite_ref-FOOTNOTEMatsui1993178_50-0" class="reference"><a href="#cite_note-FOOTNOTEMatsui1993178-50">&#91;50&#93;</a></sup> Matsui considers that this representation appeals to Japanese adolescent female readers by harking back to a sexually undifferentiated state of childhood, while also allowing them to vicariously contemplate the sexual attractiveness of males.<sup id="cite_ref-FOOTNOTEMatsui1993178_50-1" class="reference"><a href="#cite_note-FOOTNOTEMatsui1993178-50">&#91;50&#93;</a></sup> Graphic designer and manga scholar Kaoru Tamura<sup id="cite_ref-tamura-graphics-wustl_51-0" class="reference"><a href="#cite_note-tamura-graphics-wustl-51">&#91;51&#93;</a></sup> compares the androgynous appearance of the boys of <i>The Heart of Thomas</i> to the titular character of <i><a href="/wiki/Little_Lord_Fauntleroy" title="Little Lord Fauntleroy">Little Lord Fauntleroy</a></i> by <a href="/wiki/Frances_Hodgson_Burnett" title="Frances Hodgson Burnett">Frances Hodgson Burnett</a>, which was translated into Japanese by <a href="/wiki/Wakamatsu_Shizuko" title="Wakamatsu Shizuko">Wakamatsu Shizuko</a>.<sup id="cite_ref-FOOTNOTETamura201937_52-0" class="reference"><a href="#cite_note-FOOTNOTETamura201937-52">&#91;52&#93;</a></sup> 
+</p><p>A notable exception to this artistic convention of depicting male characters with female attributes is Siegfried, who is drawn as masculine – taller, with hollow cheeks and oval eyes – even though his hair is unusually long.<sup id="cite_ref-FOOTNOTEAnan201684_53-0" class="reference"><a href="#cite_note-FOOTNOTEAnan201684-53">&#91;53&#93;</a></sup>  According to Nobuko Anan, a scholar of Japanese visual arts and gender,<sup id="cite_ref-anan-kansai_54-0" class="reference"><a href="#cite_note-anan-kansai-54">&#91;54&#93;</a></sup> Siegfried's physical appearance renders him "as the <a href="/wiki/Other_(philosophy)" title="Other (philosophy)">Other</a>, or a 'man,' in this space of 'girls.'"<sup id="cite_ref-FOOTNOTEAnan201684_53-1" class="reference"><a href="#cite_note-FOOTNOTEAnan201684-53">&#91;53&#93;</a></sup> Anan considers Siegfried's abuse of Juli to signify the rape of a woman by a man, and compares Juli's ability to overcome this trauma through his friendship with Oskar and Erich to women who overcome the trauma of rape with the support of other women.<sup id="cite_ref-FOOTNOTEAnan201683_40-2" class="reference"><a href="#cite_note-FOOTNOTEAnan201683-40">&#91;40&#93;</a></sup> Japanese studies scholar Kathryn Hemman considers <i>The Heart of Thomas</i> to constitute an allegory for the protection offered to young women by traditional gender roles in the 1970s and the loss of identity that comes with the assumption of these roles, noting that Juli, Oskar, and Erich eventually relinquish gender amorphousness to assume more traditionally masculine rules.<sup id="cite_ref-FOOTNOTEHemmann202011_55-0" class="reference"><a href="#cite_note-FOOTNOTEHemmann202011-55">&#91;55&#93;</a></sup>
+</p><p>James Welker considers depictions of gender and sexuality in <i>The Heart of Thomas</i> to be underlain by "lesbian panic," or the inability or unwillingness to face lesbian desire.<sup id="cite_ref-FOOTNOTEWelker2006857_56-0" class="reference"><a href="#cite_note-FOOTNOTEWelker2006857-56">&#91;56&#93;</a></sup> He cites as evidence Juli's confused reaction to Thomas's suicide note; Juli's extreme response to the presence of Thomas's look-alike Erich;<sup id="cite_ref-FOOTNOTEWelker2006857_56-1" class="reference"><a href="#cite_note-FOOTNOTEWelker2006857-56">&#91;56&#93;</a></sup> and the early all-girls version of <i>The November Gymnasium</i>, which Hagio discarded and later described as <i lang="ja-Latn" title="Hepburn transliteration">iyarashii</i><span style="font-weight: normal"> (<span lang="ja" title="Japanese-language text">嫌らしい</span>, "disgusting")</span>.<sup id="cite_ref-FOOTNOTEWelker2006858_20-2" class="reference"><a href="#cite_note-FOOTNOTEWelker2006858-20">&#91;20&#93;</a></sup> Welker interprets Hagio's usage of <i>iyarashii</i> as reflective of her anxiety about lesbian love.<sup id="cite_ref-FOOTNOTEWelker2006858_20-3" class="reference"><a href="#cite_note-FOOTNOTEWelker2006858-20">&#91;20&#93;</a></sup> Mark McLelland, sociologist and cultural historian of Japan at the <a href="/wiki/University_of_Wollongong" title="University of Wollongong">University of Wollongong</a>, believed that Hagio depicted the primary characters of <i>The November Gymnasium</i> and <i>The Heart of Thomas</i> as male to free her readers from the same anxiety.<sup id="cite_ref-FOOTNOTEWelker2006858_20-4" class="reference"><a href="#cite_note-FOOTNOTEWelker2006858-20">&#91;20&#93;</a></sup> Deborah Shamoon posits that Hagio may have been referring to the <a href="/wiki/Class_S_(genre)" title="Class S (genre)">Class S</a> literary genre that depicts intimate relations between females, and that <i>iyarashii</i> might have been in reference to the old-fashioned and rigid conventions of that genre.<sup id="cite_ref-FOOTNOTEShamoon2012107_57-0" class="reference"><a href="#cite_note-FOOTNOTEShamoon2012107-57">&#91;57&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Religion_and_spiritual_love">Religion and spiritual love</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Heart_of_Thomas&amp;action=edit&amp;section=13" title="Edit section: Religion and spiritual love">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Amaterasu_cave_crop.jpg" class="image"><img alt="Detail of a woodblock print by featuring the Shinto deity Amaterasu" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Amaterasu_cave_crop.jpg/220px-Amaterasu_cave_crop.jpg" decoding="async" width="220" height="422" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Amaterasu_cave_crop.jpg/330px-Amaterasu_cave_crop.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Amaterasu_cave_crop.jpg/440px-Amaterasu_cave_crop.jpg 2x" data-file-width="880" data-file-height="1688" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Amaterasu_cave_crop.jpg" class="internal" title="Enlarge"></a></div>The <a href="/wiki/Shinto" title="Shinto">Shinto</a> deity <a href="/wiki/Amaterasu" title="Amaterasu">Amaterasu</a>. Hagio presents Christian concepts in <i>The Heart of Thomas</i> in a manner that suggests inspiration from religious traditions of Japan.<sup id="cite_ref-FOOTNOTETamura201934,_37,_39_58-0" class="reference"><a href="#cite_note-FOOTNOTETamura201934,_37,_39-58">&#91;58&#93;</a></sup></div></div></div>
+<p>Deborah Shamoon notes that although the gymnasium surroundings of <i>The Heart of Thomas</i> are represented with <a href="/wiki/Realism_(arts)" title="Realism (arts)">realism</a>,  the imaginative use of ghosts, angels, Biblical legends, and apparitions evokes a <a href="/wiki/Gothic_fiction" title="Gothic fiction">Gothic</a> atmosphere.<sup id="cite_ref-FOOTNOTEShamoon2012105_18-1" class="reference"><a href="#cite_note-FOOTNOTEShamoon2012105-18">&#91;18&#93;</a></sup> <a href="/wiki/Supernatural" title="Supernatural">Supernatural</a> objects and themes, in her view, represent not only the inner conflicts created by spiritual love but also reveal it as a force beyond ordinary rational understanding.<sup id="cite_ref-FOOTNOTEShamoon2012105–106_59-0" class="reference"><a href="#cite_note-FOOTNOTEShamoon2012105–106-59">&#91;59&#93;</a></sup> Figures from the <a href="/wiki/Old_Testament" title="Old Testament">Old Testament</a> and <a href="/wiki/Greek_mythology" title="Greek mythology">Greek mythology</a> appear as symbolic representations: Juli is drawn as the angel <a href="/wiki/Gabriel" title="Gabriel">Gabriel</a> when he reveals to Erich his history of abuse, angels appear throughout the series to symbolize the thoughts of characters,<sup id="cite_ref-FOOTNOTEShamoon2012116_45-2" class="reference"><a href="#cite_note-FOOTNOTEShamoon2012116-45">&#91;45&#93;</a></sup> and the eighth chapter frontispiece personifies the <a href="/wiki/Moirai" title="Moirai">Moirai</a> as a young girl holding a spool of yarn.<sup id="cite_ref-FOOTNOTETamura201947_60-0" class="reference"><a href="#cite_note-FOOTNOTETamura201947-60">&#91;60&#93;</a></sup> Tamura notes that Hagio, who is not Christian, presents Christian concepts in a manner that suggests inspiration from the <a href="/wiki/Animism" title="Animism">animistic</a> and <a href="/wiki/Polytheism" title="Polytheism">polytheistic</a> religious traditions of Japan.<sup id="cite_ref-FOOTNOTETamura201934,_37,_39_58-1" class="reference"><a href="#cite_note-FOOTNOTETamura201934,_37,_39-58">&#91;58&#93;</a></sup> For example, Oskar remarks to Erich that Thomas was possessed by <a href="/wiki/Cupid" title="Cupid">Amor</a>, the Roman god of love, and that his suicide released the spirit. Although Amor is often depicted as an angel in Western art, Tamura notes that Hagio manifests Amor in a manner that is reminiscent of a Japanese <i><a href="/wiki/Kami" title="Kami">kami</a></i> (spirit), such as inhabiting the air, a landscape,<sup id="cite_ref-FOOTNOTETamura201935–36_61-0" class="reference"><a href="#cite_note-FOOTNOTETamura201935–36-61">&#91;61&#93;</a></sup> or a character in the story.<sup id="cite_ref-FOOTNOTETamura201939_62-0" class="reference"><a href="#cite_note-FOOTNOTETamura201939-62">&#91;62&#93;</a></sup>
+</p><p>Like Hesse's <i>Demian</i>, <i>The Heart of Thomas</i> is a <i>Bildungsroman</i> about spiritual education during formative years.<sup id="cite_ref-FOOTNOTEShamoon2012106_1-2" class="reference"><a href="#cite_note-FOOTNOTEShamoon2012106-1">&#91;1&#93;</a></sup> Welker writes that Juli's character arc of being unable to love, befriending Erich, and leaving the school environment of Schlotterbach is one that is consistent with a "<i>Bildungsroman</i> paradigm."<sup id="cite_ref-FOOTNOTEWelker2015b_63-0" class="reference"><a href="#cite_note-FOOTNOTEWelker2015b-63">&#91;63&#93;</a></sup> Shamoon notes that unlike other manga works of the 1970s that feature male-male romance, <i>The Heart of Thomas</i> does not overtly depict sex; she argues that by depicting its characters maturing through spiritual and familial love rather than romantic and sexual love, <i>The Heart of Thomas</i> functions as a "transitional work" between "childish" <i>shōjo</i> narratives typical of the 1970s and earlier (such as <i>Paris–Tokyo</i> by <a href="/wiki/Macoto_Takahashi" title="Macoto Takahashi">Macoto Takahashi</a> and <i><a href="/wiki/Candy_Candy" title="Candy Candy">Candy Candy</a></i> by <a href="/wiki/Kyoko_Mizuki" title="Kyoko Mizuki">Kyoko Mizuki</a> and <a href="/wiki/Yumiko_Igarashi" title="Yumiko Igarashi">Yumiko Igarashi</a>, the latter of which Shamoon notes depicts "idealized romantic love in a heterosexual framework"), and <i>shōjo</i> manga from the mid-1970s and onward that targeted an older readership.<sup id="cite_ref-FOOTNOTEShamoon2012105,_109_64-0" class="reference"><a href="#cite_note-FOOTNOTEShamoon2012105,_109-64">&#91;64&#93;</a></sup> Thorn similarly contrasts the focus on spiritual love in <i>The Heart of Thomas</i> to <i><a href="/wiki/Kaze_to_Ki_no_Uta" title="Kaze to Ki no Uta">Kaze to Ki no Uta</a></i> and the works of Keiko Takemiya, which focus primarily on physical love.<sup id="cite_ref-FOOTNOTEThorn2005_19-1" class="reference"><a href="#cite_note-FOOTNOTEThorn2005-19">&#91;19&#93;</a></sup>
+</p><p>In further similarity to <i>Demian</i>, <i>The Heart of Thomas</i> explores the concept of rebirth through destruction, though <i>The Heart of Thomas</i> reverses <i>Demian'</i>s chronology to begin rather than conclude the story with an act of suicide.<sup id="cite_ref-FOOTNOTETamura201931_65-0" class="reference"><a href="#cite_note-FOOTNOTETamura201931-65">&#91;65&#93;</a></sup> Thorn notes this reversal with regards to the influence of the film <i>Les amitiés particulières</i>, which also inspired the manga: while <i>Les amitiés particulières</i> concludes with a suicide, "the cause of which is obvious, Hagio <i>begins</i> with a suicide, the cause of which is a mystery."<sup id="cite_ref-FOOTNOTEHagio2013Introduction_by_&#91;&#91;Rachel_Thorn&#93;&#93;_15-7" class="reference"><a href="#cite_note-FOOTNOTEHagio2013Introduction_by_[[Rachel_Thorn]]-15">&#91;15&#93;</a></sup> Commenting on the unresolved nature of Thomas' suicide in a 2005 interview with <i><a href="/wiki/The_Comics_Journal" title="The Comics Journal">The Comics Journal</a></i>, Hagio stated:
+</p>
+<style data-mw-deduplicate="TemplateStyles:r996844942">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style><blockquote class="templatequote"><p>"If I had written [<i>The Heart of Thomas</i>] after the age of thirty, I probably would have worked out some logical reason for [Thomas] to die, but at the time I thought, 'He doesn't need a reason to die.' <i>[Laughs.]</i> I could have said that he died because he was sick and didn't have long to live anyway, or something like that. At the time, I thought, how one lives is important, but how one dies might be important, too, and so that's how I wrote it. In a sense, that mystery of why he had to die is never solved, and I think that unsolved mystery is what sustains the work."<sup id="cite_ref-FOOTNOTEThorn2005_19-2" class="reference"><a href="#cite_note-FOOTNOTEThorn2005-19">&#91;19&#93;</a></sup></p></blockquote>
+<p>Manga critic Aniwa Jun interprets Thomas' suicide not as a selfish act motivated by Juli's rejection, but as a "longing for super power, yearning for eternity, an affirmation and sublimation of life to a sacred level."<sup id="cite_ref-FOOTNOTETamura201935_66-0" class="reference"><a href="#cite_note-FOOTNOTETamura201935-66">&#91;66&#93;</a></sup> Shamoon concurs that Thomas' death is "not so much as an act of despair over his unrequited love for Juli, but as a sacrifice to free Juli's repressed emotions."<sup id="cite_ref-FOOTNOTEShamoon2012106_1-3" class="reference"><a href="#cite_note-FOOTNOTEShamoon2012106-1">&#91;1&#93;</a></sup> She argues that Juli as a character "represents the triumph of spiritual love over the traumas of adolescence and specifically the threat of sexual violence,"<sup id="cite_ref-FOOTNOTEShamoon2012109_67-0" class="reference"><a href="#cite_note-FOOTNOTEShamoon2012109-67">&#91;67&#93;</a></sup> and that his decision to join a seminary at the conclusion of the series represents his acceptance of "spiritual love (<i>ren'ai</i>) at its most pure [...]  a transcendent, divine experience, separated from physical desires."<sup id="cite_ref-FOOTNOTEShamoon2012106_1-4" class="reference"><a href="#cite_note-FOOTNOTEShamoon2012106-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Reception_and_legacy">Reception and legacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Heart_of_Thomas&amp;action=edit&amp;section=14" title="Edit section: Reception and legacy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>The Heart of Thomas</i> is considered a seminal work of both <i>shōnen-ai</i> and <i>shōjo</i> manga,<sup id="cite_ref-FOOTNOTEBerlatsky2013_68-0" class="reference"><a href="#cite_note-FOOTNOTEBerlatsky2013-68">&#91;68&#93;</a></sup> and came to strongly influence <i>shōjo</i> manga works that followed it. Randall notes how many of the stylistic hallmarks of the series, such as characters depicted with angel's wings or surrounded by flower petals, became standard visual tropes in the <i>shōjo</i> genre.<sup id="cite_ref-FOOTNOTERandall2003_46-1" class="reference"><a href="#cite_note-FOOTNOTERandall2003-46">&#91;46&#93;</a></sup> Shamoon argues that the use of <a href="/wiki/Interior_monologue" class="mw-redirect" title="Interior monologue">interior monologue</a> in <i>The Heart of Thomas</i>, which was later adapted by other series in <i>shōjo</i> genre, became the main marker distinguishing <i>shōjo</i> manga from other types of manga.<sup id="cite_ref-FOOTNOTEShamoon2012114_38-6" class="reference"><a href="#cite_note-FOOTNOTEShamoon2012114-38">&#91;38&#93;</a></sup> Thorn notes that the themes and characters of <i>The Heart of Thomas</i> are also present in Hagio's 1992 manga series <i><a href="/wiki/A_Cruel_God_Reigns" title="A Cruel God Reigns">A Cruel God Reigns</a></i>, describing the series as "the adult version" of <i>The Heart of Thomas</i>.<sup id="cite_ref-FOOTNOTEThorn2005_19-3" class="reference"><a href="#cite_note-FOOTNOTEThorn2005-19">&#91;19&#93;</a></sup>
+</p><p>In reviews of <i>The Heart of Thomas</i> in the mainstream and enthusiast English-language press, critics have praised the series' artwork, narrative, and writing. Writing for <i><a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a></i>, <a href="/wiki/Jason_Thompson_(writer)" title="Jason Thompson (writer)">Jason Thompson</a> praises its "'70s shojo artwork", along with the "dreamlike sense of unreality" in Hagio's dialogue.<sup id="cite_ref-FOOTNOTEThompson2012_69-0" class="reference"><a href="#cite_note-FOOTNOTEThompson2012-69">&#91;69&#93;</a></sup> In a separate review for <i>Anime News Network</i>, Rebecca Silverman similarly praises the "willowy" and dramatic 1970s-style artwork, particularly Hagio's use of collage imagery,<sup id="cite_ref-FOOTNOTESilverman2013_70-0" class="reference"><a href="#cite_note-FOOTNOTESilverman2013-70">&#91;70&#93;</a></sup> Writing for <i><a href="/wiki/Comics_Alliance" class="mw-redirect" title="Comics Alliance">Comics Alliance</a></i>, David Brothers favorably compares the melodrama of the series to <a href="/wiki/Chris_Claremont" title="Chris Claremont">Chris Claremont</a>'s <i><a href="/wiki/Uncanny_X-Men#1975–1991:_Chris_Claremont_era" title="Uncanny X-Men">Uncanny X-Men</a></i> and commends its character-driven drama.<sup id="cite_ref-FOOTNOTEBrothers2013_71-0" class="reference"><a href="#cite_note-FOOTNOTEBrothers2013-71">&#91;71&#93;</a></sup> <i><a href="/wiki/Publishers_Weekly" title="Publishers Weekly">Publishers Weekly</a></i> described the series' romance elements as "engaging but nearly ritualized," but praised Hagio's "clear art style and her internally dark tone."<sup id="cite_ref-72" class="reference"><a href="#cite_note-72">&#91;72&#93;</a></sup>
+</p><p>Among Japanese critics, literary critic <a href="/w/index.php?title=Osamu_Hashimoto&amp;action=edit&amp;redlink=1" class="new" title="Osamu Hashimoto (page does not exist)">Osamu Hashimoto</a><span class="noprint" style="font-size:85%; font-style: normal;">&#160;&#91;<a href="https://ja.wikipedia.org/wiki/%E6%A9%8B%E6%9C%AC%E6%B2%BB" class="extiw" title="ja:橋本治">ja</a>&#93;</span> was among <i>The Heart of Thomas'</i> earliest detractors, describing the series as a "failed [boys'] <i>Bildungsroman</i>." In a responding review in her 1984 book <i>Chōshōjo</i>, literary critic <a href="/w/index.php?title=Chizuru_Miyasako&amp;action=edit&amp;redlink=1" class="new" title="Chizuru Miyasako (page does not exist)">Chizuru Miyasako</a><span class="noprint" style="font-size:85%; font-style: normal;">&#160;&#91;<a href="https://ja.wikipedia.org/wiki/%E5%AE%AE%E8%BF%AB%E5%8D%83%E9%B6%B4" class="extiw" title="ja:宮迫千鶴">ja</a>&#93;</span> contended that <i>The Heart of Thomas</i> is not a boys' <i>Bildungsroman</i> but rather a work in which boys are written as allegorical girls (see <a href="/wiki/The_Heart_of_Thomas#Gender" title="The Heart of Thomas">Gender</a> above); she praises the series as an example of "anti-<i>shōjo</i>" that seeks to offer commentary on the lives of girls in patriarchal and hierarchical structures.<sup id="cite_ref-FOOTNOTENagaike20126_73-0" class="reference"><a href="#cite_note-FOOTNOTENagaike20126-73">&#91;73&#93;</a></sup> In the contemporary Japanese press, Rio Wakabayashi of <i><a href="/w/index.php?title=Real_Sound_(website)&amp;action=edit&amp;redlink=1" class="new" title="Real Sound (website) (page does not exist)">Real Sound</a><span class="noprint" style="font-size:85%; font-style: normal;">&#160;&#91;<a href="https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89_(%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%B5%E3%82%A4%E3%83%88)" class="extiw" title="ja:リアルサウンド (ニュースサイト)">ja</a>&#93;</span></i> praised the series for raising <i>shōjo</i> manga to the "realm of literature" through the depth of its plot and characterization,<sup id="cite_ref-FOOTNOTEWakabayashi2020_74-0" class="reference"><a href="#cite_note-FOOTNOTEWakabayashi2020-74">&#91;74&#93;</a></sup> while Haru Takamine of <i><a href="/w/index.php?title=Christian_Today_(Japanese_newspaper)&amp;action=edit&amp;redlink=1" class="new" title="Christian Today (Japanese newspaper) (page does not exist)">Christian Today</a><span class="noprint" style="font-size:85%; font-style: normal;">&#160;&#91;<a href="https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%81%E3%83%A3%E3%83%B3%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4" class="extiw" title="ja:クリスチャントゥデイ">ja</a>&#93;</span></i> cited the series as a positive depiction of <a href="/wiki/Christianity" title="Christianity">Christianity</a> in manga through its portrayal of sacrifice and unconditional love.<sup id="cite_ref-FOOTNOTETakamine2014_75-0" class="reference"><a href="#cite_note-FOOTNOTETakamine2014-75">&#91;75&#93;</a></sup>
+</p><p>As one of the first ongoing serialized manga in the <i>shōnen-ai</i> genre, <i>The Heart of Thomas</i> is noted for its impact on the contemporary <a href="/wiki/Yaoi" title="Yaoi">boys' love</a> genre. In her survey of boys' love authors, sociologist Kazuko Suzuki found that <i>The Heart of Thomas</i> was listed as the second-most representative work in the genre, behind <i>Kaze to Ki no Uta</i> by Keiko Takemiya.<sup id="cite_ref-FOOTNOTESuzuki201596_76-0" class="reference"><a href="#cite_note-FOOTNOTESuzuki201596-76">&#91;76&#93;</a></sup> The manga has attracted significant academic interest, and during the 2010s was one of the most studied and analyzed manga by Western academics.<sup id="cite_ref-FOOTNOTETaylor200636_77-0" class="reference"><a href="#cite_note-FOOTNOTETaylor200636-77">&#91;77&#93;</a></sup> Shamoon notes that much of the Western analysis of <i>The Heart of Thomas</i> examines the manga from the perspective of contemporary gay and lesbian identity, which she argues neglects the work's focus on spiritual love and <a href="/wiki/Homosociality" title="Homosociality">homosociality</a> in girls' culture.<sup id="cite_ref-FOOTNOTEShamoon2012106_1-5" class="reference"><a href="#cite_note-FOOTNOTEShamoon2012106-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Adaptations">Adaptations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Heart_of_Thomas&amp;action=edit&amp;section=15" title="Edit section: Adaptations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Summer_Vacation_1999" title="Summer Vacation 1999">Summer Vacation 1999</a></div>
+<p><i>The Heart of Thomas</i> was loosely adapted into the 1988 live-action film <i><a href="/wiki/Summer_Vacation_1999" title="Summer Vacation 1999">Summer Vacation 1999</a></i>, directed by <a href="/wiki/Shusuke_Kaneko" title="Shusuke Kaneko">Shusuke Kaneko</a> and written by <a href="/wiki/Rio_Kishida" title="Rio Kishida">Rio Kishida</a>. The film follows four boys who live alone in an isolated and seemingly frozen-in-time boarding school; the film utilizes a <a href="/wiki/Retrofuturism" title="Retrofuturism">retrofuturistic</a> style, with Kaneko stating that as the original series is not a wholly <a href="/wiki/Realism_(arts)" title="Realism (arts)">realist</a> story, he chose to reject realism for its adaptation. The four principal characters are portrayed by female actors in <a href="/wiki/Breeches_role" title="Breeches role">breeches roles</a>, who are <a href="/wiki/Dubbing_(filmmaking)" title="Dubbing (filmmaking)">dubbed</a> over by voice actors performing in male voices.<sup id="cite_ref-FOOTNOTEAnan2016108_78-0" class="reference"><a href="#cite_note-FOOTNOTEAnan2016108-78">&#91;78&#93;</a></sup> The film was adapted into a novel by Kishida, which was published in 1992 by <a href="/wiki/Kadokawa_Shoten" title="Kadokawa Shoten">Kadokawa Shoten</a>.<sup id="cite_ref-FOOTNOTEWelker2006851_79-0" class="reference"><a href="#cite_note-FOOTNOTEWelker2006851-79">&#91;79&#93;</a></sup>
+</p><p>In 1996, the theater company <a href="/w/index.php?title=Studio_Life&amp;action=edit&amp;redlink=1" class="new" title="Studio Life (page does not exist)">Studio Life</a><span class="noprint" style="font-size:85%; font-style: normal;">&#160;&#91;<a href="https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%95" class="extiw" title="ja:スタジオライフ">ja</a>&#93;</span> adapted <i>The Heart of Thomas</i> into a stage play under director Jun Kurata. The adaption is considered a turning point for the company: it began staging plays with male actors exclusively, integrated <i><a href="/wiki/Shingeki" title="Shingeki">shingeki</a></i> (realist) elements into its productions, and changed its repertoire to focus primarily on <i><a href="/wiki/Tanbi" class="mw-redirect" title="Tanbi">tanbi</a></i> (male-male romance) works.<sup id="cite_ref-FOOTNOTEAnan2016100_80-0" class="reference"><a href="#cite_note-FOOTNOTEAnan2016100-80">&#91;80&#93;</a></sup> The play became one of Studio Life's signature plays, and is regularly performed by the company.<sup id="cite_ref-FOOTNOTEAnan201665_81-0" class="reference"><a href="#cite_note-FOOTNOTEAnan201665-81">&#91;81&#93;</a></sup> <i>The Visitor</i>, the prequel to <i>The Heart of Thomas</i>, has also been adapted by the company.<sup id="cite_ref-FOOTNOTEWelker2015b_63-1" class="reference"><a href="#cite_note-FOOTNOTEWelker2015b-63">&#91;63&#93;</a></sup>
+</p><p>Writer <a href="/wiki/Riku_Onda" title="Riku Onda">Riku Onda</a> began to adapt <i>The Heart of Thomas</i> into a prose novel in the late 1990s, but ultimately deviated from the source material to create the original novel <i>Neverland</i><span style="font-weight: normal"> (<span lang="ja" title="Japanese-language text">ネバーランド</span>, <i lang="ja-Latn" title="Hepburn transliteration">Nebārando</i>)</span>, which was serialized in the magazine <i>Shōsetsu Subaru</i> from May 1998 to November 1999 and published as a novel in 2000.<sup id="cite_ref-FOOTNOTEWelker2015b_63-2" class="reference"><a href="#cite_note-FOOTNOTEWelker2015b-63">&#91;63&#93;</a></sup> <a href="/wiki/Hiroshi_Mori_(writer)" title="Hiroshi Mori (writer)">Hiroshi Mori</a>, who cites Hagio as among his major influences,<sup id="cite_ref-FOOTNOTEHagio2013Introduction_by_&#91;&#91;Rachel_Thorn&#93;&#93;_15-8" class="reference"><a href="#cite_note-FOOTNOTEHagio2013Introduction_by_[[Rachel_Thorn]]-15">&#91;15&#93;</a></sup> adapted the manga into the novel <i>The Heart of Thomas – Lost Heart for Thoma</i><span style="font-weight: normal"> (<span lang="ja" title="Japanese-language text">トーマの心臓 – Lost heart for Thoma</span>)</span>, a novel that recounts the events of the manga from Oskar's point of view.<sup id="cite_ref-FOOTNOTEWelker2015b_63-3" class="reference"><a href="#cite_note-FOOTNOTEWelker2015b-63">&#91;63&#93;</a></sup> It was published on July 31, 2009, by the publishing house <a href="/wiki/Media_Factory" title="Media Factory">Media Factory</a>.<sup id="cite_ref-82" class="reference"><a href="#cite_note-82">&#91;82&#93;</a></sup> The cover and frontispiece of the novel are illustrated by Hagio,<sup id="cite_ref-83" class="reference"><a href="#cite_note-83">&#91;83&#93;</a></sup> while prose from the original manga is inserted into the novel as <a href="/wiki/Epigraph_(literature)" title="Epigraph (literature)">epigraphs</a> to each chapter.<sup id="cite_ref-FOOTNOTEWelker2015b_63-4" class="reference"><a href="#cite_note-FOOTNOTEWelker2015b-63">&#91;63&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Heart_of_Thomas&amp;action=edit&amp;section=16" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-FOOTNOTEShamoon2012106-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEShamoon2012106_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEShamoon2012106_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FOOTNOTEShamoon2012106_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-FOOTNOTEShamoon2012106_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-FOOTNOTEShamoon2012106_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-FOOTNOTEShamoon2012106_1-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFShamoon2012">Shamoon 2012</a>, p.&#160;106.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://blog.fantagraphics.com/the-heart-of-thomas-by-moto-hagio-now-in-stock/">"<i>The Heart of Thomas</i> by Moto Hagio"</a>. <i><a href="/wiki/Fantagraphics_Books" class="mw-redirect" title="Fantagraphics Books">Fantagraphics Books</a></i>. January 3, 2013. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20201219012315/https://blog.fantagraphics.com/the-heart-of-thomas-by-moto-hagio-now-in-stock/">Archived</a> from the original on December 19, 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">December 4,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fantagraphics+Books&amp;rft.atitle=The+Heart+of+Thomas+by+Moto+Hagio&amp;rft.date=2013-01-03&amp;rft_id=https%3A%2F%2Fblog.fantagraphics.com%2Fthe-heart-of-thomas-by-moto-hagio-now-in-stock%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></span>
+</li>
+<li id="cite_note-FOOTNOTEHagio2020145-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEHagio2020145_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEHagio2020145_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFHagio2020">Hagio 2020</a>, p.&#160;145.</span>
+</li>
+<li id="cite_note-FOOTNOTEHagio2012152-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEHagio2012152_4-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFHagio2012">Hagio 2012</a>, p.&#160;152.</span>
+</li>
+<li id="cite_note-FOOTNOTETamura201940-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTETamura201940_5-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFTamura2019">Tamura 2019</a>, p.&#160;40.</span>
+</li>
+<li id="cite_note-FOOTNOTEHori2013304-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEHori2013304_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEHori2013304_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFHori2013">Hori 2013</a>, p.&#160;304.</span>
+</li>
+<li id="cite_note-FOOTNOTEThorn2010V-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEThorn2010V_7-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFThorn2010">Thorn 2010</a>, p.&#160;V.</span>
+</li>
+<li id="cite_note-FOOTNOTEMaréchal2001-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEMaréchal2001_8-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFMaréchal2001">Maréchal 2001</a>.</span>
+</li>
+<li id="cite_note-FOOTNOTETamura201927-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTETamura201927_9-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFTamura2019">Tamura 2019</a>, p.&#160;27.</span>
+</li>
+<li id="cite_note-FOOTNOTEShamoon2012102-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEShamoon2012102_10-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFShamoon2012">Shamoon 2012</a>, p.&#160;102.</span>
+</li>
+<li id="cite_note-FOOTNOTEHemmann202010-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEHemmann202010_11-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFHemmann2020">Hemmann 2020</a>, p.&#160;10.</span>
+</li>
+<li id="cite_note-FOOTNOTEToku2004-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEToku2004_12-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFToku2004">Toku 2004</a>.</span>
+</li>
+<li id="cite_note-FOOTNOTENakagawa2019a-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTENakagawa2019a_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTENakagawa2019a_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFNakagawa2019a">Nakagawa 2019a</a>.</span>
+</li>
+<li id="cite_note-FOOTNOTEShamoon2012119-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEShamoon2012119_14-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFShamoon2012">Shamoon 2012</a>, p.&#160;119.</span>
+</li>
+<li id="cite_note-FOOTNOTEHagio2013Introduction_by_&#91;&#91;Rachel_Thorn&#93;&#93;-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEHagio2013Introduction_by_[[Rachel_Thorn]]_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEHagio2013Introduction_by_[[Rachel_Thorn]]_15-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FOOTNOTEHagio2013Introduction_by_[[Rachel_Thorn]]_15-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-FOOTNOTEHagio2013Introduction_by_[[Rachel_Thorn]]_15-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-FOOTNOTEHagio2013Introduction_by_[[Rachel_Thorn]]_15-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-FOOTNOTEHagio2013Introduction_by_[[Rachel_Thorn]]_15-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-FOOTNOTEHagio2013Introduction_by_[[Rachel_Thorn]]_15-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-FOOTNOTEHagio2013Introduction_by_[[Rachel_Thorn]]_15-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-FOOTNOTEHagio2013Introduction_by_[[Rachel_Thorn]]_15-8"><sup><i><b>i</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFHagio2013">Hagio 2013</a>, Introduction by <a href="/wiki/Rachel_Thorn" title="Rachel Thorn">Rachel Thorn</a>.</span>
+</li>
+<li id="cite_note-FOOTNOTETamura201928-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTETamura201928_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTETamura201928_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFTamura2019">Tamura 2019</a>, p.&#160;28.</span>
+</li>
+<li id="cite_note-FOOTNOTEWelker2015a48–50-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEWelker2015a48–50_17-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFWelker2015a">Welker 2015a</a>, pp.&#160;48–50.</span>
+</li>
+<li id="cite_note-FOOTNOTEShamoon2012105-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEShamoon2012105_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEShamoon2012105_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFShamoon2012">Shamoon 2012</a>, p.&#160;105.</span>
+</li>
+<li id="cite_note-FOOTNOTEThorn2005-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEThorn2005_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEThorn2005_19-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FOOTNOTEThorn2005_19-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-FOOTNOTEThorn2005_19-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFThorn2005">Thorn 2005</a>.</span>
+</li>
+<li id="cite_note-FOOTNOTEWelker2006858-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEWelker2006858_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEWelker2006858_20-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FOOTNOTEWelker2006858_20-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-FOOTNOTEWelker2006858_20-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-FOOTNOTEWelker2006858_20-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFWelker2006">Welker 2006</a>, p.&#160;858.</span>
+</li>
+<li id="cite_note-FOOTNOTEHagio2019126-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEHagio2019126_21-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFHagio2019">Hagio 2019</a>, p.&#160;126.</span>
+</li>
+<li id="cite_note-FOOTNOTETamura20195-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTETamura20195_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTETamura20195_22-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FOOTNOTETamura20195_22-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-FOOTNOTETamura20195_22-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFTamura2019">Tamura 2019</a>, p.&#160;5.</span>
+</li>
+<li id="cite_note-FOOTNOTENakagawa2019b-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTENakagawa2019b_23-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFNakagawa2019b">Nakagawa 2019b</a>.</span>
+</li>
+<li id="cite_note-FOOTNOTETamura20196-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTETamura20196_24-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFTamura2019">Tamura 2019</a>, p.&#160;6.</span>
+</li>
+<li id="cite_note-FOOTNOTEHagio2019162-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEHagio2019162_25-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFHagio2019">Hagio 2019</a>, p.&#160;162.</span>
+</li>
+<li id="cite_note-FOOTNOTEHagio2019123-26"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEHagio2019123_26-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEHagio2019123_26-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FOOTNOTEHagio2019123_26-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFHagio2019">Hagio 2019</a>, p.&#160;123.</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFLoveridge2019" class="citation web cs1">Loveridge, Lynzee (January 2, 2019). <a rel="nofollow" class="external text" href="https://www.animenewsnetwork.com/interest/2019-01-02/monthly-flowers-editors-ask-for-help-to-locate-original-the-heart-of-thomas-manga-art/.141563">"<i>Monthly Flowers</i> Editors Ask for Help to Locate Original <i>The Heart of Thomas</i> Manga Art"</a>. <i><a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210118010617/https://www.animenewsnetwork.com/interest/2019-01-02/monthly-flowers-editors-ask-for-help-to-locate-original-the-heart-of-thomas-manga-art/.141563">Archived</a> from the original on January 18, 2021<span class="reference-accessdate">. Retrieved <span class="nowrap">December 2,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Anime+News+Network&amp;rft.atitle=Monthly+Flowers+Editors+Ask+for+Help+to+Locate+Original+The+Heart+of+Thomas+Manga+Art&amp;rft.date=2019-01-02&amp;rft.aulast=Loveridge&amp;rft.aufirst=Lynzee&amp;rft_id=https%3A%2F%2Fwww.animenewsnetwork.com%2Finterest%2F2019-01-02%2Fmonthly-flowers-editors-ask-for-help-to-locate-original-the-heart-of-thomas-manga-art%2F.141563&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://iss.ndl.go.jp/books/R100000004-I000974216-00">"トーマの心臓 1"</a> &#91;<i>The Heart of Thomas</i> 1&#93;. <i><a href="/wiki/National_Diet_Library" title="National Diet Library">National Diet Library</a></i> (in Japanese)<span class="reference-accessdate">. Retrieved <span class="nowrap">November 25,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Diet+Library&amp;rft.atitle=%E3%83%88%E3%83%BC%E3%83%9E%E3%81%AE%E5%BF%83%E8%87%93+1&amp;rft_id=https%3A%2F%2Fiss.ndl.go.jp%2Fbooks%2FR100000004-I000974216-00&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://iss.ndl.go.jp/books/R100000004-I000974217-00">"トーマの心臓 2"</a> &#91;<i>The Heart of Thomas</i> 2&#93;. <i><a href="/wiki/National_Diet_Library" title="National Diet Library">National Diet Library</a></i> (in Japanese)<span class="reference-accessdate">. Retrieved <span class="nowrap">November 25,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Diet+Library&amp;rft.atitle=%E3%83%88%E3%83%BC%E3%83%9E%E3%81%AE%E5%BF%83%E8%87%93+2&amp;rft_id=https%3A%2F%2Fiss.ndl.go.jp%2Fbooks%2FR100000004-I000974217-00&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://iss.ndl.go.jp/books/R100000004-I000974218-00">"トーマの心臓 3"</a> &#91;<i>The Heart of Thomas</i> 3&#93;. <i><a href="/wiki/National_Diet_Library" title="National Diet Library">National Diet Library</a></i> (in Japanese). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210420220117/https://iss.ndl.go.jp/books/R100000004-I000974218-00">Archived</a> from the original on April 20, 2021<span class="reference-accessdate">. Retrieved <span class="nowrap">November 25,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Diet+Library&amp;rft.atitle=%E3%83%88%E3%83%BC%E3%83%9E%E3%81%AE%E5%BF%83%E8%87%93+3&amp;rft_id=https%3A%2F%2Fiss.ndl.go.jp%2Fbooks%2FR100000004-I000974218-00&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFBaehr2011" class="citation web cs1">Baehr, Mike (September 14, 2011). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120319201159/http://www.fantagraphics.com/index.php?option=com_myblog&amp;show=Moto-Hagio-s-Heart-of-Thomas-coming-in-Summer-Fall-2012.html">"Moto Hagio's <i>Heart of Thomas</i> coming in Summer/Fall 2012"</a>. <i><a href="/wiki/Fantagraphics_Books" class="mw-redirect" title="Fantagraphics Books">Fantagraphics Books</a></i>. Archived from <a rel="nofollow" class="external text" href="http://www.fantagraphics.com/index.php?option=com_myblog&amp;show=Moto-Hagio-s-Heart-of-Thomas-coming-in-Summer-Fall-2012.html">the original</a> on March 19, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">September 15,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fantagraphics+Books&amp;rft.atitle=Moto+Hagio%27s+Heart+of+Thomas+coming+in+Summer%2FFall+2012&amp;rft.date=2011-09-14&amp;rft.aulast=Baehr&amp;rft.aufirst=Mike&amp;rft_id=http%3A%2F%2Fwww.fantagraphics.com%2Findex.php%3Foption%3Dcom_myblog%26show%3DMoto-Hagio-s-Heart-of-Thomas-coming-in-Summer-Fall-2012.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation pressrelease cs1"><a rel="nofollow" class="external text" href="https://www.animenewsnetwork.com/press-release/2012-11-27/fantagraphics-books-presents-moto-hagio-the-heart-of-thomas-january-2013">"Fantagraphics Books Presents Moto Hagio's <i>The Heart of Thomas</i>"</a>. <i><a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a></i> (Press release). November 27, 2012. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190525160651/https://www.animenewsnetwork.com/press-release/2012-11-27/fantagraphics-books-presents-moto-hagio-the-heart-of-thomas-january-2013">Archived</a> from the original on May 25, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">November 25,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Fantagraphics+Books+Presents+Moto+Hagio%27s+The+Heart+of+Thomas&amp;rft.date=2012-11-27&amp;rft_id=https%3A%2F%2Fwww.animenewsnetwork.com%2Fpress-release%2F2012-11-27%2Ffantagraphics-books-presents-moto-hagio-the-heart-of-thomas-january-2013&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></span>
+</li>
+<li id="cite_note-FOOTNOTEHagio2019104-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEHagio2019104_33-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFHagio2019">Hagio 2019</a>, p.&#160;104.</span>
+</li>
+<li id="cite_note-FOOTNOTEShamoon2012185-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEShamoon2012185_34-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFShamoon2012">Shamoon 2012</a>, p.&#160;185.</span>
+</li>
+<li id="cite_note-FOOTNOTEHagio2019108-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEHagio2019108_35-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFHagio2019">Hagio 2019</a>, p.&#160;108.</span>
+</li>
+<li id="cite_note-FOOTNOTEHagio2019185-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEHagio2019185_36-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFHagio2019">Hagio 2019</a>, p.&#160;185.</span>
+</li>
+<li id="cite_note-FOOTNOTEShamoon2012113–114-37"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEShamoon2012113–114_37-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEShamoon2012113–114_37-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FOOTNOTEShamoon2012113–114_37-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-FOOTNOTEShamoon2012113–114_37-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFShamoon2012">Shamoon 2012</a>, pp.&#160;113–114.</span>
+</li>
+<li id="cite_note-FOOTNOTEShamoon2012114-38"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEShamoon2012114_38-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEShamoon2012114_38-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FOOTNOTEShamoon2012114_38-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-FOOTNOTEShamoon2012114_38-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-FOOTNOTEShamoon2012114_38-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-FOOTNOTEShamoon2012114_38-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-FOOTNOTEShamoon2012114_38-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFShamoon2012">Shamoon 2012</a>, p.&#160;114.</span>
+</li>
+<li id="cite_note-FOOTNOTEShamoon20208-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEShamoon20208_39-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFShamoon2020">Shamoon 2020</a>, p.&#160;8.</span>
+</li>
+<li id="cite_note-FOOTNOTEAnan201683-40"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEAnan201683_40-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEAnan201683_40-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FOOTNOTEAnan201683_40-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFAnan2016">Anan 2016</a>, p.&#160;83.</span>
+</li>
+<li id="cite_note-FOOTNOTEHemmann202048-41"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEHemmann202048_41-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEHemmann202048_41-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFHemmann2020">Hemmann 2020</a>, p.&#160;48.</span>
+</li>
+<li id="cite_note-hemmann-penn-site-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-hemmann-penn-site_42-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://ealc.sas.upenn.edu/people/dr-kathryn-hemmann">"Dr. Kathryn Hemmann"</a>. <i>School of Arts and Sciences</i>. <a href="/wiki/University_of_Pennsylvania" title="University of Pennsylvania">University of Pennsylvania</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210117034031/https://ealc.sas.upenn.edu/people/dr-kathryn-hemmann">Archived</a> from the original on January 17, 2021<span class="reference-accessdate">. Retrieved <span class="nowrap">March 3,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=School+of+Arts+and+Sciences&amp;rft.atitle=Dr.+Kathryn+Hemmann&amp;rft_id=https%3A%2F%2Fealc.sas.upenn.edu%2Fpeople%2Fdr-kathryn-hemmann&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></span>
+</li>
+<li id="cite_note-FOOTNOTEShiokawa199993-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEShiokawa199993_43-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFShiokawa1999">Shiokawa 1999</a>, p.&#160;93.</span>
+</li>
+<li id="cite_note-shamoon-nus-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-shamoon-nus_44-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://profile.nus.edu.sg/fass/jpssdm/">"Associate Professor Shamoon, Deborah Michelle"</a>. <a href="/wiki/National_University_of_Singapore" title="National University of Singapore">National University of Singapore</a>, Faculty of Arts and Sciences. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210119155302/https://profile.nus.edu.sg/fass/jpssdm/">Archived</a> from the original on January 19, 2021<span class="reference-accessdate">. Retrieved <span class="nowrap">February 24,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Associate+Professor+Shamoon%2C+Deborah+Michelle&amp;rft.pub=National+University+of+Singapore%2C+Faculty+of+Arts+and+Sciences&amp;rft_id=https%3A%2F%2Fprofile.nus.edu.sg%2Ffass%2Fjpssdm%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></span>
+</li>
+<li id="cite_note-FOOTNOTEShamoon2012116-45"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEShamoon2012116_45-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEShamoon2012116_45-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FOOTNOTEShamoon2012116_45-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFShamoon2012">Shamoon 2012</a>, p.&#160;116.</span>
+</li>
+<li id="cite_note-FOOTNOTERandall2003-46"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTERandall2003_46-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTERandall2003_46-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFRandall2003">Randall 2003</a>.</span>
+</li>
+<li id="cite_note-FOOTNOTEAnan201683–84-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEAnan201683–84_47-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFAnan2016">Anan 2016</a>, pp.&#160;83–84.</span>
+</li>
+<li id="cite_note-FOOTNOTEHori2013306-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEHori2013306_48-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFHori2013">Hori 2013</a>, p.&#160;306.</span>
+</li>
+<li id="cite_note-FOOTNOTETamura201949-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTETamura201949_49-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFTamura2019">Tamura 2019</a>, p.&#160;49.</span>
+</li>
+<li id="cite_note-FOOTNOTEMatsui1993178-50"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEMatsui1993178_50-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEMatsui1993178_50-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFMatsui1993">Matsui 1993</a>, p.&#160;178.</span>
+</li>
+<li id="cite_note-tamura-graphics-wustl-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-tamura-graphics-wustl_51-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://resobox.com/class/manga-drawing/">"Manga Drawing and Animation"</a>. <i>RESOBOX</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210127072923/https://resobox.com/class/manga-drawing/">Archived</a> from the original on January 27, 2021<span class="reference-accessdate">. Retrieved <span class="nowrap">February 24,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=RESOBOX&amp;rft.atitle=Manga+Drawing+and+Animation&amp;rft_id=https%3A%2F%2Fresobox.com%2Fclass%2Fmanga-drawing%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></span>
+</li>
+<li id="cite_note-FOOTNOTETamura201937-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTETamura201937_52-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFTamura2019">Tamura 2019</a>, p.&#160;37.</span>
+</li>
+<li id="cite_note-FOOTNOTEAnan201684-53"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEAnan201684_53-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEAnan201684_53-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFAnan2016">Anan 2016</a>, p.&#160;84.</span>
+</li>
+<li id="cite_note-anan-kansai-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-anan-kansai_54-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://gakujo.kansai-u.ac.jp/profile/en/2d9be08918ac5636.html">"Teaching Staff: Anan, Nobuko"</a>. <a href="/wiki/Kansai_University" title="Kansai University">Kansai University</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210420220119/https://www.kansai-u.ac.jp/common_header/kouhou/js/swpimg.js">Archived</a> from the original on April 20, 2021<span class="reference-accessdate">. Retrieved <span class="nowrap">February 24,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Teaching+Staff%3A+Anan%2C+Nobuko&amp;rft.pub=Kansai+University&amp;rft_id=http%3A%2F%2Fgakujo.kansai-u.ac.jp%2Fprofile%2Fen%2F2d9be08918ac5636.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></span>
+</li>
+<li id="cite_note-FOOTNOTEHemmann202011-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEHemmann202011_55-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFHemmann2020">Hemmann 2020</a>, p.&#160;11.</span>
+</li>
+<li id="cite_note-FOOTNOTEWelker2006857-56"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEWelker2006857_56-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEWelker2006857_56-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFWelker2006">Welker 2006</a>, p.&#160;857.</span>
+</li>
+<li id="cite_note-FOOTNOTEShamoon2012107-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEShamoon2012107_57-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFShamoon2012">Shamoon 2012</a>, p.&#160;107.</span>
+</li>
+<li id="cite_note-FOOTNOTETamura201934,_37,_39-58"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTETamura201934,_37,_39_58-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTETamura201934,_37,_39_58-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFTamura2019">Tamura 2019</a>, pp.&#160;34, 37, 39.</span>
+</li>
+<li id="cite_note-FOOTNOTEShamoon2012105–106-59"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEShamoon2012105–106_59-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFShamoon2012">Shamoon 2012</a>, pp.&#160;105–106.</span>
+</li>
+<li id="cite_note-FOOTNOTETamura201947-60"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTETamura201947_60-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFTamura2019">Tamura 2019</a>, p.&#160;47.</span>
+</li>
+<li id="cite_note-FOOTNOTETamura201935–36-61"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTETamura201935–36_61-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFTamura2019">Tamura 2019</a>, pp.&#160;35–36.</span>
+</li>
+<li id="cite_note-FOOTNOTETamura201939-62"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTETamura201939_62-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFTamura2019">Tamura 2019</a>, p.&#160;39.</span>
+</li>
+<li id="cite_note-FOOTNOTEWelker2015b-63"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEWelker2015b_63-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEWelker2015b_63-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FOOTNOTEWelker2015b_63-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-FOOTNOTEWelker2015b_63-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-FOOTNOTEWelker2015b_63-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFWelker2015b">Welker 2015b</a>.</span>
+</li>
+<li id="cite_note-FOOTNOTEShamoon2012105,_109-64"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEShamoon2012105,_109_64-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFShamoon2012">Shamoon 2012</a>, pp.&#160;105, 109.</span>
+</li>
+<li id="cite_note-FOOTNOTETamura201931-65"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTETamura201931_65-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFTamura2019">Tamura 2019</a>, p.&#160;31.</span>
+</li>
+<li id="cite_note-FOOTNOTETamura201935-66"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTETamura201935_66-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFTamura2019">Tamura 2019</a>, p.&#160;35.</span>
+</li>
+<li id="cite_note-FOOTNOTEShamoon2012109-67"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEShamoon2012109_67-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFShamoon2012">Shamoon 2012</a>, p.&#160;109.</span>
+</li>
+<li id="cite_note-FOOTNOTEBerlatsky2013-68"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEBerlatsky2013_68-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFBerlatsky2013">Berlatsky 2013</a>.</span>
+</li>
+<li id="cite_note-FOOTNOTEThompson2012-69"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEThompson2012_69-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFThompson2012">Thompson 2012</a>.</span>
+</li>
+<li id="cite_note-FOOTNOTESilverman2013-70"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTESilverman2013_70-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFSilverman2013">Silverman 2013</a>.</span>
+</li>
+<li id="cite_note-FOOTNOTEBrothers2013-71"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEBrothers2013_71-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFBrothers2013">Brothers 2013</a>.</span>
+</li>
+<li id="cite_note-72"><span class="mw-cite-backlink"><b><a href="#cite_ref-72">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.publishersweekly.com/978-1-60699-551-8">"Comic Book Review: <i> The Heart of Thomas</i>"</a>. <i><a href="/wiki/Publishers_Weekly" title="Publishers Weekly">Publishers Weekly</a></i>. January 21, 2013. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210116140603/https://www.publishersweekly.com/978-1-60699-551-8">Archived</a> from the original on January 16, 2021<span class="reference-accessdate">. Retrieved <span class="nowrap">January 15,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Publishers+Weekly&amp;rft.atitle=Comic+Book+Review%3A+The+Heart+of+Thomas&amp;rft.date=2013-01-21&amp;rft_id=https%3A%2F%2Fwww.publishersweekly.com%2F978-1-60699-551-8&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></span>
+</li>
+<li id="cite_note-FOOTNOTENagaike20126-73"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTENagaike20126_73-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFNagaike2012">Nagaike 2012</a>, p.&#160;6.</span>
+</li>
+<li id="cite_note-FOOTNOTEWakabayashi2020-74"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEWakabayashi2020_74-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFWakabayashi2020">Wakabayashi 2020</a>.</span>
+</li>
+<li id="cite_note-FOOTNOTETakamine2014-75"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTETakamine2014_75-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFTakamine2014">Takamine 2014</a>.</span>
+</li>
+<li id="cite_note-FOOTNOTESuzuki201596-76"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTESuzuki201596_76-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFSuzuki2015">Suzuki 2015</a>, p.&#160;96.</span>
+</li>
+<li id="cite_note-FOOTNOTETaylor200636-77"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTETaylor200636_77-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFTaylor2006">Taylor 2006</a>, p.&#160;36.</span>
+</li>
+<li id="cite_note-FOOTNOTEAnan2016108-78"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEAnan2016108_78-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFAnan2016">Anan 2016</a>, p.&#160;108.</span>
+</li>
+<li id="cite_note-FOOTNOTEWelker2006851-79"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEWelker2006851_79-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFWelker2006">Welker 2006</a>, p.&#160;851.</span>
+</li>
+<li id="cite_note-FOOTNOTEAnan2016100-80"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEAnan2016100_80-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFAnan2016">Anan 2016</a>, p.&#160;100.</span>
+</li>
+<li id="cite_note-FOOTNOTEAnan201665-81"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEAnan201665_81-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFAnan2016">Anan 2016</a>, p.&#160;65.</span>
+</li>
+<li id="cite_note-82"><span class="mw-cite-backlink"><b><a href="#cite_ref-82">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://iss.ndl.go.jp/books/R100000002-I000010686225-00">"トーマの心臓"</a> &#91;<i>The Heart of Thomas</i>&#93;. <i><a href="/wiki/National_Diet_Library" title="National Diet Library">National Diet Library</a></i> (in Japanese). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210420220138/https://iss.ndl.go.jp/books/R100000002-I000010686225-00">Archived</a> from the original on April 20, 2021<span class="reference-accessdate">. Retrieved <span class="nowrap">November 25,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Diet+Library&amp;rft.atitle=%E3%83%88%E3%83%BC%E3%83%9E%E3%81%AE%E5%BF%83%E8%87%93&amp;rft_id=https%3A%2F%2Fiss.ndl.go.jp%2Fbooks%2FR100000002-I000010686225-00&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></span>
+</li>
+<li id="cite_note-83"><span class="mw-cite-backlink"><b><a href="#cite_ref-83">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://natalie.mu/comic/news/18237">"森博嗣が書く「トーマの心臓」が7月31日に発売"</a> &#91;<i>The Heart of Thomas</i> written by Hiroshi Mori will be released on July 31st&#93;. <i><a href="/wiki/Comic_Natalie" class="mw-redirect" title="Comic Natalie">Comic Natalie</a></i> (in Japanese). July 1, 2007. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210125020706/https://natalie.mu/comic/news/18237">Archived</a> from the original on January 25, 2021<span class="reference-accessdate">. Retrieved <span class="nowrap">November 25,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Comic+Natalie&amp;rft.atitle=%E6%A3%AE%E5%8D%9A%E5%97%A3%E3%81%8C%E6%9B%B8%E3%81%8F%E3%80%8C%E3%83%88%E3%83%BC%E3%83%9E%E3%81%AE%E5%BF%83%E8%87%93%E3%80%8D%E3%81%8C7%E6%9C%8831%E6%97%A5%E3%81%AB%E7%99%BA%E5%A3%B2&amp;rft.date=2007-07-01&amp;rft_id=https%3A%2F%2Fnatalie.mu%2Fcomic%2Fnews%2F18237&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h3><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Heart_of_Thomas&amp;action=edit&amp;section=17" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<style data-mw-deduplicate="TemplateStyles:r998391716">.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}</style><div class="div-col">
+<style data-mw-deduplicate="TemplateStyles:r1011217839">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li{margin-left:0;padding-left:3.2em;text-indent:-3.2em}.mw-parser-output .refbegin-hanging-indents ul,.mw-parser-output .refbegin-hanging-indents ul li{list-style:none}@media(max-width:720px){.mw-parser-output .refbegin-hanging-indents>ul>li{padding-left:1.6em;text-indent:-1.6em}}.mw-parser-output .refbegin-100{font-size:100%}.mw-parser-output .refbegin-columns{margin-top:0.3em}.mw-parser-output .refbegin-columns ul{margin-top:0}.mw-parser-output .refbegin-columns li{page-break-inside:avoid;break-inside:avoid-column}</style><div class="refbegin" style="">
+<ul><li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFAnan2016" class="citation book cs1">Anan, Nobuko (2016). "Girlie Sexuality: When Flat Girls Become Three-Dimensional". <i>Contemporary Japanese Women's Theater and Visual Arts: Performing Girls' Aesthetics</i>. London: <a href="/wiki/Palgrave_Macmillan" title="Palgrave Macmillan">Palgrave Macmillan</a>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-349-55706-6" title="Special:BookSources/978-1-349-55706-6"><bdi>978-1-349-55706-6</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Girlie+Sexuality%3A+When+Flat+Girls+Become+Three-Dimensional&amp;rft.btitle=Contemporary+Japanese+Women%27s+Theater+and+Visual+Arts%3A+Performing+Girls%27+Aesthetics&amp;rft.place=London&amp;rft.pub=Palgrave+Macmillan&amp;rft.date=2016&amp;rft.isbn=978-1-349-55706-6&amp;rft.aulast=Anan&amp;rft.aufirst=Nobuko&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFBerlatsky2013" class="citation web cs1">Berlatsky, Noah (January 2, 2013). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130105040410/http://www.theatlantic.com/sexes/archive/2013/01/the-gay-teen-boy-romance-comic-beloved-by-women-in-japan/266767">"The Gay Teen-Boy Romance Comic Beloved by Women in Japan"</a>. <i><a href="/wiki/The_Atlantic" title="The Atlantic">The Atlantic</a></i>. Washington: <a href="/wiki/Emerson_Collective" title="Emerson Collective">Emerson Collective</a>. Archived from <a rel="nofollow" class="external text" href="https://www.theatlantic.com/sexes/archive/2013/01/the-gay-teen-boy-romance-comic-beloved-by-women-in-japan/266767/">the original</a> on January 5, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">November 25,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Atlantic&amp;rft.atitle=The+Gay+Teen-Boy+Romance+Comic+Beloved+by+Women+in+Japan&amp;rft.date=2013-01-02&amp;rft.aulast=Berlatsky&amp;rft.aufirst=Noah&amp;rft_id=https%3A%2F%2Fwww.theatlantic.com%2Fsexes%2Farchive%2F2013%2F01%2Fthe-gay-teen-boy-romance-comic-beloved-by-women-in-japan%2F266767%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFBrothers2013" class="citation web cs1">Brothers, David (January 4, 2013). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130903194445/http://comicsalliance.com/moto-hagio-the-heart-of-thomas-review-preview/">"Moto Hagio's <i>The Heart of Thomas</i> Is A Dense, Heartfelt Read"</a>. <i><a href="/wiki/Comics_Alliance" class="mw-redirect" title="Comics Alliance">Comics Alliance</a></i>. New York. Archived from <a rel="nofollow" class="external text" href="https://comicsalliance.com/moto-hagio-the-heart-of-thomas-review-preview/">the original</a> on September 3, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">January 15,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Comics+Alliance&amp;rft.atitle=Moto+Hagio%27s+The+Heart+of+Thomas+Is+A+Dense%2C+Heartfelt+Read&amp;rft.date=2013-01-04&amp;rft.aulast=Brothers&amp;rft.aufirst=David&amp;rft_id=https%3A%2F%2Fcomicsalliance.com%2Fmoto-hagio-the-heart-of-thomas-review-preview%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFHagio2012" class="citation book cs1"><a href="/wiki/Moto_Hagio" title="Moto Hagio">Hagio, Moto</a> (2012). <i>Le cœur de Thomas</i> &#91;<i>The Heart of Thomas</i>&#93; (in French). Translated by <a href="/wiki/Ryoko_Sekiguchi" title="Ryoko Sekiguchi">Sekiguchi, Ryoko</a>; Uno, Takanori. Paris: <a href="/wiki/Kaz%C3%A9" title="Kazé">Kazé</a>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-2-820-30534-3" title="Special:BookSources/978-2-820-30534-3"><bdi>978-2-820-30534-3</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Le+c%C5%93ur+de+Thomas&amp;rft.place=Paris&amp;rft.pub=Kaz%C3%A9&amp;rft.date=2012&amp;rft.isbn=978-2-820-30534-3&amp;rft.aulast=Hagio&amp;rft.aufirst=Moto&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFHagio2013" class="citation book cs1">Hagio, Moto (2013). <i>The Heart of Thomas</i>. Translated by <a href="/wiki/Rachel_Thorn" title="Rachel Thorn">Thorn, Rachel</a>. Seattle: <a href="/wiki/Fantagraphics_Books" class="mw-redirect" title="Fantagraphics Books">Fantagraphics Books</a>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-606-99551-8" title="Special:BookSources/978-1-606-99551-8"><bdi>978-1-606-99551-8</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Heart+of+Thomas&amp;rft.place=Seattle&amp;rft.pub=Fantagraphics+Books&amp;rft.date=2013&amp;rft.isbn=978-1-606-99551-8&amp;rft.aulast=Hagio&amp;rft.aufirst=Moto&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFHagio2019" class="citation book cs1">Hagio, Moto (2019). "『トーマの心臓』の世界" &#91;The World of <i>The Heart of Thomas</i>&#93;. <i>デビュー50周年記念『ポーの一族』と萩尾望都の世界</i> &#91;<i>The 50th Anniversary of The Poe Clan and the World of Moto Hagio</i>&#93; (in Japanese). Tokyo: <a href="/wiki/Kawade_Shob%C5%8D_Shinsha" title="Kawade Shobō Shinsha">Kawade Shobō Shinsha</a>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-4-091-99063-1" title="Special:BookSources/978-4-091-99063-1"><bdi>978-4-091-99063-1</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=%E3%80%8E%E3%83%88%E3%83%BC%E3%83%9E%E3%81%AE%E5%BF%83%E8%87%93%E3%80%8F%E3%81%AE%E4%B8%96%E7%95%8C&amp;rft.btitle=%E3%83%87%E3%83%93%E3%83%A5%E3%83%BC50%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%80%8E%E3%83%9D%E3%83%BC%E3%81%AE%E4%B8%80%E6%97%8F%E3%80%8F%E3%81%A8%E8%90%A9%E5%B0%BE%E6%9C%9B%E9%83%BD%E3%81%AE%E4%B8%96%E7%95%8C&amp;rft.place=Tokyo&amp;rft.pub=Kawade+Shob%C5%8D+Shinsha&amp;rft.date=2019&amp;rft.isbn=978-4-091-99063-1&amp;rft.aulast=Hagio&amp;rft.aufirst=Moto&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFHagio2020" class="citation book cs1">Hagio, Moto (2020). <i>萩尾望都 作画のひみつ</i> &#91;<i>Moto Hagio: The Secret of Drawing</i>&#93; (in Japanese). Tokyo: <a href="/wiki/Shinchosha" title="Shinchosha">Shinchosha</a>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-4-106-02293-7" title="Special:BookSources/978-4-106-02293-7"><bdi>978-4-106-02293-7</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=%E8%90%A9%E5%B0%BE%E6%9C%9B%E9%83%BD+%E4%BD%9C%E7%94%BB%E3%81%AE%E3%81%B2%E3%81%BF%E3%81%A4&amp;rft.place=Tokyo&amp;rft.pub=Shinchosha&amp;rft.date=2020&amp;rft.isbn=978-4-106-02293-7&amp;rft.aulast=Hagio&amp;rft.aufirst=Moto&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFHemmann2020" class="citation book cs1">Hemmann, Kathryn (2020). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=4VDaDwAAQBAJ"><i>Manga Cultures and the Female Gaze</i></a>. London: <a href="/wiki/Springer_Nature" title="Springer Nature">Springer Nature</a>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-030-18095-9" title="Special:BookSources/978-3-030-18095-9"><bdi>978-3-030-18095-9</bdi></a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210413174711/https://books.google.com/books?id=4VDaDwAAQBAJ">Archived</a> from the original on April 13, 2021<span class="reference-accessdate">. Retrieved <span class="nowrap">March 2,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Manga+Cultures+and+the+Female+Gaze&amp;rft.place=London&amp;rft.pub=Springer+Nature&amp;rft.date=2020&amp;rft.isbn=978-3-030-18095-9&amp;rft.aulast=Hemmann&amp;rft.aufirst=Kathryn&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D4VDaDwAAQBAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFHori2013" class="citation journal cs1">Hori, Hikari (2013). "Tezuka, Shōjo Manga, and Hagio Moto". <i><a href="/wiki/Mechademia" title="Mechademia">Mechademia</a></i>. Minneapolis: <a href="/wiki/University_of_Minnesota_Press" title="University of Minnesota Press">University of Minnesota Press</a>. <b>8</b>: 299–311. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1353%2Fmec.2013.0012">10.1353/mec.2013.0012</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Mechademia&amp;rft.atitle=Tezuka%2C+Sh%C5%8Djo+Manga%2C+and+Hagio+Moto&amp;rft.volume=8&amp;rft.pages=299-311&amp;rft.date=2013&amp;rft_id=info%3Adoi%2F10.1353%2Fmec.2013.0012&amp;rft.aulast=Hori&amp;rft.aufirst=Hikari&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFMaréchal2001" class="citation journal cs1">Maréchal, Béatrice (2001). <a rel="nofollow" class="external text" href="http://neuviemeart.citebd.org/spip.php?article108">"La bande dessinée japonaise pour filles et pour femmes"</a> &#91;Japanese comics for girls and women&#93;. <i>Neuvième Art</i> (in French). Angoulême: Éditions de l'An 2 (6). <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/2108-6893">2108-6893</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20201003111540/http://neuviemeart.citebd.org/spip.php?article108">Archived</a> from the original on October 3, 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">February 5,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Neuvi%C3%A8me+Art&amp;rft.atitle=La+bande+dessin%C3%A9e+japonaise+pour+filles+et+pour+femmes&amp;rft.issue=6&amp;rft.date=2001&amp;rft.issn=2108-6893&amp;rft.aulast=Mar%C3%A9chal&amp;rft.aufirst=B%C3%A9atrice&amp;rft_id=http%3A%2F%2Fneuviemeart.citebd.org%2Fspip.php%3Farticle108&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFMatsui1993" class="citation book cs1">Matsui, Midori (1993). "Little girls were little boys: Displaced femininity in the representation of homosexuality in Japanese girls' comics". <i>Feminism and the Politics of Difference</i>. Abingdon-on-Thames: <a href="/wiki/Routledge" title="Routledge">Routledge</a>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-429-69076-1" title="Special:BookSources/978-0-429-69076-1"><bdi>978-0-429-69076-1</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Little+girls+were+little+boys%3A+Displaced+femininity+in+the+representation+of+homosexuality+in+Japanese+girls%27+comics&amp;rft.btitle=Feminism+and+the+Politics+of+Difference&amp;rft.place=Abingdon-on-Thames&amp;rft.pub=Routledge&amp;rft.date=1993&amp;rft.isbn=978-0-429-69076-1&amp;rft.aulast=Matsui&amp;rft.aufirst=Midori&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation book cs1">McLelland, Mark; Nagaike, Kazumi; Katsuhiko, Suganuma; Welker, James, eds. (2015). <i>Boys Love Manga and Beyond: History, Culture, and Community in Japan</i>. Jackson: <a href="/wiki/University_Press_of_Mississippi" title="University Press of Mississippi">University Press of Mississippi</a>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-628-46119-0" title="Special:BookSources/978-1-628-46119-0"><bdi>978-1-628-46119-0</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Boys+Love+Manga+and+Beyond%3A+History%2C+Culture%2C+and+Community+in+Japan&amp;rft.place=Jackson&amp;rft.pub=University+Press+of+Mississippi&amp;rft.date=2015&amp;rft.isbn=978-1-628-46119-0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span>
+<ul><li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFSuzuki2015" class="citation encyclopaedia cs1">Suzuki, Kazuko (2015). "What Can We Learn from Japanese Professional BL Writers?: A Sociological Analysis of Yaoi/BL Terminology and Classiﬁcations".  In McLelland, Mark; Nagaike, Kazumi; Katsuhiko, Suganuma; Welker, James (eds.). <i>Boys Love Manga and Beyond: History, Culture, and Community in Japan</i>. Jackson: <a href="/wiki/University_Press_of_Mississippi" title="University Press of Mississippi">University Press of Mississippi</a>. pp.&#160;93–118. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.14325%2Fmississippi%2F9781628461190.003.0005">10.14325/mississippi/9781628461190.003.0005</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=What+Can+We+Learn+from+Japanese+Professional+BL+Writers%3F%3A+A+Sociological+Analysis+of+Yaoi%2FBL+Terminology+and+Classi%EF%AC%81cations&amp;rft.btitle=Boys+Love+Manga+and+Beyond%3A+History%2C+Culture%2C+and+Community+in+Japan&amp;rft.place=Jackson&amp;rft.pages=93-118&amp;rft.pub=University+Press+of+Mississippi&amp;rft.date=2015&amp;rft_id=info%3Adoi%2F10.14325%2Fmississippi%2F9781628461190.003.0005&amp;rft.aulast=Suzuki&amp;rft.aufirst=Kazuko&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFWelker2015a" class="citation encyclopaedia cs1">Welker, James (2015a). "A Brief History of Shōnen'ai, Yaoi and Boys Love".  In McLelland, Mark; Nagaike, Kazumi; Katsuhiko, Suganuma; Welker, James (eds.). <i>Boys Love Manga and Beyond: History, Culture, and Community in Japan</i>. Jackson: <a href="/wiki/University_Press_of_Mississippi" title="University Press of Mississippi">University Press of Mississippi</a>. pp.&#160;42–75. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.14325%2Fmississippi%2F9781628461190.003.0003">10.14325/mississippi/9781628461190.003.0003</a>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781628461190" title="Special:BookSources/9781628461190"><bdi>9781628461190</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=A+Brief+History+of+Sh%C5%8Dnen%27ai%2C+Yaoi+and+Boys+Love&amp;rft.btitle=Boys+Love+Manga+and+Beyond%3A+History%2C+Culture%2C+and+Community+in+Japan&amp;rft.place=Jackson&amp;rft.pages=42-75&amp;rft.pub=University+Press+of+Mississippi&amp;rft.date=2015&amp;rft_id=info%3Adoi%2F10.14325%2Fmississippi%2F9781628461190.003.0003&amp;rft.isbn=9781628461190&amp;rft.aulast=Welker&amp;rft.aufirst=James&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></li></ul></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFNagaike2012" class="citation journal cs1">Nagaike, Kazumi (2012). "Fantasies of Cross-dressing: Japanese Women Write Male-Male Erotica". <i>Brill's Japanese Studies Library</i>. Leiden: <a href="/wiki/Brill_Publishers" title="Brill Publishers">Brill Publishers</a>. <b>37</b>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1163%2F9789004227002">10.1163/9789004227002</a>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9789004216952" title="Special:BookSources/9789004216952"><bdi>9789004216952</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Brill%27s+Japanese+Studies+Library&amp;rft.atitle=Fantasies+of+Cross-dressing%3A+Japanese+Women+Write+Male-Male+Erotica&amp;rft.volume=37&amp;rft.date=2012&amp;rft_id=info%3Adoi%2F10.1163%2F9789004227002&amp;rft.isbn=9789004216952&amp;rft.aulast=Nagaike&amp;rft.aufirst=Kazumi&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFNakagawa2019a" class="citation journal cs1">Nakagawa, Yūsuke (2019a). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20191226082728/https://www.gentosha.jp/article/14029/">"「COM」の終焉と「美少年マンガ」の登場"</a> &#91;The End of <i>COM</i> and the Rise of <i>Bishōnen</i> Manga&#93;. <i>Gentosha Plus</i> (in Japanese). <a href="/wiki/Gentosha" title="Gentosha">Gentosha</a>. Archived from <a rel="nofollow" class="external text" href="https://www.gentosha.jp/article/14029/">the original</a> on December 26, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">January 15,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Gentosha+Plus&amp;rft.atitle=%E3%80%8CCOM%E3%80%8D%E3%81%AE%E7%B5%82%E7%84%89%E3%81%A8%E3%80%8C%E7%BE%8E%E5%B0%91%E5%B9%B4%E3%83%9E%E3%83%B3%E3%82%AC%E3%80%8D%E3%81%AE%E7%99%BB%E5%A0%B4&amp;rft.date=2019&amp;rft.aulast=Nakagawa&amp;rft.aufirst=Y%C5%ABsuke&amp;rft_id=https%3A%2F%2Fwww.gentosha.jp%2Farticle%2F14029%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFNakagawa2019b" class="citation journal cs1">Nakagawa, Yūsuke (2019b). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20191211103734/https://www.gentosha.jp/article/14091/">"新書判コミックスで変わる、マンガの読み方"</a> &#91;How Reading Manga Changed With Book-Format Comics&#93;. <i>Gentosha Plus</i> (in Japanese). <a href="/wiki/Gentosha" title="Gentosha">Gentosha</a>. Archived from <a rel="nofollow" class="external text" href="https://www.gentosha.jp/article/14091/">the original</a> on December 11, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">January 15,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Gentosha+Plus&amp;rft.atitle=%E6%96%B0%E6%9B%B8%E5%88%A4%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%81%A7%E5%A4%89%E3%82%8F%E3%82%8B%E3%80%81%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%AE%E8%AA%AD%E3%81%BF%E6%96%B9&amp;rft.date=2019&amp;rft.aulast=Nakagawa&amp;rft.aufirst=Y%C5%ABsuke&amp;rft_id=https%3A%2F%2Fwww.gentosha.jp%2Farticle%2F14091%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFRandall2003" class="citation journal cs1">Randall, Bill (2003). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080514035149/http://www.tcj.com/252/e_hagio.html">"Three By Moto Hagio"</a>. <i><a href="/wiki/The_Comics_Journal" title="The Comics Journal">The Comics Journal</a></i>. Seattle: <a href="/wiki/Fantagraphics_Books" class="mw-redirect" title="Fantagraphics Books">Fantagraphics Books</a> (252). Archived from <a rel="nofollow" class="external text" href="http://www.tcj.com/252/e_hagio.html">the original</a> on May 14, 2003.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Comics+Journal&amp;rft.atitle=Three+By+Moto+Hagio&amp;rft.issue=252&amp;rft.date=2003&amp;rft.aulast=Randall&amp;rft.aufirst=Bill&amp;rft_id=http%3A%2F%2Fwww.tcj.com%2F252%2Fe_hagio.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFShamoon2012" class="citation book cs1">Shamoon, Deborah (2012). "The Revolution in 1970s Shōjo Manga". <i>Passionate Friendship: The Aesthetics of Girl's Culture in Japan</i>. Honolulu: <a href="/wiki/University_of_Hawaii_Press" title="University of Hawaii Press">University of Hawaii Press</a>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-82483-542-2" title="Special:BookSources/978-0-82483-542-2"><bdi>978-0-82483-542-2</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=The+Revolution+in+1970s+Sh%C5%8Djo+Manga&amp;rft.btitle=Passionate+Friendship%3A+The+Aesthetics+of+Girl%27s+Culture+in+Japan&amp;rft.place=Honolulu&amp;rft.pub=University+of+Hawaii+Press&amp;rft.date=2012&amp;rft.isbn=978-0-82483-542-2&amp;rft.aulast=Shamoon&amp;rft.aufirst=Deborah&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFShamoon2020" class="citation journal cs1">Shamoon, Deborah (2020). "The Girl in the Whirlpool: Girls' Culture (Shōjo Bunka) in Tanizaki's Manji = 谷崎潤一郎の『卍』における少女文化". <i>U.S.-Japan Women's Journal</i>. Honolulu: <a href="/wiki/University_of_Hawaii_Press" title="University of Hawaii Press">University of Hawaii Press</a>. <b>57</b> (1): 3–20. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1353%2Fjwj.2020.0002">10.1353/jwj.2020.0002</a>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/2330-5029">2330-5029</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=U.S.-Japan+Women%27s+Journal&amp;rft.atitle=The+Girl+in+the+Whirlpool%3A+Girls%27+Culture+%28Sh%C5%8Djo+Bunka%29+in+Tanizaki%27s+Manji+%3D+%E8%B0%B7%E5%B4%8E%E6%BD%A4%E4%B8%80%E9%83%8E%E3%81%AE%E3%80%8E%E5%8D%8D%E3%80%8F%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%B0%91%E5%A5%B3%E6%96%87%E5%8C%96&amp;rft.volume=57&amp;rft.issue=1&amp;rft.pages=3-20&amp;rft.date=2020&amp;rft_id=info%3Adoi%2F10.1353%2Fjwj.2020.0002&amp;rft.issn=2330-5029&amp;rft.aulast=Shamoon&amp;rft.aufirst=Deborah&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFShiokawa1999" class="citation cs2">Shiokawa, Kanako (1999), <a rel="nofollow" class="external text" href="https://books.google.com/books?id=b0EJmrszhyQC&amp;pg=PA93">"Cute but Deadly: Women and Violence in Japanese Comics"</a>,  in John A. Lent (ed.), <i>Themes and Issues in Asian Cartooning: Cute, Cheap, Mad, and Sexy</i>, Bowling Green: Bowling Green State University Popular Press, <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-87972-779-6" title="Special:BookSources/978-0-87972-779-6"><bdi>978-0-87972-779-6</bdi></a>, <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210420220117/https://books.google.com/books?id=b0EJmrszhyQC&amp;pg=PA93">archived</a> from the original on April 20, 2021<span class="reference-accessdate">, retrieved <span class="nowrap">March 3,</span> 2021</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Cute+but+Deadly%3A+Women+and+Violence+in+Japanese+Comics&amp;rft.btitle=Themes+and+Issues+in+Asian+Cartooning%3A+Cute%2C+Cheap%2C+Mad%2C+and+Sexy&amp;rft.place=Bowling+Green&amp;rft.pub=Bowling+Green+State+University+Popular+Press&amp;rft.date=1999&amp;rft.isbn=978-0-87972-779-6&amp;rft.aulast=Shiokawa&amp;rft.aufirst=Kanako&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Db0EJmrszhyQC%26pg%3DPA93&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFSilverman2013" class="citation web cs1">Silverman, Rebecca (2013). <a rel="nofollow" class="external text" href="https://www.animenewsnetwork.com/review/the-heart-of-thomas/gn">"Review: <i>The Heart of Thomas</i>"</a>. <i><a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210116091720/https://www.animenewsnetwork.com/review/the-heart-of-thomas/gn">Archived</a> from the original on January 16, 2021<span class="reference-accessdate">. Retrieved <span class="nowrap">January 15,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Anime+News+Network&amp;rft.atitle=Review%3A+The+Heart+of+Thomas&amp;rft.date=2013&amp;rft.aulast=Silverman&amp;rft.aufirst=Rebecca&amp;rft_id=https%3A%2F%2Fwww.animenewsnetwork.com%2Freview%2Fthe-heart-of-thomas%2Fgn&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFTakamine2014" class="citation web cs1">Takamine, Haru (March 2, 2014). <a rel="nofollow" class="external text" href="https://www.christiantoday.co.jp/articles/12939/20140302/godlike-subculture.htm">"マンガとアニメとキリスト教" クリスチャンが選ぶサブカルチャー『トーマの心臓』"</a> &#91;Manga, Anime and "Christian Subculture" – <i>The Heart of Thomas</i>&#93;. <i><a href="/w/index.php?title=Christian_Today_(Japanese_newspaper)&amp;action=edit&amp;redlink=1" class="new" title="Christian Today (Japanese newspaper) (page does not exist)">Christian Today</a><span class="noprint" style="font-size:85%; font-style: normal;">&#160;&#91;<a href="https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%81%E3%83%A3%E3%83%B3%E3%83%88%E3%82%A5%E3%83%87%E3%82%A4" class="extiw" title="ja:クリスチャントゥデイ">ja</a>&#93;</span></i> (in Japanese). Tokyo: Christian Today Co., Ltd. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210122125625/https://www.christiantoday.co.jp/articles/12939/20140302/godlike-subculture.htm">Archived</a> from the original on January 22, 2021<span class="reference-accessdate">. Retrieved <span class="nowrap">February 5,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Christian+Today%3Cspan+class%3D%22noprint%22+style%3D%22font-size%3A85%25%3B+font-style%3A+normal%3B+%22%3E+%26%2391%3Bja%26%2393%3B%3C%2Fspan%3E&amp;rft.atitle=%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%A8%E3%82%A2%E3%83%8B%E3%83%A1%E3%81%A8%E3%82%AD%E3%83%AA%E3%82%B9%E3%83%88%E6%95%99%22+%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%81%E3%83%A3%E3%83%B3%E3%81%8C%E9%81%B8%E3%81%B6%E3%82%B5%E3%83%96%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%E3%80%8E%E3%83%88%E3%83%BC%E3%83%9E%E3%81%AE%E5%BF%83%E8%87%93%E3%80%8F&amp;rft.date=2014-03-02&amp;rft.aulast=Takamine&amp;rft.aufirst=Haru&amp;rft_id=https%3A%2F%2Fwww.christiantoday.co.jp%2Farticles%2F12939%2F20140302%2Fgodlike-subculture.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFTamura2019" class="citation journal cs1">Tamura, Kaoru (2019). <a rel="nofollow" class="external text" href="https://openscholarship.wustl.edu/art_sci_etds/1747/">"When a Woman Betrays the Nation: an Analysis of Moto Hagio's <i>The Heart of Thomas</i>"</a>. <i>Arts &amp; Sciences Electronic Theses and Dissertations</i>. St. Louis: <a href="/wiki/Washington_University_in_St._Louis" title="Washington University in St. Louis">Washington University Open Scholarship</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20200208074152/https://openscholarship.wustl.edu/art_sci_etds/1747/">Archived</a> from the original on February 8, 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">December 2,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Arts+%26+Sciences+Electronic+Theses+and+Dissertations&amp;rft.atitle=When+a+Woman+Betrays+the+Nation%3A+an+Analysis+of+Moto+Hagio%27s+The+Heart+of+Thomas&amp;rft.date=2019&amp;rft.aulast=Tamura&amp;rft.aufirst=Kaoru&amp;rft_id=https%3A%2F%2Fopenscholarship.wustl.edu%2Fart_sci_etds%2F1747%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFTaylor2006" class="citation journal cs1">Taylor, Zoe (2006). <a rel="nofollow" class="external text" href="https://pure.northampton.ac.uk/en/publications/girls-world-how-the-women-of-the-year-group-24-revolutionised-gir">"Girls' World&#160;: How the women of the 'Year Group 24' revolutionised girls' comics in Japan in the late 1970s"</a>. <i>Varoom! The Illustration Report</i>. London: Association of Illustrators (33): 34–43. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20201029081326/https://pure.northampton.ac.uk/en/publications/girls-world-how-the-women-of-the-year-group-24-revolutionised-gir">Archived</a> from the original on October 29, 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">December 2,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Varoom%21+The+Illustration+Report&amp;rft.atitle=Girls%27+World+%3A+How+the+women+of+the+%27Year+Group+24%27+revolutionised+girls%27+comics+in+Japan+in+the+late+1970s&amp;rft.issue=33&amp;rft.pages=34-43&amp;rft.date=2006&amp;rft.aulast=Taylor&amp;rft.aufirst=Zoe&amp;rft_id=https%3A%2F%2Fpure.northampton.ac.uk%2Fen%2Fpublications%2Fgirls-world-how-the-women-of-the-year-group-24-revolutionised-gir&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFThompson2012" class="citation web cs1"><a href="/wiki/Jason_Thompson_(writer)" title="Jason Thompson (writer)">Thompson, Jason</a> (2012). <a rel="nofollow" class="external text" href="https://www.animenewsnetwork.com/house-of-1000-manga/2012-11-22">"Jason Thompson's House of 1000 Manga – <i>The Heart of Thomas</i>"</a>. <i><a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210116100651/https://www.animenewsnetwork.com/house-of-1000-manga/2012-11-22">Archived</a> from the original on January 16, 2021<span class="reference-accessdate">. Retrieved <span class="nowrap">January 15,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Anime+News+Network&amp;rft.atitle=Jason+Thompson%27s+House+of+1000+Manga+%E2%80%93+The+Heart+of+Thomas&amp;rft.date=2012&amp;rft.aulast=Thompson&amp;rft.aufirst=Jason&amp;rft_id=https%3A%2F%2Fwww.animenewsnetwork.com%2Fhouse-of-1000-manga%2F2012-11-22&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFThorn2010" class="citation book cs1"><a href="/wiki/Rachel_Thorn" title="Rachel Thorn">Thorn, Rachel</a> (2010). "The Magnificent Forty-Niners". <i><a href="/wiki/A_Drunken_Dream_and_Other_Stories" title="A Drunken Dream and Other Stories">A Drunken Dream and Other Stories</a></i>. By Hagio, Moto. Translated by Thorn, Rachel. Seattle: <a href="/wiki/Fantagraphics_Books" class="mw-redirect" title="Fantagraphics Books">Fantagraphics Books</a>. pp.&#160;v–viii. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-606-99377-4" title="Special:BookSources/978-1-606-99377-4"><bdi>978-1-606-99377-4</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=The+Magnificent+Forty-Niners&amp;rft.btitle=A+Drunken+Dream+and+Other+Stories&amp;rft.place=Seattle&amp;rft.pages=v-viii&amp;rft.pub=Fantagraphics+Books&amp;rft.date=2010&amp;rft.isbn=978-1-606-99377-4&amp;rft.aulast=Thorn&amp;rft.aufirst=Rachel&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFThorn2005" class="citation journal cs1">Thorn, Rachel (2005). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070509012843/http://matt-thorn.com/shoujo_manga/hagio_interview.htm">"The Moto Hagio Interview"</a>. <i><a href="/wiki/The_Comics_Journal" title="The Comics Journal">The Comics Journal</a></i>. Seattle: <a href="/wiki/Fantagraphics_Books" class="mw-redirect" title="Fantagraphics Books">Fantagraphics Books</a> (269): 138. Archived from <a rel="nofollow" class="external text" href="http://matt-thorn.com/shoujo_manga/hagio_interview.htm">the original</a> on May 9, 2007.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Comics+Journal&amp;rft.atitle=The+Moto+Hagio+Interview&amp;rft.issue=269&amp;rft.pages=138&amp;rft.date=2005&amp;rft.aulast=Thorn&amp;rft.aufirst=Rachel&amp;rft_id=http%3A%2F%2Fmatt-thorn.com%2Fshoujo_manga%2Fhagio_interview.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFToku2004" class="citation journal cs1">Toku, Masami (2004). <a rel="nofollow" class="external text" href="http://mtoku.yourweb.csuchico.edu/vc/Articles/toku/Power_Girls_Comics.html">"The Power of Girls' Comics: The Value and Contribution to Visual Culture and Society"</a>. <i>Visual Culture Research in Art and Education</i>. Chico: <a href="/wiki/California_State_University,_Chico" title="California State University, Chico">California State University, Chico</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20181014235023/http://www.csuchico.edu/~mtoku/vc/Articles/toku/Power_Girls_Comics.html">Archived</a> from the original on October 14, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">December 2,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Visual+Culture+Research+in+Art+and+Education&amp;rft.atitle=The+Power+of+Girls%27+Comics%3A+The+Value+and+Contribution+to+Visual+Culture+and+Society&amp;rft.date=2004&amp;rft.aulast=Toku&amp;rft.aufirst=Masami&amp;rft_id=http%3A%2F%2Fmtoku.yourweb.csuchico.edu%2Fvc%2FArticles%2Ftoku%2FPower_Girls_Comics.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFWakabayashi2020" class="citation web cs1">Wakabayashi, Rio (October 15, 2020). <a rel="nofollow" class="external text" href="https://realsound.jp/book/2020/10/post-636477_2.html">"萩尾望都『トーマの心臓』が少女漫画界に与えた影響"</a> &#91;The Influence of Moto Hagio's <i>The Heart of Thomas</i> on <i>Shōjo</i> Manga&#93;. <i><a href="/w/index.php?title=Real_Sound_(website)&amp;action=edit&amp;redlink=1" class="new" title="Real Sound (website) (page does not exist)">Real Sound</a><span class="noprint" style="font-size:85%; font-style: normal;">&#160;&#91;<a href="https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89_(%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%B5%E3%82%A4%E3%83%88)" class="extiw" title="ja:リアルサウンド (ニュースサイト)">ja</a>&#93;</span></i> (in Japanese). Tokyo: 株式会社blueprint. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210420220145/https://realsound.jp/book/2020/10/post-636477_2.html">Archived</a> from the original on April 20, 2021<span class="reference-accessdate">. Retrieved <span class="nowrap">February 5,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Real+Sound%3Cspan+class%3D%22noprint%22+style%3D%22font-size%3A85%25%3B+font-style%3A+normal%3B+%22%3E+%26%2391%3Bja%26%2393%3B%3C%2Fspan%3E&amp;rft.atitle=%E8%90%A9%E5%B0%BE%E6%9C%9B%E9%83%BD%E3%80%8E%E3%83%88%E3%83%BC%E3%83%9E%E3%81%AE%E5%BF%83%E8%87%93%E3%80%8F%E3%81%8C%E5%B0%91%E5%A5%B3%E6%BC%AB%E7%94%BB%E7%95%8C%E3%81%AB%E4%B8%8E%E3%81%88%E3%81%9F%E5%BD%B1%E9%9F%BF&amp;rft.date=2020-10-15&amp;rft.aulast=Wakabayashi&amp;rft.aufirst=Rio&amp;rft_id=https%3A%2F%2Frealsound.jp%2Fbook%2F2020%2F10%2Fpost-636477_2.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFWelker2006" class="citation journal cs1">Welker, James (2006). "Beautiful, Borrowed, and Bent: 'Boys' Love' as Girls' Love in Shôjo Manga". <i>New Feminist Theories of Visual Culture</i>. Chicago: <a href="/wiki/University_of_Chicago_Press" title="University of Chicago Press">University of Chicago Press</a>. <b>31</b> (3): 841–870. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1086%2F498987">10.1086/498987</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:144888475">144888475</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=New+Feminist+Theories+of+Visual+Culture&amp;rft.atitle=Beautiful%2C+Borrowed%2C+and+Bent%3A+%27Boys%27+Love%27+as+Girls%27+Love+in+Sh%C3%B4jo+Manga&amp;rft.volume=31&amp;rft.issue=3&amp;rft.pages=841-870&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1086%2F498987&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A144888475%23id-name%3DS2CID&amp;rft.aulast=Welker&amp;rft.aufirst=James&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFWelker2015b" class="citation journal cs1">Welker, James (2015b). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161116143854/http://www.mechademia.org/reviews/james-welker-review-of-the-heart-of-thomas-toma-no-shinzo-by-hagio-moto-trans-matt-thorn-5202015/">"Review of <i>The Heart of Thomas</i>"</a>. <i><a href="/wiki/Mechademia" title="Mechademia">Mechademia</a></i>. Minneapolis: <a href="/wiki/University_of_Minnesota_Press" title="University of Minnesota Press">University of Minnesota Press</a>. Archived from <a rel="nofollow" class="external text" href="http://www.mechademia.org/reviews/james-welker-review-of-the-heart-of-thomas-toma-no-shinzo-by-hagio-moto-trans-matt-thorn-5202015/">the original</a> on November 16, 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Mechademia&amp;rft.atitle=Review+of+The+Heart+of+Thomas&amp;rft.date=2015&amp;rft.aulast=Welker&amp;rft.aufirst=James&amp;rft_id=http%3A%2F%2Fwww.mechademia.org%2Freviews%2Fjames-welker-review-of-the-heart-of-thomas-toma-no-shinzo-by-hagio-moto-trans-matt-thorn-5202015%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Heart+of+Thomas" class="Z3988"></span></li></ul>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Heart_of_Thomas&amp;action=edit&amp;section=18" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://www.animenewsnetwork.com/encyclopedia/manga.php?id=5891"><i>The Heart of Thomas</i></a> (manga) at <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a>'s encyclopedia</li>
+<li><a rel="nofollow" class="external text" href="http://www.studio-life.com/stage/toma/"><i>The Heart of Thomas</i></a> theatrical adaptation at Studio Life</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Works_by_Moto_Hagio" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Moto_Hagio" title="Template:Moto Hagio"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Moto_Hagio" title="Template talk:Moto Hagio"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Moto_Hagio&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Works_by_Moto_Hagio" style="font-size:114%;margin:0 4em">Works by <a href="/wiki/Moto_Hagio" title="Moto Hagio">Moto Hagio</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Series</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/The_Poe_Clan" title="The Poe Clan">The Poe Clan</a></i> <small>(1972–1976)</small></li>
+<li><i><a class="mw-selflink selflink">The Heart of Thomas</a></i> <small>(1974)</small></li>
+<li><i><a href="/wiki/They_Were_Eleven" title="They Were Eleven">They Were Eleven</a></i> <small>(1975)</small></li>
+<li><i><a href="/wiki/Marginal_(manga)" title="Marginal (manga)">Marginal</a></i> <small>(1985–1987)</small></li>
+<li><i><a href="/wiki/Iguana_Girl" title="Iguana Girl">Iguana Girl</a></i> <small>(1992)</small></li>
+<li><i><a href="/wiki/A_Cruel_God_Reigns" title="A Cruel God Reigns">A Cruel God Reigns</a></i>  <small>(1993–2001)</small></li>
+<li><i><a href="/wiki/Otherworld_Barbara" title="Otherworld Barbara">Otherworld Barbara</a></i> <small>(2002–2005)</small></li>
+<li><i><a href="/wiki/Nanohana_(manga)" title="Nanohana (manga)">Nanohana</a></i> <small>(2011–2012)</small></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Anthologies</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/A,_A_Prime" title="A, A Prime">A, A Prime</a></i> <small>(1981)</small></li>
+<li><i><a href="/wiki/Four_Sh%C5%8Djo_Stories" title="Four Shōjo Stories">Four Shōjo Stories</a></i> <small>(1996)</small></li>
+<li><i><a href="/wiki/A_Drunken_Dream_and_Other_Stories" title="A Drunken Dream and Other Stories">A Drunken Dream and Other Stories</a></i> <small>(2010)</small></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Character designs</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Toki_no_Tabibito:_Time_Stranger" title="Toki no Tabibito: Time Stranger">Toki no Tabibito: Time Stranger</a></i> <small>(1986)</small></li>
+<li><i><a href="/wiki/Illusion_of_Gaia" title="Illusion of Gaia">Illusion of Gaia</a></i> <small>(1993)</small></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Sho-Comi" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Sho-Comi" title="Template:Sho-Comi"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Sho-Comi" title="Template talk:Sho-Comi"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Sho-Comi&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Sho-Comi" style="font-size:114%;margin:0 4em"><i><a href="/wiki/Sho-Comi" title="Sho-Comi">Sho-Comi</a></i></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">1960s–1970s</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a class="mw-selflink selflink">The Heart of Thomas</a></i> (1974–1975)</li>
+<li><i><a href="/wiki/Cyborg_009" title="Cyborg 009">Cyborg 009</a></i> (1975–1976)</li>
+<li><i><a href="/wiki/Kaze_to_Ki_no_Uta" title="Kaze to Ki no Uta">Kaze to Ki no Uta</a></i> (1976–1981)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">1980s</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Hiatari_Ry%C5%8Dk%C5%8D!" title="Hiatari Ryōkō!">Hiatari Ryōkō!</a></i> (1980–1981)</li>
+<li><i><a href="/wiki/Georgie!" title="Georgie!">Georgie!</a></i> (1982–1984)</li>
+<li><i><a href="/wiki/Purple_Eyes_in_the_Dark" title="Purple Eyes in the Dark">Purple Eyes in the Dark</a></i> (1984–1987)</li>
+<li><i><a href="/wiki/Boyfriend_(manga)" title="Boyfriend (manga)">Boyfriend</a></i> (1985–1988)</li>
+<li><i><a href="/wiki/Momoka_Typhoon" title="Momoka Typhoon">Momoka Typhoon</a></i> (1987–1989)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">1990s</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Ao_no_F%C5%ABin" title="Ao no Fūin">Ao no Fūin</a></i> (1991–1994)</li>
+<li><i><a href="/wiki/Fushigi_Y%C3%BBgi" title="Fushigi Yûgi">Fushigi Yûgi</a></i> (1991–1996)</li>
+<li><i><a href="/wiki/Red_River_(manga)" title="Red River (manga)">Red River</a></i> (1995–2002)</li>
+<li><i><a href="/wiki/Tokyo_Juliet_(manga)" title="Tokyo Juliet (manga)">Tokyo Juliet</a></i> (1996–1999)</li>
+<li><i><a href="/wiki/Ceres,_Celestial_Legend" title="Ceres, Celestial Legend">Ceres, Celestial Legend</a></i> (1996–2000)</li>
+<li><i><a href="/wiki/Kiss_in_the_Blue" class="mw-redirect" title="Kiss in the Blue">Kiss in the Blue</a></i> (1997–1998)</li>
+<li><i><a href="/wiki/Sensual_Phrase" title="Sensual Phrase">Sensual Phrase</a></i> (1997–2000)</li>
+<li><i><a href="/wiki/Wild_Act" title="Wild Act">Wild Act</a></i> (1998–2000)</li>
+<li><i><a href="/wiki/Appare_Jipangu!" title="Appare Jipangu!">Appare Jipangu!</a></i> (1998–2003)</li>
+<li><i><a href="/wiki/Binetsu_Sh%C5%8Djo" title="Binetsu Shōjo">Binetsu Shōjo</a></i> (1999–2001)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2000s</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Imadoki!" title="Imadoki!">Imadoki!</a></i> (2000–2001)</li>
+<li><i><a href="/wiki/Alice_19th" title="Alice 19th">Alice 19th</a></i> (2001–2003)</li>
+<li><i><a href="/wiki/Kare_First_Love" title="Kare First Love">Kare First Love</a></i> (2002–2004)</li>
+<li><i><a href="/wiki/Shinju_no_Kusari" class="mw-redirect" title="Shinju no Kusari">Shinju no Kusari</a></i> (2002)</li>
+<li><i><a href="/wiki/Boku_wa_Im%C5%8Dto_ni_Koi_o_Suru" title="Boku wa Imōto ni Koi o Suru">Boku wa Imōto ni Koi o Suru</a></i> (2003–2005)</li>
+<li><i><a href="/wiki/Absolute_Boyfriend" title="Absolute Boyfriend">Absolute Boyfriend</a></i> (2003–2005)</li>
+<li><i><a href="/wiki/Happy_Hustle_High" title="Happy Hustle High">Happy Hustle High</a></i> (2004–2005)</li>
+<li><i><a href="/wiki/Love_Celeb" title="Love Celeb">Love Celeb</a></i> (2004–2006)</li>
+<li><i><a href="/wiki/Honey_%C3%97_Honey_Drops" title="Honey × Honey Drops">Honey × Honey Drops</a></i> (2004–2006)</li>
+<li><i><a href="/wiki/Punch!" title="Punch!">Punch!</a></i> (2005–2006)</li>
+<li><i><a href="/wiki/Boku_no_Hatsukoi_o_Kimi_ni_Sasagu" class="mw-redirect" title="Boku no Hatsukoi o Kimi ni Sasagu">Boku no Hatsukoi o Kimi ni Sasagu</a></i> (2005–2008)</li>
+<li><i><a href="/wiki/Uwasa_no_Midori-kun!!" title="Uwasa no Midori-kun!!">Uwasa no Midori-kun!!</a></i> (2006–2008)</li>
+<li><i><a href="/wiki/Ky%C5%8D,_Koi_o_Hajimemasu" title="Kyō, Koi o Hajimemasu">Kyō, Koi o Hajimemasu</a></i> (2007–2014)</li>
+<li><i><a href="/wiki/Gaba_Kawa" title="Gaba Kawa">Gaba Kawa</a></i> (2007)</li>
+<li><i><a href="/wiki/Suki_Desu_Suzuki-kun!!" title="Suki Desu Suzuki-kun!!">Suki Desu Suzuki-kun!!</a></i> (2008–2012)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2010s</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Flower_and_the_Beast" title="Flower and the Beast">Flower and the Beast</a></i> (2010–2012)</li>
+<li><i><a href="/wiki/Hachimitsu_ni_Hatsukoi" title="Hachimitsu ni Hatsukoi">Hachimitsu ni Hatsukoi</a></i> (2012–2015)</li>
+<li><i><a href="/wiki/So_Cute_it_Hurts!!" title="So Cute it Hurts!!">So Cute it Hurts!!</a></i> (2012–2015)</li>
+<li><i><a href="/wiki/Miseinen_Dakedo_Kodomo_Janai" title="Miseinen Dakedo Kodomo Janai">Miseinen Dakedo Kodomo Janai</a></i> (2012–2016)</li>
+<li><i><a href="/wiki/True_Love_(manga)" title="True Love (manga)">True Love</a></i> (2013–2015)</li>
+<li><i><a href="/wiki/Anoko_no_Toriko" title="Anoko no Toriko">Anoko no Toriko</a></i> (2013–2014)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Shogakukan" title="Shogakukan">Shogakukan</a></li>
+<li><i><a href="/wiki/Betsucomi" title="Betsucomi">Betsucomi</a></i></li>
+<li><i><a href="/wiki/Cheese!" title="Cheese!">Cheese!</a></i></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Petit_Flower" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Petit_Flower" title="Template:Petit Flower"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Petit_Flower" title="Template talk:Petit Flower"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Petit_Flower&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Petit_Flower" style="font-size:114%;margin:0 4em"><i><a href="/wiki/Petit_Flower" title="Petit Flower">Petit Flower</a></i></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">1980s</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a class="mw-selflink selflink">The Visitor</a></i> (1980)</li>
+<li><i><a href="/wiki/Kaze_to_Ki_no_Uta" title="Kaze to Ki no Uta">Kaze to Ki no Uta</a></i> (1981–1984) <img alt="dagger" src="//upload.wikimedia.org/wikipedia/commons/3/37/Dagger-14-plain.png" decoding="async" width="9" height="14" data-file-width="9" data-file-height="14" /></li>
+<li><i><a href="/wiki/A,_A_Prime" title="A, A Prime">4/4</a></i> (1983)</li>
+<li><i><a href="/wiki/Fancy_Dance_(manga)" title="Fancy Dance (manga)">Fancy Dance</a></i> (1984–1990)</li>
+<li><i><a href="/wiki/A,_A_Prime" title="A, A Prime">X+Y</a></i> (1984)</li>
+<li><i><a href="/wiki/Marginal_(manga)" title="Marginal (manga)">Marginal</a></i> (1985–1987)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">1990s</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Iguana_Girl" title="Iguana Girl">Iguana Girl</a></i> (1992)</li>
+<li><i><a href="/wiki/A_Cruel_God_Reigns" title="A Cruel God Reigns">A Cruel God Reigns</a></i> (1993–2001)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2000s</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Amakusa_1637" title="Amakusa 1637">Amakusa 1637</a></i> (2000–2002) <img alt="dagger" src="//upload.wikimedia.org/wikipedia/commons/3/37/Dagger-14-plain.png" decoding="async" width="9" height="14" data-file-width="9" data-file-height="14" /></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Flowers_(magazine)" title="Flowers (magazine)">Flowers</a></i></li>
+<li><a href="/wiki/Shogakukan" title="Shogakukan">Shogakukan</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><img alt="dagger" src="//upload.wikimedia.org/wikipedia/commons/3/37/Dagger-14-plain.png" decoding="async" width="9" height="14" data-file-width="9" data-file-height="14" /> Indicates titles that began or continued serialization in other magazines</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Fantagraphics_translations" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826"/><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Fantagraphics_translations" title="Template:Fantagraphics translations"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Fantagraphics_translations" title="Template talk:Fantagraphics translations"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Fantagraphics_translations&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Fantagraphics_translations" style="font-size:114%;margin:0 4em"><a href="/wiki/Fantagraphics_Books" class="mw-redirect" title="Fantagraphics Books">Fantagraphics</a> translations</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Series</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Epileptic_(comics)" title="Epileptic (comics)">Epileptic</a></i></li>
+<li><i><a class="mw-selflink selflink">The Heart of Thomas</a></i></li>
+<li><i><a href="/wiki/Nijigahara_Holograph" title="Nijigahara Holograph">Nijigahara Holograph</a></i></li>
+<li><i><a href="/wiki/Lewis_Trondheim" title="Lewis Trondheim">The Nimrod</a></i></li>
+<li><i><a href="/wiki/Otherworld_Barbara" title="Otherworld Barbara">Otherworld Barbara</a></i></li>
+<li><i><a href="/wiki/The_Poe_Clan" title="The Poe Clan">The Poe Clan</a></i></li>
+<li><i><a href="/wiki/Wandering_Son" title="Wandering Son">Wandering Son</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Anthologies</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/A_Drunken_Dream_and_Other_Stories" title="A Drunken Dream and Other Stories">A Drunken Dream and Other Stories</a></i></li>
+<li><i><a href="/wiki/Massive:_Gay_Erotic_Manga_and_the_Men_Who_Make_It" title="Massive: Gay Erotic Manga and the Men Who Make It">Massive: Gay Erotic Manga and the Men Who Make It</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Creators</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Jason_(cartoonist)" title="Jason (cartoonist)">Jason</a></li>
+<li><a href="/wiki/Moto_Hagio" title="Moto Hagio">Moto Hagio</a></li>
+<li><a href="/wiki/Takako_Shimura" title="Takako Shimura">Takako Shimura</a></li>
+<li><a href="/wiki/Jacques_Tardi" title="Jacques Tardi">Tardi</a></li>
+<li><a href="/wiki/Lewis_Trondheim" title="Lewis Trondheim">Lewis Trondheim</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p class="mw-empty-elt">
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw1284
+Cached time: 20210505190915
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 1.933 seconds
+Real time usage: 2.222 seconds
+Preprocessor visited node count: 12048/1000000
+Post‐expand include size: 197497/2097152 bytes
+Template argument size: 16851/2097152 bytes
+Highest expansion depth: 23/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 153759/5000000 bytes
+Lua time usage: 1.090/10.000 seconds
+Lua memory usage: 29417883/52428800 bytes
+Lua Profile:
+    Scribunto_LuaSandboxCallback::callParserFunction                 320 ms       23.9%
+    ?                                                                220 ms       16.4%
+    Scribunto_LuaSandboxCallback::getExpandedArgument                120 ms        9.0%
+    recursiveClone <mwInit.lua:41>                                   120 ms        9.0%
+    dataWrapper <mw.lua:668>                                          80 ms        6.0%
+    Scribunto_LuaSandboxCallback::match                               40 ms        3.0%
+    byte                                                              40 ms        3.0%
+    match                                                             40 ms        3.0%
+    (for generator)                                                   40 ms        3.0%
+    Scribunto_LuaSandboxCallback::getAllExpandedArguments             40 ms        3.0%
+    [others]                                                         280 ms       20.9%
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1929.239      1 -total
+ 30.94%  596.974    122 Template:Sfn
+ 22.84%  440.596      5 Template:Infobox
+ 19.67%  379.507      1 Template:Infobox_animanga/Header
+ 13.04%  251.582      1 Template:Reflist
+ 11.70%  225.723      1 Template:Nihongo2
+ 10.80%  208.267     19 Template:Cite_web
+ 10.36%  199.867      1 Template:Lang
+  5.50%  106.185    137 Template:Main_other
+  4.93%   95.133      1 Template:Ubl
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:18506409-0!canonical and timestamp 20210505190932 and revision id 1021625129. Serialized with JSON.
+ -->
+
+<!-- Saved in parser cache with key enwiki:stable-pcache:idhash:18506409-0!canonical and timestamp 20210505190937 and revision id 1021625129. Serialized with JSON.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=The_Heart_of_Thomas&amp;oldid=1021625129">https://en.wikipedia.org/w/index.php?title=The_Heart_of_Thomas&amp;oldid=1021625129</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Manga_series" title="Category:Manga series">Manga series</a></li><li><a href="/wiki/Category:1974_manga" title="Category:1974 manga">1974 manga</a></li><li><a href="/wiki/Category:Moto_Hagio" title="Category:Moto Hagio">Moto Hagio</a></li><li><a href="/wiki/Category:Romance_anime_and_manga" title="Category:Romance anime and manga">Romance anime and manga</a></li><li><a href="/wiki/Category:Shogakukan_manga" title="Category:Shogakukan manga">Shogakukan manga</a></li><li><a href="/wiki/Category:Sh%C5%8Djo_manga" title="Category:Shōjo manga">Shōjo manga</a></li><li><a href="/wiki/Category:Sh%C5%8Dnen-ai_anime_and_manga" title="Category:Shōnen-ai anime and manga">Shōnen-ai anime and manga</a></li><li><a href="/wiki/Category:Manga_adapted_into_films" title="Category:Manga adapted into films">Manga adapted into films</a></li><li><a href="/wiki/Category:Fantagraphics_Books_titles" title="Category:Fantagraphics Books titles">Fantagraphics Books titles</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Japanese-language_sources_(ja)" title="Category:CS1 Japanese-language sources (ja)">CS1 Japanese-language sources (ja)</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_March_2021" title="Category:Use mdy dates from March 2021">Use mdy dates from March 2021</a></li><li><a href="/wiki/Category:Use_American_English_from_January_2021" title="Category:Use American English from January 2021">Use American English from January 2021</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_written_in_American_English" title="Category:All Wikipedia articles written in American English">All Wikipedia articles written in American English</a></li><li><a href="/wiki/Category:Articles_containing_Japanese-language_text" title="Category:Articles containing Japanese-language text">Articles containing Japanese-language text</a></li><li><a href="/wiki/Category:Anime_and_manga_articles_with_malformed_first_and_last_infobox_parameters" title="Category:Anime and manga articles with malformed first and last infobox parameters">Anime and manga articles with malformed first and last infobox parameters</a></li><li><a href="/wiki/Category:Anime_and_manga_articles_with_missing_author_parameters" title="Category:Anime and manga articles with missing author parameters">Anime and manga articles with missing author parameters</a></li><li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li><li><a href="/wiki/Category:Featured_articles" title="Category:Featured articles">Featured articles</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=The+Heart+of+Thomas" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Heart+of+Thomas" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/The_Heart_of_Thomas" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:The_Heart_of_Thomas" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/The_Heart_of_Thomas">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=The_Heart_of_Thomas&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=The_Heart_of_Thomas&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" >
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search"/>
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label" class="vector-menu-heading">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/The_Heart_of_Thomas" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/The_Heart_of_Thomas" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=The_Heart_of_Thomas&amp;oldid=1021625129" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=The_Heart_of_Thomas&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=The_Heart_of_Thomas&amp;id=1021625129&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1057361" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=The_Heart_of_Thomas&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=The_Heart_of_Thomas&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" class="vector-menu-heading">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Thomas_no_Shinz%C5%8D" title="Thomas no Shinzō – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://fr.wikipedia.org/wiki/Le_C%C5%93ur_de_Thomas" title="Le Cœur de Thomas – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%86%A0%EB%A7%88%EC%9D%98_%EC%8B%AC%EC%9E%A5" title="토마의 심장 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Il_cuore_di_Thomas" title="Il cuore di Thomas – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%BC%E3%83%9E%E3%81%AE%E5%BF%83%E8%87%93" title="トーマの心臓 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Thomas_no_Shinz%C5%8D" title="Thomas no Shinzō – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1057361#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 5 May 2021, at 19:09<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=The_Heart_of_Thomas&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.933","walltime":"2.222","ppvisitednodes":{"value":12048,"limit":1000000},"postexpandincludesize":{"value":197497,"limit":2097152},"templateargumentsize":{"value":16851,"limit":2097152},"expansiondepth":{"value":23,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":153759,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00% 1929.239      1 -total"," 30.94%  596.974    122 Template:Sfn"," 22.84%  440.596      5 Template:Infobox"," 19.67%  379.507      1 Template:Infobox_animanga/Header"," 13.04%  251.582      1 Template:Reflist"," 11.70%  225.723      1 Template:Nihongo2"," 10.80%  208.267     19 Template:Cite_web"," 10.36%  199.867      1 Template:Lang","  5.50%  106.185    137 Template:Main_other","  4.93%   95.133      1 Template:Ubl"]},"scribunto":{"limitreport-timeusage":{"value":"1.090","limit":"10.000"},"limitreport-memusage":{"value":29417883,"limit":52428800},"limitreport-logs":"anchor_id_list = table#1 {\n  [\"CITEREFAnan2016\"] = 1,\n  [\"CITEREFBaehr2011\"] = 1,\n  [\"CITEREFBerlatsky2013\"] = 1,\n  [\"CITEREFBrothers2013\"] = 1,\n  [\"CITEREFHagio2012\"] = 1,\n  [\"CITEREFHagio2013\"] = 1,\n  [\"CITEREFHagio2019\"] = 1,\n  [\"CITEREFHagio2020\"] = 1,\n  [\"CITEREFHemmann2020\"] = 1,\n  [\"CITEREFHori2013\"] = 1,\n  [\"CITEREFLoveridge2019\"] = 1,\n  [\"CITEREFMaréchal2001\"] = 1,\n  [\"CITEREFMatsui1993\"] = 1,\n  [\"CITEREFNagaike2012\"] = 1,\n  [\"CITEREFNakagawa2019a\"] = 1,\n  [\"CITEREFNakagawa2019b\"] = 1,\n  [\"CITEREFRandall2003\"] = 1,\n  [\"CITEREFShamoon2012\"] = 1,\n  [\"CITEREFShamoon2020\"] = 1,\n  [\"CITEREFShiokawa1999\"] = 1,\n  [\"CITEREFSilverman2013\"] = 1,\n  [\"CITEREFSuzuki2015\"] = 1,\n  [\"CITEREFTakamine2014\"] = 1,\n  [\"CITEREFTamura2019\"] = 1,\n  [\"CITEREFTaylor2006\"] = 1,\n  [\"CITEREFThompson2012\"] = 1,\n  [\"CITEREFThorn2005\"] = 1,\n  [\"CITEREFThorn2010\"] = 1,\n  [\"CITEREFToku2004\"] = 1,\n  [\"CITEREFWakabayashi2020\"] = 1,\n  [\"CITEREFWelker2006\"] = 1,\n  [\"CITEREFWelker2015a\"] = 1,\n  [\"CITEREFWelker2015b\"] = 1,\n}\ntemplate_list = table#1 {\n  [\"!\"] = 4,\n  [\"Ann\"] = 1,\n  [\"Citation\"] = 1,\n  [\"Cite book\"] = 10,\n  [\"Cite encyclopedia\"] = 2,\n  [\"Cite journal\"] = 13,\n  [\"Cite press release\"] = 1,\n  [\"Cite web\"] = 19,\n  [\"Colbegin\"] = 1,\n  [\"Colend\"] = 1,\n  [\"DEFAULTSORT:Heart of Thomas, The\"] = 1,\n  [\"End date\"] = 1,\n  [\"English manga publisher\"] = 1,\n  [\"Fantagraphics translations\"] = 1,\n  [\"Featured article\"] = 1,\n  [\"Ill\"] = 8,\n  [\"Infobox animanga/Footer\"] = 1,\n  [\"Infobox animanga/Header\"] = 1,\n  [\"Infobox animanga/Other\"] = 2,\n  [\"Infobox animanga/Print\"] = 1,\n  [\"Main\"] = 1,\n  [\"Moto Hagio\"] = 1,\n  [\"Nihongo\"] = 22,\n  [\"Petit Flower\"] = 1,\n  [\"Quote\"] = 1,\n  [\"Refbegin\"] = 1,\n  [\"Refend\"] = 1,\n  [\"Reflist\"] = 1,\n  [\"Sfn\"] = 122,\n  [\"Sho-Comi\"] = 1,\n  [\"Short description\"] = 1,\n  [\"Start date\"] = 1,\n  [\"Ubl\"] = 1,\n  [\"Use American English\"] = 1,\n  [\"Use mdy dates\"] = 1,\n}\narticle_whitelist = table#1 {\n}\ntable#1 {\n  [\"size\"] = \"tiny\",\n}\n","limitreport-profile":[["Scribunto_LuaSandboxCallback::callParserFunction","320","23.9"],["?","220","16.4"],["Scribunto_LuaSandboxCallback::getExpandedArgument","120","9.0"],["recursiveClone \u003CmwInit.lua:41\u003E","120","9.0"],["dataWrapper \u003Cmw.lua:668\u003E","80","6.0"],["Scribunto_LuaSandboxCallback::match","40","3.0"],["byte","40","3.0"],["match","40","3.0"],["(for generator)","40","3.0"],["Scribunto_LuaSandboxCallback::getAllExpandedArguments","40","3.0"],["[others]","280","20.9"]]},"cachereport":{"origin":"mw1284","timestamp":"20210505190915","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"The Heart of Thomas","url":"https:\/\/en.wikipedia.org\/wiki\/The_Heart_of_Thomas","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1057361","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1057361","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-07-19T23:54:22Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/aa\/Heart_of_Thomas_Moto_Hagio.jpg","headline":"Japanese manga"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":201,"wgHostname":"mw1405"});});</script>
+</body></html>
