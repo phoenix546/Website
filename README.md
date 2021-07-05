@@ -1,193 +1,84 @@
-# Portfolio one page template - ARCHIVED
+# [Start Bootstrap - Freelancer](https://startbootstrap.com/theme/freelancer/)
 
-Flat and responsive website template, designed and coded by [Maxim Orlov](https://github.com/orlovmax).
+[Freelancer](https://startbootstrap.com/theme/freelancer/) is a one page, freelancer portfolio theme built with [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid, modal windows for each portfolio item, and a working PHP based contact form.
 
-Demo: [http://website-templates.github.io/portfolio_one-page-template](http://website-templates.github.io/portfolio_one-page-template/)
+## Preview
 
-![Mockup demo](screenshots/pic.jpg)
-Product mockup created with [http://magicmockups.com/](http://magicmockups.com/)
+[![Freelancer Preview](https://assets.startbootstrap.com/img/screenshots/themes/freelancer.png)](https://startbootstrap.github.io/startbootstrap-freelancer/)
 
-## Contents
+**[View Live Preview](https://startbootstrap.github.io/startbootstrap-freelancer/)**
 
-- [Folder and file structure](#folder-and-file-structure)
-- [Requirements:](#requirements)
-    - [Editorconfig](#editorconfig)
-- [How to start](#how-to-start)
-- [Site configuration](#site-configuration)
-- [Tasks](#tasks)
-    - [Cleanup](#cleanup)
-    - [Dev](#dev)
-    - [Build](#build)
-    - [Rebuild](#rebuild)
-    - [Server](#server)
-    - [Sprite](#sprite)
-- [Live reload](#live-reload)
-- [License](#license)
+## Status
 
-## Folder and file structure
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-freelancer/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/startbootstrap-freelancer.svg)](https://www.npmjs.com/package/startbootstrap-freelancer)
+[![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-freelancer/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-freelancer)
+[![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-freelancer/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-freelancer?type=dev)
 
-```
-./
-├── .editorconfig
-├── gulpfile.js
-├── package.json
-├── README.md
-|
-├── gulp_tasks/                                * gulp tasks
-|   ├── config/                                * gulp tasks config
-│   |   ├── paths.js
-│   |   └── aliases.js
-│   |
-|   └── task.js
-|
-├── screenshots/                               * responsive test screenshots
-|
-├── dev/                                       * site source
-│   ├── images/                                * image sources
-|   │
-│   ├── pug/                                   * templates
-|   |   ├── blocks/                            * blocks library
-|   │   |   └── block.pug
-|   │   ├── helpers/                           * helper mixins
-|   │   ├── vendor/                            * third-party code
-|   │   ├── layouts/                           * page layouts
-|   │   └── pages/                             * main pages templates
-|   │
-│   ├── js/                                    * source js
-|   |   ├── vendor/                            * vendor scripts library
-|   |   ├── lib/                               * site scripts library
-|   │   ├── head.js                            * head scripts
-|   │   └── body.js                            * body scripts
-|   │
-|   ├── sass/                                  * sass preprocessor styles
-|   |   ├── blocks/                            * blocks library
-|   │   |   └── block.sass
-|   │   ├── helpers/                           * mixins and vars
-|   │   ├── vendor/                            * third-party code
-|   │   ├── custom.sass
-|   │   ├── noscript.sass
-|   │   └── screen.sass
-|   │
-│   ├── helpers/                               * helper files
-|   |   ├── favicon.ico
-|   |   └── .htaccess
-|   │
-│   ├── fonts/                                 * font sources
-|   │
-│   └── data/                                  * configs and data for templates
-│
-└── build/                                     * built source
-    ├── index.html
-    ├── page.html
-    |
-    └── static/                                * static assets
-        ├── css/                               * minified styles
-        |
-        ├── images/                            * minified images
-        │
-        ├── js/                                * minified assembled js
-        |
-        └── fonts/                             * @font-face-ready webfonts
+## Download and Installation
 
-```
+To begin using this template, choose one of the following options to get started:
 
-## Requirements
+- [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/freelancer/)
+- Install using npm: `npm i startbootstrap-freelancer`
+- Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-freelancer.git`
+- [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-freelancer)
 
-- [Node.js](http://nodejs.org/)
-- Build sytem: [Grunt](http://gruntjs.com/) or [Gulp](http://gulpjs.com/)
-- Optionally:
-  * [Editorconfig](http://editorconfig.org/)
+## Usage
 
-#### Editorconfig
+### Basic Usage
 
-This project has an .editorconfig file at the root. It describes indent style, trailing whitespaces etc. See more details [here](http://editorconfig.org/)
+After downloading, simply edit the HTML and CSS files included with `dist` directory. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
-## How to start
+### Advanced Usage
 
-If you haven't used [Gulp](http://gulpjs.com/) before, be sure to check out the [Getting Started]([https://github.com/gulpjs/gulp/blob/master/docs/README.md](https://gulpjs.com/docs/en/getting-started/quick-start)) guide, also check these [recips](https://github.com/gulpjs/gulp/tree/master/docs/recipes#recipes)
+Clone the source files of the theme and navigate into the theme's root directory. Run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `package.json` file to see which scripts are included.
 
-Before start you need to have installed _npm_ , as well as _gulp_ globally.
+#### npm Scripts
 
-**A few simple steps to start:**
-* Install dependencies from `package.json` by running: `npm install`.
-* Run tasks from the list below and start devevelopment!
-* Edit general settings in `dev/data/config.json` See [Site configuration](#site-configuration) section
+- `npm run build` builds the project - this builds assets, HTML, JS, and CSS into `dist`
+- `npm run build:assets` copies the files in the `src/assets/` directory into `dist`
+- `npm run build:pug` compiles the Pug located in the `src/pug/` directory into `dist`
+- `npm run build:scripts` brings the `src/js/scripts.js` file into `dist`
+- `npm run build:scss` compiles the SCSS files located in the `src/scss/` directory into `dist`
+- `npm run clean` deletes the `dist` directory to prepare for rebuilding the project
+- `npm run start:debug` runs the project in debug mode
+- `npm start` or `npm run start` runs the project, launches a live preview in your default browser, and watches for changes made to files in `src`
 
-## Site configuration
+You must have npm installed in order to use this build environment.
 
-This boilerplate uses Pug templates with external data configs.
-Main settings can be found in `dev/data/config.json` file. And they're available for usage in templates with `config.key-name`
+### Contact Form
 
-## Tasks
+The contact form available with this theme is prebuilt to use [SB Forms](https://startbootstrap.com/solution/contact-forms).
+SB Forms is a simple form solution for adding functional forms to your theme. Since this theme is prebuilt using our
+SB Forms markup, all you need to do is sign up for [SB Forms on Start Bootstrap](https://startbootstrap.com/solution/contact-forms).
 
-Here comes groups ofgulp tasks with some explanations
+After signing up you will need to set the domain name your form will be used on, and you will then see your
+access key. Copy this and paste it into the `data-sb-form-api-token='API_TOKEN'` data attribute in place of
+`API_TOKEN`. That's it! Your forms will be up and running!
 
-#### Cleanup
+If you aren't using SB Forms, simply delete the custom data attributes from the form, and remove the link above the
+closing `</body>` tag to SB Forms.
 
-Remove placeholders from work directories.
-Gulp: `gulp cleanup`
+## Bugs and Issues
 
-* Remove gitkeep files
+Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-freelancer/issues) here on GitHub or leave a comment on the [theme overview page at Start Bootstrap](https://startbootstrap.com/theme/freelancer/).
 
-#### Dev
+## About
 
-Dev task with static server.
-Gulp: `gulp dev`
+Start Bootstrap is an open source library of free Bootstrap themes and templates. All of the free themes and templates on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
-* Bundle javascripts
-* Compile Sass stylesheets
-* Add vendor prefixes in css
-* Combine media queries in css files
-* Compile Pug templates
-* Sync helpers and other assets
-* Sync fonts
-* Sync images
-* Run BrowserSync static server with live reload using
-* Watch for changes and run dev task
+- <https://startbootstrap.com>
+- <https://twitter.com/SBootstrap>
 
+Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**.
 
-#### Build
+- <https://davidmiller.io>
+- <https://twitter.com/davidmillerhere>
+- <https://github.com/davidtmiller>
 
-Build task.
-Gulp: `gulp build`
+Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-* Minify images
-* Minify javascript files
-* Minify stylesheets
-* Minify html
-* Run BrowserSync static server
+## Copyright and License
 
-
-#### Rebuild
-
-Regenerate and build project by running all tasks.
-Gulp: `gulp rebuild`
-
-* Bundle javascripts
-* Compile Sass stylesheets
-* Add vendor prefixes in css
-* Combine media queries in css files
-* Compile Pug templates
-* Sync helpers and other assets
-* Sync fonts
-* Sync images
-* Minify images
-* Minify javascript files
-* Minify stylesheets
-* Minify html
-
-
-#### Server
-
-Run server without watching for changes.
-Gulp: `gulp server`
-
-* Run BrowserSync static server
-
-
-## Live reload
-
-This project uses BrowserSync as static server with enabled and configured live reload option.
-
-## License
-[MIT](https://github.com/website-templates/portfolio_one-page-template/blob/master/LICENSE.md)
+Copyright 2013-2021 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-freelancer/blob/master/LICENSE) license.
